@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="float:left; margin-left: 20px; margin-top: 20px; width: 45%;" src="public/avatar.jpg" />
+<img style="float:left; margin-left: 20px; margin-top: 20px; width: 45%;" src="https://github.com/Neo-Hao/neo-hao.github.io/public/avatar.jpg" />
 
 Qiang Hao is a Ph.D. student majored in Learning, Design and Technology at University of Georgia.
 
