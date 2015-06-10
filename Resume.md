@@ -56,9 +56,14 @@ title: Resume
 
 * Hao, Q,. & Lu, J. (2012). The Assessment of Self-Regulated Learning: Where We Are Today. Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
-# Workshop
+### Workshop
 
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop at College of Journalism and Mass Communication, University of Georgia.
+
+### Software
+
+* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
+* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
 
 ## Teaching Experience
 
