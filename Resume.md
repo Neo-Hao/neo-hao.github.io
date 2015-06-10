@@ -18,33 +18,37 @@ title: Resume
 ## Working Experience
 
 <strong>August 2013 - Current, Leading Developer</strong>, Graduate School, University of Georgia
+
 * Major Duty: Development and Maintenance of <a href="grad.uga.edu">Graduate School Websites</a> and other websites under Graduate School
 
 <strong>August 2013 - Current, Graduate Assistant and Research Fellow</strong>, Learning, Design and Technology, University of Georgia
 
 <strong>March 2015 - Current, Social Media Manager</strong>, Association for the Advancement of Computing in Education (AACE)
+
 * Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/">AACE Blog</a>
 * Major Duty: Management of Social Media of AACE
 
 <strong>May 2014 - August 2014, Website Developer</strong>, CTAE Resource Network
+
 * Major Duty: Development of <a href="http://gactaern.org/clusters/index.php">CTAE Resrouce Network Site</a>
 
 <strong>March 2013 - August 2013, Research Assistant</strong>, Faculty of Education, The University of Hong Kong
+
 * Major Duty: Literature Review and Data analysis
 
 ## Scholarly Contributions
 
-# Journal Articles
+### Journal Articles
 
 * Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Journal of Computers in Education, 1-18.
 
-# Manuscripts under review
+### Manuscripts under review
 
 * Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment
 
 * Hao. Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty
 
-# Conferenece Presentations
+### Conferenece Presentations
 
 * Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia.
 
