@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img style="float:left; margin-left: 20px; margin-top: 20px; width: 45%;" src="public/avatar.jpg" />
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Qiang Hao is a Ph.D. student majored in Learning, Design and Technology at University of Georgia.
 
-There are currently two themes built on Poole:
+## Biography
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Qiang received his B.A. from China Agricultural University, and M.Sc. from University of Hong Kong before starting his doctorial study in University of Georgia.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Qiang's primary research interests in learning sciences, with a focus on how to empower people the capability of self-learning, with the help of technologies. He is working on a series of studies on how people seek help/information online and how to teach people seek help/information effectively.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Outside the academic life, he enjoys coding in different programming languages, playing with cats, and spending time with friends and families.
