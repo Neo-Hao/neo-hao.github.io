@@ -23,6 +23,8 @@ title: Resume
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
 
+* Major Duty: Literature Review and Data analysis
+
 <strong>Social Media Manager</strong>, March 2015 - Current, Association for the Advancement of Computing in Education (AACE)
 
 * Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/">AACE Blog</a>
