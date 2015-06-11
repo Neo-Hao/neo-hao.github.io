@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Résumé
 ---
 
 ## Education
@@ -28,7 +28,7 @@ title: Resume
 <strong>Social Media Manager</strong>, March 2015 - Current, Association for the Advancement of Computing in Education (AACE)
 
 * Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/">AACE Blog</a>
-* Major Duty: Management of Social Media of AACE
+* Major Duty: Social Media Management of AACE
 
 <strong>Website Developer</strong>, May 2014 - August 2014, CTAE Resource Network
 
@@ -60,7 +60,7 @@ title: Resume
 
 ### Workshop
 
-* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop at College of Journalism and Mass Communication, University of Georgia.
+* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for graduate students majored in Journalism at College of Journalism and Mass Communication, University of Georgia.
 
 ### Software
 
