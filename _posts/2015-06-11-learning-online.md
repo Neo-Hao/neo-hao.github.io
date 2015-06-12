@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is It Possible to Learn Anything Online
+title: Is It Possible to Learn Anything Online?
 ---
 
 <div class="message">
@@ -9,7 +9,7 @@ title: Is It Possible to Learn Anything Online
 
 <p>Open learning resources along with web based training and online degree programs on almost every subject have been accumulating at an amazing speed, and become vastly abundant for each individual learner. According to a study conducted by Babson Survey Research Group, at least 30 new courses are released on major MOOC platforms (e.g., Coursera, EdX) every week in 2014, compared with 10 in 2012. Students’ enrollment of online courses is growing even faster. Only 2% of students used to take at least one online course in 2002, <a href="http://www.babson.edu/Academics/centers/blank-center/global-research/Documents/going-the-distance.pdf">in the fall of 2010 this number had increased to 30%</a>. More than 7.1 million students took at least one online course during only fall 2012 . A recent survey by Ambient Insight Research predicts that <a href="http://www.virtual-college.co.uk/news/newsitem.aspx?id=c800745262">the online learning market will rise to $49.9 billion by 2015</a>.</p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 40%;"  src="http://blog.aace.org/files/2015/03/2248644717_ffaeeb8e09_z.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/03/2248644717_ffaeeb8e09_z.jpg">
 
 <p>Is it possible to learn anything online? An effective learner can teach him or herself almost anything with the copious online resources. However, my personal experience in a Massive Open Online Course (MOOC) makes me doubtful whether college students are prepared for this type of learning.</p>
 
@@ -19,6 +19,6 @@ title: Is It Possible to Learn Anything Online
 
 <p>Much of the discussion around MOOCs creates the impression that today’s students are digital natives, held back in our informal learning journeys by outdated brick-and-mortar institutions. My ongoing research and personal experiences tell a different story. In 2014, I conducted  a survey among college students majoring in computer science at the University of Georgia. It included three questions on students’ attitude towards self-directed online learning. </p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 40%;"  src="http://blog.aace.org/files/2015/03/Capture.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/03/Capture.jpg">
 
 <p>Interestingly enough, the low score of first/second year college students indicate that they did not believe that they can learn sophisticated knowledge through online learning. They didn’t like independent learning very much, and also reported less frequent online search in their learning. A possible interpretation of the difference between first/second year college students to fourth year students is that the college experience actually helps us to develop independent online learning behavior. This is a question worth further exploration.</p>
