@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is-It-Possible-to-Learn-Anything-Online
+title: Is It Possible to Learn Anything Online
 ---
 
 <div class="message">
