@@ -22,3 +22,5 @@ title: Is It Possible to Learn Anything Online?
 <img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/03/Capture.jpg">
 
 <p>Interestingly enough, the low score of first/second year college students indicate that they did not believe that they can learn sophisticated knowledge through online learning. They didn’t like independent learning very much, and also reported less frequent online search in their learning. A possible interpretation of the difference between first/second year college students to fourth year students is that the college experience actually helps us to develop independent online learning behavior. This is a question worth further exploration.</p>
+
+{% include disqus.html %}
