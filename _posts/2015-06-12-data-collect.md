@@ -39,11 +39,11 @@ setwd("C:/")
 
 <img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-6.jpg">
 
-## Data Collection Approach 1: Popular hashtags
+### Data Collection Approach 1: Popular hashtags
 
 <p>Some Twitter hashtags are very popular, and different people around the world keep tweeting using these hashtags constantly, like #elearning or #edutech. Some other hashtags, in contrast, may not be as popular, but more relevant and meaningful to a specific community, like the hashtag for SITE conference #siteconf. For tweets with the two different types of hashtags, Twitter weighs and indexes them differently, which requires different approaches for data collection. This section discusses how to collect information for a popular hashtag, using the example #edutech.</p>
 
-### Create a Developer Account and Application on Twitter
+#### Create a Developer Account and Application on Twitter
 
 <p>To collect data from Twitter, you will need a developer account on Twitter first. You can register one at <a href="https://dev.twitter.com/">https://dev.twitter.com/</a>. Once you have a developer account, return to the page and scroll down to the bottom of the page, click “Manage Your Apps” under “Tools”. </p>
 
@@ -63,7 +63,7 @@ setwd("C:/")
 
 <p>The generated consumer keys and secrets would be under the tab “Keys and Access Token”. This piece of information will be important for you to successfully connect to Twitter later on. </p>
 
-### Connection and Data Collection
+#### Connection and Data Collection
 
 <p>If you have finished the installation of R and figured out what working directory is, then you can march ahead towards data collection by connecting to Twitter using R. One reason I love R is that it has a very active community. No matter what statistical calculation you need to do, or what common function you need to run, there’s always a package out there online. A package is a collection of R functions that make your life easier. Instead of writing your own functions for a purpose, you can instead just use the function coded by other people, in this case, a package called “twitteR” that implements Twitter’s APIs and can greatly simplify the code for connecting to Twitter. If you want to know more about the package, please check its manual <a href="http://cran.r-project.org/web/packages/twitteR/twitteR.pdf"><strong>here</strong></a>. </p>
 
@@ -83,7 +83,7 @@ tweetCollect("#statistics", 100, "statistics_from_twitter")
 
 <p>Now you can access your working directory and find a file named statistics_from_twitter.csv. This file contains your data. The above code simply tells R to collect 100 tweets using the following hashtag: #statistics. You can replace the hashtag with whatever you like to explore, and you can also increase or decrease the number of tweets to collect. </p>
 
-## Data Collection Approach 2: Specific hashtags
+### Data Collection Approach 2: Specific hashtags
 
 <p>If the tweets you would like to collect are not using constantly popular hashtag, the first thing you need to do is to search the hashtag using Twitter’s search function. If we would like to, for example, collect most tweets about SITE conference in recent two years using the hashtag “#siteconf”, we can just search the hashtag: </p>
 
@@ -91,7 +91,7 @@ tweetCollect("#statistics", 100, "statistics_from_twitter")
 
 <p>Only most recent data is shown on this page, because Twitter is implementing infinite scrolling. What you need to do is to keep scrolling the page until all the tweets in recent two years show up on one page, and then you can save the HTML page to the working directory of R. </p>
 
-### Data Processing
+#### Data Processing
 
 <p>Technically speaking, the data collection is already finished. However, you still have to process the data before it can be used for future analysis. The goal is to format the tweets in two columns. One column represents the original tweets, while the other represents the processed tweets without the hashtag and hyperlinks. Each row represents tweets from an individual.</p>
 
