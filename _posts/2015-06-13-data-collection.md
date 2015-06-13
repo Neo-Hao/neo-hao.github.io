@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Peek into Text Mining: How to Collect Text Data from Twitter.
+title: A Peek Into Text Mining - How To Collect Text Data From Twitter.
 ---
 
 <div class="message">
