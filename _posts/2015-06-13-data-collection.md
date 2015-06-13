@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Peek Into Text Mining - How To Collect Text Data From Twitter.
+title: A Peek Into Text Mining - How To Collect Text Data From Twitter
 ---
 
 <div class="message">
@@ -9,7 +9,7 @@ title: A Peek Into Text Mining - How To Collect Text Data From Twitter.
 
 <p>In the last 25 years, the Internet has fundamentally changed the way we interact with each other. In 1993 there were only 50 static pages on the World Wide Web. Today, social networking tools alone have billions of active users.</p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/BlogPost3.jpg">
 
 <p>Communication through social networking tools is both bidirectional and many-to-many at the same time. We can keep contact with our friends, friends of friends, and any number of people with shared interests. In these networks, a piece of information can easily travel along many different paths and have unforeseen impact.</p>
 
@@ -37,7 +37,7 @@ getwd()
 setwd("C:/") 
 {% endhighlight %}
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-6.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-6.jpg">
 
 ### Data Collection Approach 1: Popular hashtags
 
@@ -47,19 +47,19 @@ setwd("C:/")
 
 <p>To collect data from Twitter, you will need a developer account on Twitter first. You can register one at <a href="https://dev.twitter.com/">https://dev.twitter.com/</a>. Once you have a developer account, return to the page and scroll down to the bottom of the page, click “Manage Your Apps” under “Tools”. </p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-1.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-1.jpg">
 
 <p>Now, simply click on “Create New Application” button on the following new page: </p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-2.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-2.jpg">
 
 <p>On the application creation page, the only thing you need to remember is to fill the Callback URL as <strong>http://127.0.0.1:1410</strong>.</p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-3.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-3.jpg">
 
 <p>When you finish the creation step, you can check the details of your application: </p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-4.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/BlogPost3-4.jpg">
 
 <p>The generated consumer keys and secrets would be under the tab “Keys and Access Token”. This piece of information will be important for you to successfully connect to Twitter later on. </p>
 
@@ -87,7 +87,7 @@ tweetCollect("#statistics", 100, "statistics_from_twitter")
 
 <p>If the tweets you would like to collect are not using constantly popular hashtag, the first thing you need to do is to search the hashtag using Twitter’s search function. If we would like to, for example, collect most tweets about SITE conference in recent two years using the hashtag “#siteconf”, we can just search the hashtag: </p>
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/Capture.jpg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/Capture.jpg">
 
 <p>Only most recent data is shown on this page, because Twitter is implementing infinite scrolling. What you need to do is to keep scrolling the page until all the tweets in recent two years show up on one page, and then you can save the HTML page to the working directory of R. </p>
 
