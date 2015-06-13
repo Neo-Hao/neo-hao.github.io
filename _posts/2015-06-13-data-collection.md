@@ -102,5 +102,3 @@ getData("#siteconf", "#siteconf - Twitter Search.html", "siteconf_from_twitter.c
 {% endhighlight %}
 
 <p>Now go to your current working directory and find a file named siteconf_from_twitter.csv, and that’s your data. The above code simply tells R to parse the tweets in the HTML file into your specified csv file. You can replace the hashtag with whatever you like to explore, and repeat all the above steps in this section.</p>
-
-{% include disqus.html %}
