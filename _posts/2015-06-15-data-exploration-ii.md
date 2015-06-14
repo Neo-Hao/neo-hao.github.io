@@ -48,6 +48,6 @@ hclusterofwords(data.tm)
 
 Your dendrogram may look like this:
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://blog.aace.org/files/2015/04/cluster.png">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 90%;"  src="http://blog.aace.org/files/2015/04/cluster.png">
 
 You are encouraged to learn more about clustering analysis <a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/" target="_blank">here</a>.
