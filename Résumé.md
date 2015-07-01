@@ -15,6 +15,12 @@ title: Résumé
 * Major: IT in Education
 * Thesis: The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment
 
+<strong>Independent Coursework</strong>
+
+* <a href="https://www.coursera.org/account/accomplishments/records/2GmkAKKbKPGmjSJk">R Programming by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj">Getting and Cleaning Data by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v">Exploratory Data Analysis by Johns Hopkins University on Coursera</a>
+
 ## Working Experience
 
 <strong>Leading Developer</strong>, August 2013 - Current, Graduate School, University of Georgia
