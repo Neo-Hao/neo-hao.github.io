@@ -60,20 +60,24 @@ title: Résumé
 
 * Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia.
 
-* Hao, Q,. & Siu, F. (2012). Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading. Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
+* Hao, Q,. & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
-* Hao, Q,. & Lu, J. (2012). The Assessment of Self-Regulated Learning: Where We Are Today. Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
+* Hao, Q,. & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
+
+### Software
+
+* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
+
+* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
+
+## Teaching Experience
+
+### Assigned Teaching
+
+* January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia
+
+* January 2009- January 2013: English Teacher & Curriculum Developer, New Oriental Education & Technology Group
 
 ### Workshop
 
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for graduate students majored in Journalism at College of Journalism and Mass Communication, University of Georgia.
-
-### Software
-
-* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
-* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
-
-## Teaching Experience
-
-* January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia
-* January 2009- January 2013: English Teacher & Curriculum Developer, New Oriental Education & Technology Group
