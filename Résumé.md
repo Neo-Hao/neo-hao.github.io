@@ -17,6 +17,7 @@ title: Résumé
 
 <strong>Independent Coursework</strong>
 
+* <a href="https://www.coursera.org/account/accomplishments/records/qMhR3qG27WCuLuCt">The Data Scientist’s Toolbox by Johns Hopkins University on Coursera</a>
 * <a href="https://www.coursera.org/account/accomplishments/records/2GmkAKKbKPGmjSJk">R Programming by Johns Hopkins University on Coursera</a>
 * <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj">Getting and Cleaning Data by Johns Hopkins University on Coursera</a>
 * <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v">Exploratory Data Analysis by Johns Hopkins University on Coursera</a>
