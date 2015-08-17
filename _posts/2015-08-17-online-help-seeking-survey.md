@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Survey on College students' Online Help Seeking
+title: Survey on College Students' Online Help Seeking
 ---
 
 ### Section 1
