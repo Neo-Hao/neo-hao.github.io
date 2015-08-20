@@ -67,6 +67,8 @@ title: Résumé
 
 ### Software
 
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/">Prototype tool for facilitating Online Help Seeking among students majored in Computer Science</a> [Computer software]. Athens, GA.
+
 * Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
 
 * Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
@@ -79,9 +81,11 @@ title: Résumé
 
 * August 2015 - December 2015, Teaching Assistant of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
 
+* August 2015 - December 2015, Teaching Assistant of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
+
 * January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
 
-* January 2009- January 2013, English Teacher & Curriculum Developer, New Oriental Education & Technology Group.
+* January 2009 - January 2013, English Teacher & Curriculum Developer, New Oriental Education & Technology Group.
 
 ### Workshop
 
