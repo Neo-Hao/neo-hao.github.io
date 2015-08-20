@@ -75,10 +75,16 @@ title: Résumé
 
 ### Assigned Teaching
 
-* January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia
+* August 2015 - December 2015, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
 
-* January 2009- January 2013: English Teacher & Curriculum Developer, New Oriental Education & Technology Group
+* August 2015 - December 2015, Teaching Assistant of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
+
+* January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
+
+* January 2009- January 2013, English Teacher & Curriculum Developer, New Oriental Education & Technology Group.
 
 ### Workshop
 
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for graduate students majored in Journalism at College of Journalism and Mass Communication, University of Georgia.
+
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/edutextmining/">Online learning analytics on social networking sites: how to tap the potential of data mining in research of educational technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
