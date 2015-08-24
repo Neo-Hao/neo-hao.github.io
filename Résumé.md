@@ -53,9 +53,11 @@ title: Résumé
 
 ### Manuscripts under review
 
-* Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment
+* Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment.
 
-* Hao. Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty.
+
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Prediction of College Students' Online Help-Seeking Behaviors?
 
 ### Conferenece Presentations
 
