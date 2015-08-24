@@ -57,7 +57,7 @@ title: Résumé
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty.
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Prediction of College Students' Online Help-Seeking Behaviors?
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Predictors of College Students' Online Help-Seeking Behaviors?
 
 ### Conferenece Presentations
 
