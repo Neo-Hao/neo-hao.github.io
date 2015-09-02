@@ -70,7 +70,7 @@ title: Résumé
 
 ### Software
 
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/">Prototype tool for facilitating Online Help Seeking among students majored in Computer Science</a> [Computer software]. Athens, GA.
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/">Prototype Tool for Facilitating Online Help Seeking Among Students Majored in Computer Science</a> [Computer software]. Athens, GA.
 
 * Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
 
@@ -92,6 +92,8 @@ title: Résumé
 
 ### Workshop
 
-* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for graduate students majored in Journalism at College of Journalism and Mass Communication, University of Georgia.
+* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/edutextmining/">Online learning analytics on social networking sites: how to tap the potential of data mining in research of educational technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
+* Hao, Q. (2015). Text Analysis and Social Networking sites. Workshop at 2015 Desgin, Develop and Research Conference, Athens, GA.
+
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/edutextmining/">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
