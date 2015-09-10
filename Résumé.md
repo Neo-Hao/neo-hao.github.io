@@ -17,17 +17,17 @@ title: Résumé
 
 <strong>Independent Coursework</strong>
 
-* <a href="https://www.coursera.org/account/accomplishments/records/qMhR3qG27WCuLuCt">The Data Scientist’s Toolbox by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/2GmkAKKbKPGmjSJk">R Programming by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj">Getting and Cleaning Data by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v">Exploratory Data Analysis by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/certificate/TBXLVMUMK8">Reproducible Research by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/qMhR3qG27WCuLuCt" target="_blank">The Data Scientist’s Toolbox by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/2GmkAKKbKPGmjSJk" target="_blank">R Programming by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj" target="_blank">Getting and Cleaning Data by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v" target="_blank">Exploratory Data Analysis by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/TBXLVMUMK8" target="_blank">Reproducible Research by Johns Hopkins University on Coursera</a>
 
 ## Working Experience
 
 <strong>Leading Developer</strong>, August 2013 - Current, Graduate School, University of Georgia
 
-* Major Duty: Development and Maintenance of <a href="grad.uga.edu">Graduate School Websites</a> and other websites under Graduate School
+* Major Duty: Development and Maintenance of <a href="grad.uga.edu" target="_blank">Graduate School Websites</a> and other websites under Graduate School
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
 
@@ -35,12 +35,12 @@ title: Résumé
 
 <strong>Social Media Manager</strong>, March 2015 - Current, Association for the Advancement of Computing in Education (AACE)
 
-* Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/">AACE Blog</a>
+* Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
 * Major Duty: Social Media Management of AACE
 
 <strong>Website Developer</strong>, May 2014 - August 2014, CTAE Resource Network
 
-* Major Duty: Development of <a href="http://gactaern.org/clusters/index.php">CTAE Resrouce Network Site</a>
+* Major Duty: Development of <a href="http://gactaern.org/clusters/index.php" target="_blank">CTAE Resrouce Network Site</a>
 
 <strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
 
@@ -64,17 +64,17 @@ title: Résumé
 
 * Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia.
 
-* Hao, Q,. & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
+* Hao, Q,. & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
-* Hao, Q,. & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
+* Hao, Q,. & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
 
 ### Software
 
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/">Prototype Tool for Facilitating Online Help Seeking Among Students Majored in Computer Science</a> [Computer software]. Athens, GA.
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Prototype Tool for Facilitating Online Help Seeking Among Students Majored in Computer Science</a> [Computer software]. Athens, GA.
 
-* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
+* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
 
-* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
+* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
 
 ## Teaching Experience
 
@@ -92,8 +92,8 @@ title: Résumé
 
 ### Workshop
 
-* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
+* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
-* Hao, Q. (2015). Text Analysis and Social Networking sites. Workshop at 2015 Desgin, Develop and Research Conference, Athens, GA.
+* Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at 2015 Desgin, Develop and Research Conference, Athens, GA.
 
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/edutextmining/">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
