@@ -97,3 +97,15 @@ title: Résumé
 * Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at 2015 Design, Develop and Research Conference, Athens, GA.
 
 * Hao, Q. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
+
+## Award
+
+### Travel Awards
+
+* Student Travel Award. (2015). Graduate School of University of Georgia.
+* Student Travel Award. (2015). Learning, Design and Technology, University of Georgia.
+
+### Graduation Honors
+
+* Graduation with Distinction. (2012). Faculty of Education, The University of Hong Kong.
+* Dean’s Honor List (2012). Faculty of Education, The University of Hong Kong.
