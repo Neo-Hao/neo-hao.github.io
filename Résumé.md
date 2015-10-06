@@ -22,6 +22,7 @@ title: Résumé
 * <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj" target="_blank">Getting and Cleaning Data by Johns Hopkins University on Coursera</a>
 * <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v" target="_blank">Exploratory Data Analysis by Johns Hopkins University on Coursera</a>
 * <a href="https://www.coursera.org/account/accomplishments/certificate/TBXLVMUMK8" target="_blank">Reproducible Research by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/h4CYh7nmUJ4C5WWK" target="_blank">Statistical Inference by Johns Hopkins University on Coursera</a>
 
 ## Working Experience
 
@@ -103,7 +104,7 @@ title: Résumé
 ### Travel Awards
 
 * Student Travel Award. (2015). Graduate School of University of Georgia.
-* Student Travel Award. (2015). Learning, Design and Technology, University of Georgia.
+* Student Travel Award. (2015). Department of Career and Information Studies, University of Georgia.
 
 ### Graduation Honors
 
