@@ -63,7 +63,9 @@ title: Résumé
 
 ### Conference Presentations
 
-* Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia.
+* Branch, R. M., & Hao, Q. (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
+
+* Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia, PA.
 
 * Hao, Q,. & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
