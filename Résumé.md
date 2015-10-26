@@ -47,6 +47,8 @@ title: Résumé
 
 * Major Duty: Literature Review and Data analysis
 
+<strong>ESL Teacher & Curriculum Developer</strong>, January 2009 - January 2013, New Oriental Education & Technology Group.
+
 ## Scholarly Contributions
 
 ### Journal Articles
@@ -90,8 +92,6 @@ title: Résumé
 * August 2015 - December 2015, Teaching Assistant of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
 
 * January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
-
-* January 2009 - January 2013, English Teacher & Curriculum Developer, New Oriental Education & Technology Group.
 
 ### Workshop
 
