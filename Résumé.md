@@ -63,6 +63,8 @@ title: Résumé
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Predictors of College Students' Online Help-Seeking Behaviors?
 
+* Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
+
 ### Conference Presentations
 
 * Branch, R. M., & Hao, Q. (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
