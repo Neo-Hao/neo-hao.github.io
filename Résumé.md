@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Résumé
+title: Curriculum Vitae
 ---
 
 ## Education
@@ -59,13 +59,17 @@ title: Résumé
 
 * Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment.
 
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty.
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting Computer Science Students’ Online Help-Seeking Tendencies.
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Predictors of College Students' Online Help-Seeking Behaviors?
 
 * Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
 
 ### Conference Presentations
+
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in American Educational Research Association 2016 Annual Meeting, Washington, DC.
+
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
 
 * Branch, R. M., & Hao, Q. (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
 
@@ -85,6 +89,14 @@ title: Résumé
 
 ## Teaching Experience
 
+### Workshop
+
+* Hao, Q. & Branch, M. R. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
+
+* Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at 2015 Design, Develop and Research Conference, Athens, GA.
+
+* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
+
 ### Assigned Teaching
 
 * August 2015 - December 2015, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
@@ -94,14 +106,6 @@ title: Résumé
 * August 2015 - December 2015, Teaching Assistant of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
 
 * January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
-
-### Workshop
-
-* Hao, Q. & Branch, M. R. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
-
-* Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at 2015 Design, Develop and Research Conference, Athens, GA.
-
-* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
 ## Award
 
