@@ -12,7 +12,7 @@ title: Curriculum Vitae
 
 <strong>M.Sc.</strong>, 2012, University of Hong Kong
 
-* Major: IT in Education
+* Major: Information Technology in Education
 * Thesis: The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment
 
 <strong>Independent Coursework</strong>
