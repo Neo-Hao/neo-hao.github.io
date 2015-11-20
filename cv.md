@@ -20,14 +20,14 @@ title: Curriculum Vitae
 * Major: Information Technology in Education
 * Thesis: The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment
 
-<strong>Independent Coursework</strong>
+<strong>Data Science Specialization Certificate by Johns Hopkins University on Coursera</strong>
 
-* <a href="https://www.coursera.org/account/accomplishments/records/qMhR3qG27WCuLuCt" target="_blank">The Data Scientist’s Toolbox by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/2GmkAKKbKPGmjSJk" target="_blank">R Programming by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj" target="_blank">Getting and Cleaning Data by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v" target="_blank">Exploratory Data Analysis by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/certificate/TBXLVMUMK8" target="_blank">Reproducible Research by Johns Hopkins University on Coursera</a>
-* <a href="https://www.coursera.org/account/accomplishments/records/h4CYh7nmUJ4C5WWK" target="_blank">Statistical Inference by Johns Hopkins University on Coursera</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/qMhR3qG27WCuLuCt" target="_blank">The Data Scientist’s Toolbox</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/2GmkAKKbKPGmjSJk" target="_blank">R Programming</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/VDjKY56uQvbUbrAj" target="_blank">Getting and Cleaning Data</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/eZ5hayQ8XWvj7H5v" target="_blank">Exploratory Data Analysis</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/TBXLVMUMK8" target="_blank">Reproducible Research</a>
+* <a href="https://www.coursera.org/account/accomplishments/records/h4CYh7nmUJ4C5WWK" target="_blank">Statistical Inference</a>
 
 ## Working Experience
 
