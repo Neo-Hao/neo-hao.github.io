@@ -10,6 +10,11 @@ title: Curriculum Vitae
 * Major: Learning, Design and Technology
 * Research focuses: Help Seeking, Goal Setting, Self-Regulated Learning, and Problem-Solving
 
+<strong>M.Sc.</strong>, 2017 (Expected), University of Georgia
+
+* Major: Computer Science
+* Research focuses: TBD
+
 <strong>M.Sc.</strong>, 2012, University of Hong Kong
 
 * Major: Information Technology in Education
