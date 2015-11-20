@@ -28,7 +28,7 @@ title: Curriculum Vitae
 
 <strong>Leading Developer</strong>, August 2013 - Current, Graduate School, University of Georgia
 
-* Major Duty: Development and Maintenance of <a href="grad.uga.edu" target="_blank">Graduate School Websites</a> and other websites under Graduate School
+* Major Duty: Development and Maintenance of <a href="grad.uga.edu" target="_blank">Graduate School Website</a> and other websites under Graduate School
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
 
@@ -64,6 +64,10 @@ title: Curriculum Vitae
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Predictors of College Students' Online Help-Seeking Behaviors?
 
 * Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
+
+### Invited Review
+
+* Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
 ### Conference Presentations
 
