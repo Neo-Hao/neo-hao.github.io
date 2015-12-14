@@ -10,6 +10,11 @@ title: Curriculum Vitae
 * Major: Learning, Design and Technology
 * Research focuses: Help Seeking, Goal Setting, Self-Regulated Learning, and Problem-Solving
 
+<strong>M.Sc.</strong>, 2017 (Expected), University of Georgia
+
+* Major: Computer Science
+* Research focuses: Educational Data Mining, Application of Artificial Intelligence in Educational Technology
+
 <strong>M.Sc.</strong>, 2012, University of Hong Kong
 
 * Major: Information Technology in Education
@@ -69,9 +74,13 @@ title: Curriculum Vitae
 
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
+* One paper from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
+
 ### Conference Presentations
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in American Educational Research Association 2016 Annual Meeting, Washington, DC.
+
+* Hao, Q., Branch, M. R., & Jensen, L. (2016). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. Presented in SITE 2016 Annual Meeting, Savannah, GA.
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
 
@@ -94,6 +103,8 @@ title: Curriculum Vitae
 ## Teaching Experience
 
 ### Workshop
+
+* Hao, Q. & Panke, S. (2016). Text Mining in Educational Contexts. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
 
 * Hao, Q. & Branch, M. R. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
 
