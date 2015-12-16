@@ -78,7 +78,7 @@ title: Curriculum Vitae
 
 ### Conference Presentations
 
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in American Educational Research Association 2016 Annual Meeting, Washington, DC.
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
 
 * Hao, Q., Branch, M. R., & Jensen, L. (2016). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. Presented in SITE 2016 Annual Meeting, Savannah, GA.
 
@@ -122,14 +122,20 @@ title: Curriculum Vitae
 
 * January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
 
-## Award
+## Award and Professional Membership
 
 ### Travel Awards
 
-* Student Travel Award. (2015). Graduate School of University of Georgia.
+* Student Travel Award. (2016). College of Education, University of Georgia.
+* Student Travel Award. (2015). Graduate School, University of Georgia.
 * Student Travel Award. (2015). Department of Career and Information Studies, University of Georgia.
 
 ### Graduation Honors
 
 * Graduation with Distinction. (2012). Faculty of Education, The University of Hong Kong.
 * Dean’s Honor List (2012). Faculty of Education, The University of Hong Kong.
+
+### Professional Membership
+
+* December 2015 - December 2016, Membership of American Educational Research Association
+* Feburary 2016 - Feburary 2017, Membership of Society for Information Technology and Teacher Education
