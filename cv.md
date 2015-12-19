@@ -60,7 +60,7 @@ title: Curriculum Vitae
 
 * Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Journal of Computers in Education, 1-18.
 
-### Manuscripts under review
+### Manuscripts under Review
 
 * Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment.
 
@@ -69,12 +69,6 @@ title: Curriculum Vitae
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2015). What Are the Most Important Predictors of College Students' Online Help-Seeking Behaviors?
 
 * Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
-
-### Invited Review
-
-* Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
-
-* One paper from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
 
 ### Conference Presentations
 
@@ -99,6 +93,12 @@ title: Curriculum Vitae
 * Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
 
 * Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
+
+### Invited Review
+
+* Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
+
+* One paper from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
 
 ## Teaching Experience
 
@@ -137,5 +137,10 @@ title: Curriculum Vitae
 
 ### Professional Membership
 
-* December 2015 - December 2016, Membership of American Educational Research Association
-* Feburary 2016 - Feburary 2017, Membership of Society for Information Technology and Teacher Education
+* December 2015 - December 2016, Member of American Educational Research Association
+* Feburary 2016 - Feburary 2017, Member of Society for Information Technology and Teacher Education
+
+### Review Board Membership
+
+* Editorial Review Board Member of Journal of Online Learning Research
+* Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
