@@ -46,11 +46,11 @@ title: Curriculum Vitae
 
 <strong>Website Developer</strong>, May 2014 - August 2014, CTAE Resource Network
 
-* Major Duty: Development of <a href="http://gactaern.org/clusters/index.php" target="_blank">CTAE Resrouce Network Site</a>
+* Major Duty: Development of <a href="http://gactaern.org/clusters/index.php" target="_blank">CTAE Resource Network Site</a>
 
 <strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
 
-* Major Duty: Literature Review and Data analysis
+* Major Duty: Literature Review and Data Analysis
 
 <strong>ESL Teacher & Curriculum Developer</strong>, January 2009 - January 2013, New Oriental Education & Technology Group.
 
@@ -58,7 +58,7 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Journal of Computers in Education, 1-18.
+* Lu, J., & Hao, Q. (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Journal of Computers in Education, 1-18.
 
 ### Manuscripts under Review
 
@@ -80,7 +80,7 @@ title: Curriculum Vitae
 
 * Branch, R. M., & Hao, Q. (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
 
-* Lu, J., & Hao, Q. (2014). What factors impact on primary school students’ online engagement for learning and entertainment at home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia, PA.
+* Lu, J., & Hao, Q. (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia, PA.
 
 * Hao, Q,. & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
