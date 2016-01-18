@@ -62,6 +62,8 @@ title: Curriculum Vitae
 
 ### Manuscripts under Review
 
+* Hao, Q., Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
+
 * Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment.
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting Computer Science Students’ Online Help-Seeking Tendencies.
@@ -104,7 +106,7 @@ title: Curriculum Vitae
 
 ### Workshop
 
-* Hao, Q. & Panke, S. (2016). Text Mining in Educational Contexts. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
+* Hao, Q. & Panke, S. (2016). Introduction to Text Mining in Educational Research. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
 
 * Hao, Q. & Branch, M. R. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
 
