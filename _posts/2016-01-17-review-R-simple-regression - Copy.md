@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Review on How to use R - Simple Regression
+title: Review on How to Use R - Simple Regression
 ---
 
 <div class="message">
   As I am catching up with learning more things in Computational Intelligence, I found that I almost forgot everything about R. This post is only to help myself to do a little bit summary, and keep me from forgeting R so fast. Most examples used in the summary come from Data Science Specialization on Coursera.
 </div>
 
-### Simple Linear Regression
+### Building the Model
 
 Data source - Galton' height data
 
@@ -41,6 +41,8 @@ g
 
 <img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/img/simple-regression-1.jpeg">
 
+### Using the Model for Prediction
+
 Prediction is as the following. The data has to go into the model as a data frame with the variables that have the same name.
 
 {% highlight r %}
@@ -72,6 +74,8 @@ g = g + geom_line()
 g = g + geom_point(data = data.frame(x = x, y=y), aes(x = x, y = y), size = 4)
 g
 {% endhighlight %}
+
+### Residuals
 
 Residuals related evaluations are as the followings:
 

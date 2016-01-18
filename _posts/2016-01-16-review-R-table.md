@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review on How to use R - data.table
+title: Review on How to Use R - data.table
 ---
 
 <div class="message">
