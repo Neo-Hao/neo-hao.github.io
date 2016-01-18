@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Review on How to use R
+title: Review on How to use R - data.table
 ---
 
 <div class="message">
-  As I am catching up with learning more things in Computational Intelligence, I found that I almost forgot everything about R. This post is only to help myself to do a little bit summary, and keep me from forgeting R so fast.
+  As I am catching up with learning more things in Computational Intelligence, I found that I almost forgot everything about R. This post is only to help myself to do a little bit summary, and keep me from forgeting R so fast. Most examples used in the summary come from Data Science Specialization on Coursera.
 </div>
 
 ### data.Table Package
