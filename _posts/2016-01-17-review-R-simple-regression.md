@@ -39,7 +39,7 @@ g <- g + geom_smooth(method = "lm", color = "black")
 g
 {% endhighlight %}
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/simple-regression-1.jpeg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/img/simple-regression-1.jpeg">
 
 Prediction is as the following. The data has to go into the model as a data frame with the variables that have the same name.
 
@@ -97,10 +97,10 @@ Residuals related plots are as the followings:
 plot(fit)
 {% endhighlight %}
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/simple-regression-2.jpeg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/img/simple-regression-2.jpeg">
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/simple-regression-3.jpeg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/img/simple-regression-3.jpeg">
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/simple-regression-4.jpeg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/img/simple-regression-4.jpeg">
 
-<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/simple-regression-5.jpeg">
+<img style="margin-bottom: 20px; margin-top: 20px; width: 70%;"  src="http://neo-hao.github.io/public/img/simple-regression-5.jpeg">
