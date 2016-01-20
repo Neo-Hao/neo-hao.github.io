@@ -102,6 +102,8 @@ title: Curriculum Vitae
 
 * One paper from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
 
+* One paper from The Journal of Information Systems Education
+
 ## Teaching Experience
 
 ### Workshop

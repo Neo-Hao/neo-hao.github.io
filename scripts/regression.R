@@ -33,3 +33,25 @@ g
 
 
 
+
+
+
+
+library("datasets")
+install.packages("dplyr")
+library("dplyr")
+data(swiss)
+swiss <- mutate(swiss, CatholicBin = 1 * (Catholic > 50))
+
+# get model 1: no interaction term
+fit <- lm(Fertility~Agriculture + factor(CatholicBin), data = swiss)
+# see coef
+coef(fit)
+
+# plot the model by group CatholicBin
+g <- ggplot(swiss, aes(x = Agriculture, y = Fertility, colour = factor(CatholicBin)))
+g <- g + geom_point(size = 6, color = "black") + geom_point(size = 4)
+g <- g + xlab("% in Agriculture") + ylab("Fertility")
+g
+
+
