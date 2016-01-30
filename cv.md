@@ -58,13 +58,13 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
+* Hao, Q., Branch, M. R., & Jensen, L. (In Press). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. TechTrends.
+
 * Lu, J., & Hao, Q. (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Journal of Computers in Education, 1-18.
 
 ### Manuscripts under Review
 
 * Hao, Q., Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
-
-* Hao, Q., Branch, M. R., & Jensen, L. (2015). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment.
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting Computer Science Students’ Online Help-Seeking Tendencies.
 
