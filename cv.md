@@ -108,10 +108,6 @@ title: Curriculum Vitae
 
 * One paper from The Journal of Information Systems Education
 
-### Grant Application
-
-* Intelligent Suggestion Algorithms for Learning Question Revision. Submitted February 12, 2016: Hao, Q & Branch, M. R. (2016). Requested $6,700 to the Parents & Families Association. Pending.
-
 ## Teaching Experience
 
 ### Workshop
@@ -134,7 +130,7 @@ title: Curriculum Vitae
 
 * January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
 
-## Award and Professional Membership
+## Awards, Grants, and Professional Memberships
 
 ### Travel Awards
 
@@ -146,6 +142,10 @@ title: Curriculum Vitae
 
 * Graduation with Distinction. (2012). Faculty of Education, The University of Hong Kong.
 * Dean’s Honor List (2012). Faculty of Education, The University of Hong Kong.
+
+### Grant Application
+
+* Intelligent Suggestion Algorithms for Learning Question Revision. Hao, Q & Branch, M. R. (2016). Submitted on February 12, 2016; Requested $6,700 to the Parents & Families Association. Pending.
 
 ### Professional Membership
 
