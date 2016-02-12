@@ -145,7 +145,7 @@ title: Curriculum Vitae
 
 ### Grant Application
 
-* Intelligent Suggestion Algorithms for Learning Question Revision. Hao, Q & Branch, M. R. (2016). Submitted on February 12, 2016; Requested $6,700 to the Parents & Families Association. Pending.
+* Hao, Q. & Branch, M. R. (2016). Intelligent Suggestion Algorithms for Learning Question Revision. Submitted on February 12, 2016; Requested $6,700 to the Parents & Families Association. Status: Pending.
 
 ### Professional Membership
 
