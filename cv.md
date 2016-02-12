@@ -72,6 +72,10 @@ title: Curriculum Vitae
 
 * Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
 
+### Conference Proceedings
+
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). Proceedings from Higher Education Pedagogy '16: The Most Important Predictors for College Students’ Online Searching. Blacksburg, VA.
+
 ### Conference Presentations
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
@@ -103,6 +107,10 @@ title: Curriculum Vitae
 * One paper from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
 
 * One paper from The Journal of Information Systems Education
+
+### Grant Application
+
+* Intelligent Suggestion Algorithms for Learning Question Revision. Submitted February 12, 2016: Hao, Q & Branch, M. R. (2016). Requested $6,700 to the Parents & Families Association. Pending.
 
 ## Teaching Experience
 
@@ -142,7 +150,7 @@ title: Curriculum Vitae
 ### Professional Membership
 
 * December 2015 - December 2016, Member of American Educational Research Association
-* Feburary 2016 - Feburary 2017, Member of Society for Information Technology and Teacher Education
+* February 2016 - February 2017, Member of Society for Information Technology and Teacher Education
 
 ### Review Board Membership
 
