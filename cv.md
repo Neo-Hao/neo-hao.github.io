@@ -33,13 +33,13 @@ title: Curriculum Vitae
 
 <strong>Leading Developer</strong>, August 2013 - Current, Graduate School, University of Georgia
 
-* Major Duty: Development and Maintenance of <a href="grad.uga.edu" target="_blank">Graduate School Website</a> and other websites under Graduate School
+* Major Duty: Design, Development and Maintenance of <a href="grad.uga.edu" target="_blank">Graduate School Website</a> and other websites under Graduate School
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
 
 * Major Duty: Literature Review and Data analysis
 
-<strong>Social Media Manager</strong>, March 2015 - Current, Association for the Advancement of Computing in Education (AACE)
+<strong>Social Media Manager</strong>, March 2015 - December 2015, Association for the Advancement of Computing in Education (AACE)
 
 * Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
 * Major Duty: Social Media Management of AACE
