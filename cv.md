@@ -74,7 +74,10 @@ title: Curriculum Vitae
 
 ### Conference Proceedings
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). Proceedings from Higher Education Pedagogy '16: The Most Important Predictors for College Students’ Online Searching. Blacksburg, VA.
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016, February). Proceedings from Higher Education Pedagogy '16: The Most Important Predictors for College Students’ Online Searching. Blacksburg, VA.
+
+* Lu, J., & Hao, Q. (2014, April). <a href="http://www.aera.net/Publications/OnlinePaperRepository/AERAOnlinePaperRepository/tabid/12720/Default.aspx">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
+
 
 ### Conference Presentations
 
