@@ -74,16 +74,17 @@ title: Curriculum Vitae
 
 ### Conference Proceedings
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016, February). Proceedings from Higher Education Pedagogy '16: The Most Important Predictors for College Students’ Online Searching. Blacksburg, VA.
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="#">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a> American Educational Research Association Annual Meeting 2016. Philadelphia, Pennsylvania.
+
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
 
 * Lu, J., & Hao, Q. (2014, April). <a href="http://www.aera.net/Publications/OnlinePaperRepository/AERAOnlinePaperRepository/tabid/12720/Default.aspx">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
-
 
 ### Conference Presentations
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
 
-* Hao, Q., Branch, M. R., & Jensen, L. (2016). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. Presented in SITE 2016 Annual Meeting, Savannah, GA.
+* Hao, Q., Branch, M. R., & Jensen, L. (2016). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. Presented in SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
 
@@ -107,9 +108,11 @@ title: Curriculum Vitae
 
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
-* One paper from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
+* Two papers from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
 
 * One paper from The Journal of Information Systems Education
+
+* Eleven papers for 2016 AECT Convention
 
 ## Teaching Experience
 
@@ -148,7 +151,9 @@ title: Curriculum Vitae
 
 ### Grant Application
 
-* Hao, Q. & Branch, M. R. (2016). Intelligent Suggestion Algorithms for Learning Question Revision. Submitted on February 12, 2016; Requested $6,700 to the Parents & Families Association. Status: Pending.
+* Hao, Q. (2016). Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms. Submitted on March 15, 2016; Requested $1,000 from the Innovative and Interdisciplinary Research Grants, The Graduate School, University of Georgia. Status: Pending.
+
+* Hao, Q. & Branch, M. R. (2016). Intelligent Suggestion Algorithms for Learning Question Revision. Submitted on February 12, 2016; Requested $6,700 from the Parents & Families Association. Status: Rejected.
 
 ### Professional Membership
 
