@@ -74,7 +74,7 @@ title: Curriculum Vitae
 
 ### Conference Proceedings
 
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="#">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a> American Educational Research Association Annual Meeting 2016. Philadelphia, Pennsylvania.
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016, April). Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. American Educational Research Association Annual Meeting 2016. Philadelphia, Pennsylvania.
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
 
@@ -84,7 +84,7 @@ title: Curriculum Vitae
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
 
-* Hao, Q., Branch, M. R., & Jensen, L. (2016). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. Presented in SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
+* Hao, Q., Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented in SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
 
@@ -108,17 +108,21 @@ title: Curriculum Vitae
 
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
-* Two papers from The Journal of Online Learning Research, Association for the Advancement of Computing in Education
+* One paper from Contemporary Issues in Technology & Teacher Education
 
 * One paper from The Journal of Information Systems Education
 
 * Eleven papers for 2016 AECT Convention
 
+* One papers from The Journal of Online Learning Research
+
+* One paper from Computers in Education
+
 ## Teaching Experience
 
 ### Workshop
 
-* Hao, Q. & Panke, S. (2016). Introduction to Text Mining in Educational Research. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
+* Hao, Q. & Panke, S. (2016). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
 
 * Hao, Q. & Branch, M. R. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at 2015 AECT Convention, Indianapolis, Indiana.
 
