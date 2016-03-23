@@ -60,7 +60,7 @@ title: Curriculum Vitae
 
 * Hao, Q., Branch, M. R., & Jensen, L. (In Press). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. TechTrends.
 
-* Lu, J., & Hao, Q. (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Journal of Computers in Education, 1-18.
+* Lu, J., & Hao, Q. (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1-18.
 
 ### Manuscripts under Review
 
@@ -78,7 +78,7 @@ title: Curriculum Vitae
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
 
-* Lu, J., & Hao, Q. (2014, April). <a href="http://www.aera.net/Publications/OnlinePaperRepository/AERAOnlinePaperRepository/tabid/12720/Default.aspx">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
+* Lu, J., & Hao, Q. (2014, April). <a href="http://home.tobeneo.com/downloads/AERA-2014-Proceeding.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
 
 ### Conference Presentations
 
