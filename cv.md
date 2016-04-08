@@ -58,7 +58,7 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (In Press). What Are the Most Important Predictors of College Students' Online Help-Seeking Behaviors? Computers in Human Behaviors.
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (In Press). What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors? Computers in Human Behaviors.
 
 * Hao, Q., Branch, M. R., & Jensen, L. (In Press). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. TechTrends.
 
