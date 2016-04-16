@@ -58,11 +58,11 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (In Press). What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors? Computers in Human Behaviors.
+* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, September 2016, 467-474.
 
 * Hao, Q., Branch, M. R., & Jensen, L. (In Press). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. TechTrends.
 
-* Lu, J., & Hao, Q. (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1-18.
+* Lu, J., & Hao, Q. (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
 
 ### Manuscripts under Review
 
