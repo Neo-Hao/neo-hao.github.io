@@ -44,9 +44,9 @@ title: Curriculum Vitae
 * Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
 * Major Duty: Social Media Management of AACE
 
-<strong>Website Developer</strong>, May 2014 - August 2014, CTAE Resource Network
+<strong>Web Application Developer</strong>, May 2014 - August 2014, CTAE Resource Network
 
-* Major Duty: Development of <a href="http://gactaern.org/clusters/index.php" target="_blank">CTAE Resource Network Site</a>
+* Major Duty: Development of <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network Site</a>
 
 <strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
 
@@ -112,11 +112,9 @@ title: Curriculum Vitae
 
 * One paper from The Journal of Information Systems Education
 
-* Eleven papers for 2016 AECT Convention
+* Two papers from The Journal of Online Learning Research
 
-* One papers from The Journal of Online Learning Research
-
-* One paper from Computers in Education
+* One paper from The Journal of Computers in Education
 
 ## Teaching Experience
 
