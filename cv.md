@@ -18,7 +18,6 @@ title: Curriculum Vitae
 <strong>M.Sc.</strong>, 2012, University of Hong Kong
 
 * Major: Information Technology in Education
-* Thesis: The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment
 
 <strong>Data Science Specialization Certificate by Johns Hopkins University on Coursera</strong>
 
@@ -31,26 +30,28 @@ title: Curriculum Vitae
 
 ## Working Experience
 
-<strong>Leading Developer</strong>, August 2013 - Current, Graduate School, University of Georgia
+<strong>Developer</strong>, August 2013 - Current, <a href="grad.uga.edu" target="_blank">Graduate School, University of Georgia</a>
 
-* Major Duty: Design, Development and Maintenance of <a href="grad.uga.edu" target="_blank">Graduate School Website</a> and other websites under Graduate School
+* Tranformation of the Graduate School Website from Static to Dynamic
+* Redesign of the Graduate School Wbsite
+* Optimization of Graduate Program Information System; boosting the system loading time by 80% 
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
 
-* Major Duty: Literature Review and Data analysis
+* Literature Review and Data analysis
 
 <strong>Social Media Manager</strong>, March 2015 - December 2015, Association for the Advancement of Computing in Education (AACE)
 
-* Major Duty: Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
-* Major Duty: Social Media Management of AACE
+* Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
+* Social Media Management of AACE
 
-<strong>Web Application Developer</strong>, May 2014 - August 2014, CTAE Resource Network
+<strong>Developer (Intership)</strong>, May 2014 - August 2014, <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network</a>
 
-* Major Duty: Development of <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network Site</a>
+* Development of Course Resource System as the core part of CTAE Resource Network system
 
 <strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
 
-* Major Duty: Literature Review and Data Analysis
+* Literature Review and Data Analysis
 
 <strong>ESL Teacher & Curriculum Developer</strong>, January 2009 - January 2013, New Oriental Education & Technology Group.
 
@@ -96,14 +97,6 @@ title: Curriculum Vitae
 
 * Hao, Q,. & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
 
-### Software
-
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Prototype Tool for Facilitating Online Help Seeking Among Students Majored in Computer Science</a> [Computer software]. Athens, GA.
-
-* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
-
-* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping Tool for USGSA</a> [Computer software]. Athens, GA.
-
 ### Invited Review
 
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
@@ -115,6 +108,24 @@ title: Curriculum Vitae
 * Two papers from The Journal of Online Learning Research
 
 * One paper from The Journal of Computers in Education
+
+### Software
+
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> [Computer software]. Athens, GA.
+
+* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
+
+* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> [Computer software]. Athens, GA.
+
+## Projects
+
+### Independent Projects
+
+* <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> (http://bit.ly/1WfII0y)
+
+* <a href= "https://github.com/Neo-Hao/genetic-algorithm-mfd" target= "_blank">Application of the Genetic Algorithm on the Multiple Fault Diagnosis Problems</a> (http://bit.ly/24DVlnU)
+
+* <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> (http://bit.ly/1TLeVdT)
 
 ## Teaching Experience
 
