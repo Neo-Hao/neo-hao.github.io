@@ -121,11 +121,13 @@ title: Curriculum Vitae
 
 ### Independent Projects
 
-* <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> (http://bit.ly/1WfII0y)
+* <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
 
-* <a href= "https://github.com/Neo-Hao/genetic-algorithm-mfd" target= "_blank">Application of the Genetic Algorithm on the Multiple Fault Diagnosis Problems</a> (http://bit.ly/24DVlnU)
+* <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
 
-* <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> (http://bit.ly/1TLeVdT)
+### Course Projects
+
+* <a href= "https://github.com/Neo-Hao/genetic-algorithm-mfd" target= "_blank">Application of the Genetic Algorithm on the Multiple Fault Diagnosis Problems</a> (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/24DVlnU</a>)
 
 ## Teaching Experience
 
