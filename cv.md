@@ -30,10 +30,10 @@ title: Curriculum Vitae
 
 ## Working Experience
 
-<strong>Developer</strong>, August 2013 - Current, <a href="grad.uga.edu" target="_blank">Graduate School, University of Georgia</a>
+<strong>Developer</strong>, August 2013 - Current, <a href="http://grad.uga.edu/" target="_blank">Graduate School, University of Georgia</a>
 
 * Tranformation of the Graduate School Website from Static to Dynamic
-* Redesign of the Graduate School Wbsite
+* Design of the responsive theme for Graduate School Website
 * Optimization of Graduate Program Information System; boosting the system loading time by 80% 
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
