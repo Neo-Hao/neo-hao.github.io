@@ -121,13 +121,13 @@ title: Curriculum Vitae
 
 ### Independent Projects
 
-* <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
+* Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
 
-* <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
+* Web Scraping from the Website of U.S. General Servises Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
 
 ### Course Projects
 
-* <a href= "https://github.com/Neo-Hao/genetic-algorithm-mfd" target= "_blank">Application of the Genetic Algorithm on the Multiple Fault Diagnosis Problems</a> (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/24DVlnU</a>)
+* Application of the Genetic Algorithm and Binary Particle Swarm Optimization on the Multiple Fault Diagnosis problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
 
 ## Teaching Experience
 
