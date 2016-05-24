@@ -61,6 +61,8 @@ title: Curriculum Vitae
 
 * Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, September 2016, 467-474.
 
+* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning: An International Journal.
+
 * Hao, Q., Branch, M. R., & Jensen, L. (In Press). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. TechTrends.
 
 * Lu, J., & Hao, Q. (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
@@ -68,8 +70,6 @@ title: Curriculum Vitae
 ### Manuscripts under Review
 
 * Hao, Q., Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
-
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2015). Predicting Computer Science Students’ Online Help-Seeking Tendencies.
 
 * Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
 
