@@ -63,7 +63,7 @@ title: Curriculum Vitae
 
 * Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning.
 
-* Hao, Q., Branch, M. R., & Jensen, L. (In Press). The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment. TechTrends.
+* Hao, Q., Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends.
 
 * Lu, J., & Hao, Q. (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
 
