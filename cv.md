@@ -59,13 +59,13 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, September 2016, 467-474.
+* <em>Hao, Q.</em>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, 467-474.
 
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning.
+* <em>Hao, Q.</em>, Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning.
 
-* Hao, Q., Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends.
+* <em>Hao, Q.</em>, Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends, May 2016 (Volume Unassigned Yet).
 
-* Lu, J., & Hao, Q. (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
+* Lu, J., & <em>Hao, Q.</em> (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
 
 ### Manuscripts under Review
 
@@ -142,6 +142,8 @@ title: Curriculum Vitae
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
 ### Assigned Teaching
+
+* May 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
 
 * August 2015 - December 2015, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
 
