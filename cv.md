@@ -59,43 +59,43 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* <em>Hao, Q.</em>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, 467-474.
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, 467-474.
 
-* <em>Hao, Q.</em>, Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning.
 
-* <em>Hao, Q.</em>, Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends, May 2016 (Volume Unassigned Yet).
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends, May 2016 (Volume not assigned yet).
 
-* Lu, J., & <em>Hao, Q.</em> (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
+* Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
 
 ### Manuscripts under Review
 
-* Hao, Q., Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
+* <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
 
-* Hao, Q., Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
 
 ### Conference Proceedings
 
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016, April). Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. American Educational Research Association Annual Meeting 2016. Philadelphia, Pennsylvania.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. American Educational Research Association Annual Meeting 2016. Philadelphia, Pennsylvania.
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
 
-* Lu, J., & Hao, Q. (2014, April). <a href="http://home.tobeneo.com/downloads/AERA-2014-Proceeding.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
+* Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://home.tobeneo.com/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
 
 ### Conference Presentations
 
-* Hao, Q., Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
 
-* Hao, Q., Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented in SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented in SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
 
-* Hao, Q., Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
 
-* Branch, R. M., & Hao, Q. (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
+* Branch, R. M., & <strong>Hao, Q.</strong> (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
 
-* Lu, J., & Hao, Q. (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia, PA.
+* Lu, J., & <strong>Hao, Q.</strong> (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Presented in American Educational Research Association 2014 Annual Meeting, Philadelphia, PA.
 
-* Hao, Q,. & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
+* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
-* Hao, Q,. & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
 
 ### Invited Review
 
