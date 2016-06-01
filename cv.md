@@ -81,6 +81,10 @@ title: Curriculum Vitae
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://home.tobeneo.com/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> American Educational Research Association Annual Meeting 2014. Philadelphia, Pennsylvania.
 
+* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://home.tobeneo.com/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
+
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://home.tobeneo.com/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
+
 ### Conference Presentations
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA 2016 Annual Meeting, Washington, DC.
