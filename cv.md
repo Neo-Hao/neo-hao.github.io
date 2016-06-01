@@ -83,7 +83,7 @@ title: Curriculum Vitae
 
 * <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://home.tobeneo.com/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at Center for Information Technology in Education Research Symposium 2013, Hong Kong.
 
-* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://home.tobeneo.com/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://home.tobeneo.com/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at Center for Information Technology in Education Research Symposium 2012, Hong Kong.
 
 ### Conference Presentations
 
