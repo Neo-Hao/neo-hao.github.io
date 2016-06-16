@@ -61,9 +61,11 @@ title: Curriculum Vitae
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> Computers in Human Behaviors, 62, 467-474.
 
+* Lu, J., <strong>Hao, Q.</strong>, Jing, M. (In Press). Consuming, sharing, and creating content: How young students use new social media in and outside school. Computers in Human Behaviors.
+
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. Knowledge Management & E-Learning.
 
-* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends, May 2016 (Volume not assigned yet).
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (In Press). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. TechTrends.
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. Journal of Computers in Education, 1(2-3), 133-150.
 
@@ -113,6 +115,10 @@ title: Curriculum Vitae
 
 * One paper from The Journal of Computers in Education
 
+### Routine Review
+
+* Eleven papers from 2016 AECT Convention
+
 ### Software
 
 * Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> [Computer software]. Athens, GA.
@@ -147,7 +153,7 @@ title: Curriculum Vitae
 
 ### Assigned Teaching
 
-* May 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
+* May 2016 - June 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
 
 * August 2015 - December 2015, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
 
@@ -180,8 +186,11 @@ title: Curriculum Vitae
 
 * December 2015 - December 2016, Member of American Educational Research Association
 * February 2016 - February 2017, Member of Society for Information Technology and Teacher Education
+* May 2016 - May 2017, Member of Association for Educational Communications & Technology
 
 ### Review Board Membership
 
 * Editorial Review Board Member of Journal of Online Learning Research
 * Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
+* Editorial Review Board Member of Journal of Online Learning Research
+* Editorial Review Board Member of Journal of Technology and Teacher Education
