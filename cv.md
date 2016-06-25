@@ -52,13 +52,13 @@ title: Curriculum Vitae
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474.
 
-* Lu, J., <strong>Hao, Q.</strong>, Jing, M. (In Press). Consuming, Sharing, and Creating Content: How Young Students Use new Social Media In and Outside School. <i>Computers in Human Behaviors</i>.
+* Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. <i>Knowledge Management & E-Learning</i>.
 
 * <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (In Press). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>.
 
-* Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://link.springer.com/article/10.1007/s40692-014-0007-9" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
+* Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://home.tobeneo.com/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
 
 ### Manuscripts under Review
 
@@ -68,7 +68,7 @@ title: Curriculum Vitae
 
 ### Conference Proceedings
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. AERA Annual Meeting 2016. Philadelphia, Pennsylvania.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://home.tobeneo.com/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, Pennsylvania.
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
 
