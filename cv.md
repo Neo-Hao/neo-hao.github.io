@@ -50,6 +50,8 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (In Press). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students. British Journal of Educational Technology. 
+
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474.
 
 * Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64.
@@ -63,8 +65,6 @@ title: Curriculum Vitae
 ### Manuscripts under Review
 
 * <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
-
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2015). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students.
 
 ### Conference Proceedings
 
