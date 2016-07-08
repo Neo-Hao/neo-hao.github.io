@@ -19,9 +19,10 @@ After running your function, the board should be:
 {% endhighlight %}
 
 Analysis:
-1. Bredth first search should be the key. Get the O on the edges, and use bredth first search to find all connected Os, then turn them to B.
-2. If there's still any O left, then they should be converted to X.
-3. Convert Bs back to Os.
+
+1.  Bredth first search should be the key. Get the O on the edges, and use bredth first search to find all connected Os, then turn them to B.
+2.  If there's still any O left, then they should be converted to X.
+3.  Convert Bs back to Os.
 
 Code:
 {% highlight python %}
@@ -87,6 +88,7 @@ Example 1:
 	00000
 {% endhighlight %}
 Answer: 1
+
 Example 2:
 {% highlight python %}
 	11000
@@ -97,4 +99,5 @@ Example 2:
 Answer: 3
 
 Analysis:
-Very similar to the previous question. Traverse the graph, if there is a 1, then use bredth first search to convert all connected 1s to 0s, and increment the count.
+
+1.  Very similar to the previous question. Traverse the graph, if there is a 1, then use bredth first search to convert all connected 1s to 0s, and increment the count.

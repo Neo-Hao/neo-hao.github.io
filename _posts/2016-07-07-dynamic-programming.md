@@ -13,8 +13,9 @@ A message containing letters from A-Z is being encoded to numbers using the foll
 Given an encoded message containing digits, determine the total number of ways to decode it.For example, Given encoded message "12", it could be decoded as "AB" (1 2) or "L" (12). The number of ways decoding "12" is 2.
 
 Analysis:
-1. The key to the problem is result[i] = result[i-1] + result[i-2]
-2. To take care of 0 case is tricky. The trick to make the code simple here is to prepare a result list that has the length of len(s)+1. result[0] = 1 stands for 1 way to decode an empty string. result[1] stands for the ways to decode a string that has length of 1.
+
+1.  The key to the problem is result[i] = result[i-1] + result[i-2]
+2.  To take care of 0 case is tricky. The trick to make the code simple here is to prepare a result list that has the length of len(s)+1. result[0] = 1 stands for 1 way to decode an empty string. result[1] stands for the ways to decode a string that has length of 1.
 
 Code:
 {% highlight python %}

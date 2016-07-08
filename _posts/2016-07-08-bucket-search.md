@@ -7,7 +7,8 @@ title: Bucket search
 Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the array such that nums[i] = nums[j] and the difference between i and j is at most k.
 
 Analytics:
-1. Use a dictionary with length of k+1 as the sliding window
+
+1.  Use a dictionary with length of k+1 as the sliding window
 
 Code:
 {% highlight python %}
@@ -43,8 +44,9 @@ class Solution(object):
 Given an array of integers, find out whether there are two distinct indices i and j in the array such that the difference between nums[i] and nums[j] is at most t and the difference between i and j is at most k.
 
 Analysis:
-1. Use a dictionary with length of k as the sliding window, which is the same as the previous question.
-2. Map a group of values to the same bucket is the key to the bucket search. For this question, one solution is to map all values satisfy the following conditions to the same bucket: values // (t+1) == bucket
+
+1.  Use a dictionary with length of k as the sliding window, which is the same as the previous question.
+2.  Map a group of values to the same bucket is the key to the bucket search. For this question, one solution is to map all values satisfy the following conditions to the same bucket: values // (t+1) == bucket
 
 Code:
 {% highlight python %}
