@@ -4,15 +4,19 @@ title: Graph Search
 ---
 ### Leetcode Question 130
 Given a 2D board containing 'X' and 'O', capture all regions surrounded by 'X'. A region is captured by flipping all 'O's into 'X's in that surrounded region. For example,
+{% highlight python %}
 	X X X X
 	X O O X
 	X X O X
 	X O X X
+{% endhighlight %}
 After running your function, the board should be:
+{% highlight python %}
 	X X X X
 	X X X X
 	X X X X
 	X O X X
+{% endhighlight %}
 
 Analysis:
 1. Bredth first search should be the key. Get the O on the edges, and use bredth first search to find all connected Os, then turn them to B.
@@ -76,16 +80,20 @@ class Solution(object):
 ### Leetcode Question 200
 Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 Example 1:
+{% highlight python %}
 	11110
 	11010
 	11000
 	00000
+{% endhighlight %}
 Answer: 1
 Example 2:
+{% highlight python %}
 	11000
 	11000
 	00100
 	00011
+{% endhighlight %}
 Answer: 3
 
 Analysis:
