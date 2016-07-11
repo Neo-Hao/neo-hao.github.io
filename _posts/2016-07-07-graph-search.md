@@ -101,3 +101,76 @@ Answer: 3
 Analysis:
 
 1.  Very similar to the previous question. Traverse the graph, if there is a 1, then use bredth first search to convert all connected 1s to 0s, and increment the count.
+
+### Leetcode Question 127
+Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
+
+*  Only one letter can be changed at a time
+*  Each intermediate word must exist in the word list
+
+For example, Given:
+{% highlight python %}
+beginWord = "hit"
+endWord = "cog"
+wordList = ["hot","dot","dog","lot","log"]
+As one shortest transformation is "hit" -> "hot" -> "dot" -> "dog" -> "cog",
+return its length 5.
+{% endhighlight %}
+
+Analysis:
+
+1. The question has the nice structure of bredth-first search. Words differ by 1 character can ben treated as neighbors.
+2. To make things easier, it's better to include the endword in the set, and keep popping words that are added to the queue from the word list.
+
+Code:
+{% highlight python %}
+class Solution(object):
+    def ladderLength(self, beginWord, endWord, wordList):
+        """
+        :type beginWord: str
+        :type endWord: str
+        :type wordList: Set[str]
+        :rtype: int
+        """
+        
+        if beginWord in wordList:
+            wordList.remove(beginWord)
+        
+        theword = beginWord
+        word_list = list(wordList) + [endWord]
+        step = 2
+        
+        queue = self.find_neighbors(theword, word_list)
+        while queue != []:
+            limit = len(queue)
+            for i in range(limit):
+                target = queue.pop(0)
+                if target == endWord:
+                    return step
+                else:
+                    queue = queue + self.find_neighbors(target, word_list)
+            step += 1
+        
+        return 0
+    
+    
+    def find_neighbors(self, theword, word_list):
+        result = []
+        i = 0
+        while i < len(word_list):
+            if self.diff_count(theword, word_list[i]) == 1:
+                word = word_list.pop(i)
+                result.append(word)
+            else:
+                i += 1
+        
+        return result
+    
+    def diff_count(self, word1, word2):
+        count = 0
+        for i in range(len(word1)):
+            if word1[i] != word2[i]:
+                count += 1
+        
+        return count
+{% endhighlight %}
