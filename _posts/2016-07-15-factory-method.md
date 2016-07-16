@@ -47,3 +47,39 @@ Methods:
 heapq.merge(*(self.tweets[u] for u in self.followees[userId] | {userId}))
 [t for s, t in itertools.islice(tweets, 10)]
 {% endhighlight %}
+
+### Leetcode Question 324
+Given an unsorted array nums, reorder it such that nums[0] < nums[1] > nums[2] < nums[3]....
+
+Example:
+(1) Given nums = [1, 5, 1, 1, 6, 4], one possible answer is [1, 4, 1, 5, 1, 6]. 
+(2) Given nums = [1, 3, 2, 2, 3, 1], one possible answer is [2, 3, 1, 3, 1, 2].
+
+Code:
+
+{% highlight python %}
+class Solution(object):
+    def wiggleSort(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: void Do not return anything, modify nums in-place instead.
+        """
+        nums.sort()
+        half = len(nums[::2])
+        
+        nums[::2], nums[1::2] = nums[:half][::-1], nums[half:][::-1]
+{% endhighlight %}
+
+Methods:
+
+1. a[:5] means the sub-list of a from 0 to 5 (index 5 not included)
+2. a[5:] means sub-list of a from 5 to the end
+3. a[-2:] means the sub-list of a from the second last till the end
+4. a[:-2] means the sub-list of a from 0 to the second last (the second last not included)
+
+a[start:end:step] can be a little bit tricky when step is negative:
+
+1. a[::2] returns a sublist of a with only numbers on even index positions.
+1. a[::-1] returns the reverse of a
+2. a[half::-2] means: starting from index half till the beginning, select every even number. The order is opposite to a.
+

@@ -174,3 +174,66 @@ class Solution(object):
         
         return count
 {% endhighlight %}
+
+
+### Leetcode Question 79
+Given a 2D board and a word, find if the word exists in the grid.
+
+The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. The same letter cell may not be used more than once. For example,
+
+Given board =
+{% highlight python %}
+[
+  ['A','B','C','E'],
+  ['S','F','C','S'],
+  ['A','D','E','E']
+]
+{% endhighlight %}
+
+1. word = "ABCCED", -> returns true,
+2. word = "SEE", -> returns true,
+3. word = "ABCB", -> returns false.
+
+Analysis:
+
+1. Finding paths in a matrix is slightly different from finding dots or areas.
+2. BFS is not good for this type of tasks.
+3. Use DFS when you need to find paths in a matrix.
+
+Code:
+{% highlight python %}
+class Solution(object):
+    def exist(self, board, word):
+        """
+        :type board: List[List[str]]
+        :type word: str
+        :rtype: bool
+        """
+        if word == '':
+            return True
+        if board == [] or board == [[]]:
+            return False
+
+        for i in range(len(board)):
+            for j in range(len(board[0])):
+                if self.dfs(board, i, j, word):
+                    return True
+        return False
+    
+    def dfs(self, board, x, y, word):
+        if word == '':
+            return True
+        if x < 0 or x >= len(board) or \
+            y < 0 or \
+            y >= len(board[0]) or \
+            word[0] != board[x][y]:
+            return False
+        temp = board[x][y]
+        board[x][y] = -1
+        result = self.dfs(board, x+1, y, word[1:]) or \
+                self.dfs(board, x-1, y, word[1:]) or \
+                self.dfs(board, x, y-1, word[1:]) or \
+                self.dfs(board, x, y+1, word[1:])
+        board[x][y] = temp
+        return result
+{% endhighlight %}
