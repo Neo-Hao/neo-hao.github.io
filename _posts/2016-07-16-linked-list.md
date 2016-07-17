@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Rotate List
+title: Linked List
 ---
+
+### Common strategies for handling linked lists:
+
+1. Use a fake head
+2. When you need to reverse a linked list, it's easier to construct it backwards.
+3. Be very cautious to call next method on a node if there's no condition checking.
 
 ### Leetcode Question 61
 Given a list, rotate the list to the right by k places, where k is non-negative.
@@ -83,4 +89,50 @@ class Solution(object):
         start = length - k
         
         nums[:] = nums[start:] + nums[:start]
+{% endhighlight %}
+
+
+### Leetcode Question 2
+
+You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+
+Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Output: 7 -> 0 -> 8
+
+Analysis:
+
+1. The trick to make the code for this question succinct is to make the loop condition as A or B or C.
+
+Code:
+{% highlight python %}
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+
+        carry = 0
+        head_fake = track = ListNode(0)
+        
+        while l1 or l2 or carry:
+            v1 = v2 = 0
+            if l1:
+                v1 = l1.val
+                l1 = l1.next
+            if l2:
+                v2 = l2.val
+                l2 = l2.next
+            carry, val = (v1+v2+carry)//10, (v1+v2+carry)%10
+            track.next = ListNode(val)
+            track = track.next
+        
+        return head_fake.next
 {% endhighlight %}
