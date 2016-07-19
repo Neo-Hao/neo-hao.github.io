@@ -1,7 +1,70 @@
 ---
 layout: post
-title: Topological Sort
+title: Graph Sort
 ---
+
+### Basics of Graph Sorting
+
+1. There are largely two types o graph sorting problems: a) Directed Acyclic Graph (DAG) Sorting, b) Directed Cyclic Graph (DCG) Sorting.
+2. To solve problems on DAG, use topological sorting.
+3. To solve problems on DCG, use DFS.
+
+
+### Leetcode Question 332
+
+Given a list of airline tickets represented by pairs of departure and arrival airports [from, to], reconstruct the itinerary in order. All of the tickets belong to a man who departs from JFK. Thus, the itinerary must begin with JFK.
+
+Note:
+
+1. If there are multiple valid itineraries, you should return the itinerary that has the smallest lexical order when read as a single string. For example, the itinerary ["JFK", "LGA"] has a smaller lexical order than ["JFK", "LGB"].
+2. All airports are represented by three capital letters (IATA code).
+3. You may assume all tickets form at least one valid itinerary.
+
+Example 1:
+
+*tickets = [["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]]
+* Return ["JFK", "MUC", "LHR", "SFO", "SJC"].
+
+Example 2:
+
+* tickets = [["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]]
+* Return ["JFK","ATL","JFK","SFO","ATL","SFO"].
+* Another possible reconstruction is ["JFK","SFO","ATL","JFK","ATL","SFO"]. But it is larger in lexical order.
+
+Analysis:
+
+1. Use DFS.
+2. When a node is visited, pop its neighbors and visit them one by one. 
+3. The path needs to be constructed backwards. When a node does not go to any other nodes, add it to the path.
+
+Code:
+{% highlight python %}
+class Solution(object):
+    def findItinerary(self, tickets):
+        """
+        :type tickets: List[List[str]]
+        :rtype: List[str]
+        """
+        print(tickets)
+        print(sorted(tickets)[::-1])
+        
+        targets = collections.defaultdict(list)
+        for a, b in sorted(tickets)[::-1]:
+            targets[a] += b,
+        #print(targets)
+        
+        route = []
+        self.visit('JFK', targets, route)
+        return route[::-1]
+    
+    def visit(self, airport, targets, route):
+        while targets[airport]:
+            airport_next = targets[airport].pop()
+            self.visit(airport_next, targets, route)
+        route.append(airport)
+        #print(route)
+        #print(targets)
+{% endhighlight %}
 
 ### Leetcode Question 207
 There are a total of n courses you have to take, labeled from 0 to n - 1. Some courses may have prerequisites, for example to take course 0 you have to first take course 1, which is expressed as a pair: [0,1]. Given the total number of courses and a list of prerequisite pairs, is it possible for you to finish all courses?

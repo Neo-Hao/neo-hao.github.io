@@ -2,6 +2,93 @@
 layout: post
 title: Dynamic Programming
 ---
+
+### Signals to Use Dynamic Programming
+
+1. Optimal substructure: If I could break a problem into smaller versions of it, and then combine solutions to the smaller problems, I'll have solved the problem at hand.
+2. Overlapping subproblems: While solving those smaller problem that leads to the same repetitive calculation steps, we term these as overlapping sub problems. 
+
+### Leetcode Question 139
+Given a string s and a dictionary of words dict, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+
+For example, given s = "leetcode", dict = ["leet", "code"].
+
+Return true because "leetcode" can be segmented as "leet code".
+
+Analysis:
+
+1. s can be segmented multiple times at multiple positions.
+2. dp[i] represents whether a string of length i can be segmented to match words in the dictionary.
+
+Code:
+
+{% highlight python %}
+class Solution(object):
+    def wordBreak(self, s, wordDict):
+        """
+        :type s: str
+        :type wordDict: Set[str]
+        :rtype: bool
+        """
+        table = {}
+        for i in wordDict:
+            table[i] = 1
+        
+        dp = [True] + [False]* len(s)
+        for i in range(len(s)):
+            for j in range(i, len(s)):
+                if dp[i] and table.get(s[i:j+1], -1) != -1:
+                    dp[j+1] = True
+                    print(dp)
+        
+        return dp[-1]
+{% endhighlight %}
+
+
+### Leetcode Question 322
+You are given coins of different denominations and a total amount of money amount. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.
+
+Example 1:
+coins = [1, 2, 5], amount = 11
+return 3 (11 = 5 + 5 + 1)
+
+Example 2:
+coins = [2], amount = 3
+return -1.
+
+Note: You may assume that you have an infinite number of each kind of coin.
+
+Analysis:
+
+1. Sort the coins firstly.
+2. Prepare a list of the needed coin numbers
+3. An embedded loop of coins and money amount is necessary. For the first and smallest coin, replace the list with the number of this coin needed for an amount if possible. It means that "when possible, what is the min number of the needed coins using only the smallest coin".
+4. For the next coin, do the same thing. However, its meaning is a little bit different now: when possible, what is the min number of the needed coins using both the smallest coin and the next coin.
+5. As the loop goes on, the true min number of needed coins will be calculated if possible.
+
+Code:
+{% highlight python %}
+class Solution(object):
+    def coinChange(self, coins, amount):
+        """
+        :type coins: List[int]
+        :type amount: int
+        :rtype: int
+        """
+        coins.sort()
+        need = [0] + [amount+1]*amount
+        
+        for c in coins:
+            for i in range(c, amount+1):
+                need[i] = min(need[i], need[i-c]+1)
+        
+        if need[-1] > amount:
+            return -1
+        else:
+            return need[-1]
+{% endhighlight %}
+
+
 ### Leetcode Question 91
 A message containing letters from A-Z is being encoded to numbers using the following mapping:
 {% highlight python %}
@@ -55,9 +142,7 @@ Examples:
 
 Analysis:
 
-1. Dynamic programming is the solution for this type of problems.
-2. Use a set as the sliding window to traverse from the beginning to the end. Use start and end as two pointers to mark the longest string.
-3. As long as there is the need to traverse the whole strong or list to find the answer, dynamic programming could be the potential solution.
+1. Use a set as the sliding window to traverse from the beginning to the end. Use start and end as two pointers to mark the longest string.
 
 Code:
 {% highlight python %}

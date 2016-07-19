@@ -2,6 +2,12 @@
 layout: post
 title: Graph Search
 ---
+
+### Graph Searching
+
+1. Identification of the problem pattern is the key.
+2. There is a small but significant difference between area/dot searching and path searching. If it is path searching, only DFS should be used.
+
 ### Leetcode Question 130
 Given a 2D board containing 'X' and 'O', capture all regions surrounded by 'X'. A region is captured by flipping all 'O's into 'X's in that surrounded region. For example,
 {% highlight python %}
