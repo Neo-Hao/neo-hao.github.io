@@ -1,12 +1,45 @@
 ---
 layout: post
-title: Trie (Prefix Tree)
+title: Dealing with Numbers
 ---
 
 ### Some bascis of dealing with numbers
 
 1. When A is added to B digit by digit, the number left on that position and the carry follow the following rule: carry, val = (v1+v2+carry)//10, (v1+v2+carry)%10.
 2. When A is multiplied by B digit by digit, it follows the same rule as the addition. The length of the result will be no bigger than the size of A plus the size of B.
+3. How to find sqrt of a number: binary search
+
+
+### Leetcode Question 69
+
+Implement int sqrt(int x). Compute and return the square root of x.
+
+Analysis:
+
+1. Use binary search.
+
+Code:
+{% highlight python %}
+class Solution(object):
+    def mySqrt(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        if x == 0:
+            return 0
+        
+        right = x//2+1
+        left = 1
+        while True:
+            mid = (left + right)//2
+            if mid*mid <= x:
+                if mid*mid <= x and (mid+1)*(mid+1) > x:
+                    return mid
+                left = mid
+            else:
+                right = mid
+{% endhighlight %}
 
 
 ### Leetcode Question 2
@@ -59,6 +92,7 @@ class Solution(object):
 Given two numbers represented as strings, return multiplication of the numbers as a string.
 
 Note:
+
 1. The numbers can be arbitrarily large and are non-negative.
 2. Converting the input string to integer is NOT allowed.
 3. You should NOT use internal library such as BigInteger.

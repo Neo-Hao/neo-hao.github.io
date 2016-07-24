@@ -3,6 +3,11 @@ layout: post
 title: Spiral Matrix
 ---
 
+### Keys to Spiral Matrix Problem
+
+1. lambda expression
+2. itertools.count
+
 ### Leetcode Question 54
 Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order. For example, Given the following matrix:
 {% highlight python %}

@@ -3,6 +3,106 @@ layout: post
 title: Binary Tree Traversal
 ---
 
+### The basics of trees
+
+1. Node counting
+2. Max / min height calculation
+3. Preorder / inorder / postorder traversal
+
+
+### Leetcode Question 104
+
+Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+**Code:**
+
+{% highlight python %}
+class Solution(object):
+    def maxDepth(self, root):
+        if (root == None):
+            return 0
+        else:
+            return max(self.maxDepth(root.left)+1, self.maxDepth(root.right)+1)
+{% endhighlight %}
+
+
+### Leetcode Question 111
+
+Given a binary tree, find its minimum depth. The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+**Code:**
+
+{% highlight python %}
+class Solution(object):
+    def minDepth(self, root):
+        if not root:
+            return 0
+        if not root.left:
+            return self.minDepth(root.right)+1
+        if not root.right:
+            return self.minDepth(root.left)+1
+        
+        return min(self.minDepth(root.left)+1, self.minDepth(root.right)+1)
+{% endhighlight %}
+
+### Leetcode Question 200
+
+Given a binary tree, count the number of nodes.
+
+**Code:**
+
+{% highlight python %}
+class Solution(object):
+    def countNodes(self, root):
+        return self.get_count(root)
+    
+    def get_count(self, node):
+        if node == None:
+            return 0
+        else:
+            return self.get_count(node.left) + self.get_count(node.right) + 1
+{% endhighlight %}
+
+### Leetcode Question 222
+
+Given a complete binary tree, count the number of nodes.
+
+Definition of a complete binary tree from Wikipedia: In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and pow(2,h) nodes inclusive at the last level h.
+
+**Analysis:**
+
+1. The node number of a perfect tree can be calculated: pow(2, h) - 1, where h is the height of the tree. pow(2, h) can be written as 1 >> h.
+2. The basic idea is as the followings:
+    - Calculate the tree height
+    - Calculate the height from root.right
+    - If the difference between the two heights is 1, the last node is on the right side of the tree; else the last node is on the left side of the tree.
+
+**Code:**
+
+{% highlight python %}
+class Solution(object):
+    def countNodes(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        h = self.height(root)
+        if h < 0:
+            return 0
+        else:
+            h_right = self.height(root.right)
+            if h_right == h-1:
+                return (1<<\h) - 1 + 1 +self.countNodes(root.right)
+            else:
+                return (1<<(h-1)) - 1 + 1 +self.countNodes(root.left)
+            
+    def height(self, root):
+        if not root:
+            return -1
+        return self.height(root.left)+1
+{% endhighlight %}
+
+
 ### Leetcode Question 94
 Given a binary tree, return the inorder traversal of its nodes' values. For example: Given binary tree [1,null,2,3],
 
@@ -16,11 +116,11 @@ Given a binary tree, return the inorder traversal of its nodes' values. For exam
 
 return [1,3,2].
 
-Analysis:
+**Analysis:**
 
 1. Inorder, preorder, postorder traversals are must-to-knows.
 
-Code:
+**Code:**
 {% highlight python %}
 # Definition for a binary tree node.
 # class TreeNode(object):
@@ -62,8 +162,7 @@ Given binary tree {1,#,2,3},
 {% endhighlight %}
 return [1,2,3].
 
-Code:
-
+**Code:**
 {% highlight python %}
 # Definition for a binary tree node.
 # class TreeNode(object):
@@ -104,7 +203,7 @@ Given binary tree {1,#,2,3},
 {% endhighlight %}
 return [3,2,1].
 
-Code:
+**Code:**
 {% highlight python %}
 # Definition for a binary tree node.
 # class TreeNode(object):
@@ -137,11 +236,11 @@ class Solution(object):
 ### Leetcode Question 173
 Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST. Calling next() will return the next smallest number in the BST. Note: next() and hasNext() should run in average O(1) time and uses O(h) memory, where h is the height of the tree.
 
-Analysis:
+**Analysis:**
 
 1. Inorder traversal of binary tree is very helpful for searching problems related to trees.
 
-Code:
+**Code:**
 {% highlight python %}
 # Definition for a  binary tree node
 # class TreeNode(object):
@@ -194,11 +293,11 @@ class BSTIterator(object):
 ### Leetcode Question 173
 Given a binary search tree, write a function kthSmallest to find the kth smallest element in it. Note: You may assume k is always valid, 1 ≤ k ≤ BST's total elements. Follow up: What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine?
 
-Analysis:
+**Analysis:**
 
 1. Same as the previous question, inorder tree traversal is very helpful to tree-related searching problems.
 
-Code:
+**Code:**
 {% highlight python %}
 # Definition for a binary tree node.
 # class TreeNode(object):
