@@ -285,8 +285,6 @@ You can assume that no duplicate edges will appear in edges. Since all edges are
 
 Example 1: Given n = 4, edges = [[1, 0], [1, 2], [1, 3]]
 {% highlight python %}
-
-
         0
         |
         1
@@ -311,6 +309,7 @@ return [3, 4]
 
 Analysis:
 
+1. There is a difference between directed and undirected graphs in terms of making a graph in the format of dictionary. Directed graph only needs one traversal in the given order. Undirected graph needs traversals in both the given and reverse orders.
 1. Similar to topological sort, it is important to start with the nodes that have only one edges (degrees).
 2. Start with having the nodes that have degree 1 in a leave set. Have their adjacency info deleted. Remove them from their neighbors's adjacency information, and subtract their neighbors' degrees accordingly. If their neighbors also happen to have a degree as 1, then save them in a new set and swap with the original leave set by the end of the loop.
 3. Start from the both ends of nodes with degree as 1. Stop when there are less or equal to two nodes left.

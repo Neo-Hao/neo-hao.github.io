@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Binary Tree Traversal
+title: Binary Tree
 ---
 
 ### The basics of trees
@@ -8,6 +8,55 @@ title: Binary Tree Traversal
 1. Node counting
 2. Max / min height calculation
 3. Preorder / inorder / postorder traversal
+
+
+### Leetcode Question 236
+Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree. According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes v and w as the lowest node in T that has both v and w as descendants (where we allow a node to be a descendant of itself).”
+
+{% highlight python %}
+        _______3______
+       /              \
+    ___5__          ___1__
+   /      \        /      \
+   6      _2       0       8
+         /  \
+         7   4
+{% endhighlight %}
+
+For example, the lowest common ancestor (LCA) of nodes 5 and 1 is 3. Another example is LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
+
+**Analysis:**
+
+1. If found a node in left subtree and another in right subtree (neither left nor right is null), root would be the lca. Otherwise, at most one value (left or right) is not null, return the not-null value, which would be the lca found in subtree
+2. Use p, q and none as the boolean val: if p or q, ...; if None ...
+    - Scenario 1: p and q are on the left and right branches separately, left == p and right == q
+    - Scenario 2: p and q are on the left of the root, and the lowest common ancestor is saved as left
+
+**Code:**
+
+{% highlight python %}
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def lowestCommonAncestor(self, root, p, q):
+        if root == None or root == p or root == q:
+            return root
+
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+        
+        if left and right:
+            return root
+        if left == None:
+            return right
+        if right == None:
+            return left
+{% endhighlight %}
 
 
 ### Leetcode Question 104

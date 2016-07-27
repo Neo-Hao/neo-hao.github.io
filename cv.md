@@ -50,7 +50,7 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (In Press). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students. British Journal of Educational Technology. 
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (In Press). <a href="http://home.tobeneo.com/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>.
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474.
 
@@ -97,29 +97,21 @@ title: Curriculum Vitae
 ### Invited Review
 
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
-
 * Contemporary Issues in Technology & Teacher Education
-
 * Journal of Information Systems Education
-
 * Journal of Online Learning Research
-
 * Journal of Technology and Teacher Education
-
 * Journal of Computers in Education
 
 ### Routine Review
 
 * 2016 AECT Convention
-
 * 2016 AERA Annual Meeting 
 
 ### Software
 
 * Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> [Computer software]. Athens, GA.
-
 * Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
-
 * Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> [Computer software]. Athens, GA.
 
 ## Projects
@@ -127,7 +119,6 @@ title: Curriculum Vitae
 ### Independent Projects
 
 * Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
-
 * Web Scraping from the Website of U.S. General Servises Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
 
 ### Course Projects
@@ -160,8 +151,9 @@ title: Curriculum Vitae
 
 ## Awards, Grants, and Professional Memberships
 
-### Travel Awards
+### Awards
 
+* 2016 AECT Division of Distance Learning Journal Article Award
 * Student Travel Award. (2016). College of Education, University of Georgia.
 * Student Travel Award. (2015). Graduate School, University of Georgia.
 * Student Travel Award. (2015). Department of Career and Information Studies, University of Georgia.
@@ -174,7 +166,6 @@ title: Curriculum Vitae
 ### Grant Application
 
 * Hao, Q. (2016). Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms. Submitted on March 15, 2016; Requested $1,000 from the Innovative and Interdisciplinary Research Grants, The Graduate School, University of Georgia. Status: Pending.
-
 * Hao, Q. & Branch, M. R. (2016). Intelligent Suggestion Algorithms for Learning Question Revision. Submitted on February 12, 2016; Requested $6,700 from the Parents & Families Association. Status: Rejected.
 
 ### Professional Membership

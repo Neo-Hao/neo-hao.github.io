@@ -5,8 +5,7 @@ title: Permutation
 
 ### Permutation
 
-1. It is worth memorizing the solution to How to find the next permutation.
-2. There is a pattern in locating then nth permutation.
+1. The basic idea of backtracking is to revert what you did after calling the same function recursively.
 
 
 ### Leetcode Question 31
@@ -19,7 +18,52 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 * 3,2,1 → 1,2,3
 * 1,1,5 → 1,5,1
 
-Analysis:
+**Analysis of Method 1:**
+
+1. Find the first item (index i) from the end that is smaller than another item whose index (j) is bigger. 
+2. Exchange the two.
+3. Sort the list from i+1 till the end.
+4. Another case is when the list is already in descending order, you need to reverse the list.
+
+**Code of Method 1**:
+{% highlight python %}
+class Solution(object):
+    def nextPermutation(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: void Do not return anything, modify nums in-place instead.
+        """
+        for i in range(len(nums)-2, -1, -1):
+            for j in range(len(nums)-1, i, -1):
+                if nums[i] < nums[j]:
+                    tmp = nums[i]
+                    nums[i] = nums[j]
+                    nums[j] = tmp
+                    nums[i+1:] = sorted(nums[i+1:])
+                    return
+        nums[:] = nums[::-1]
+{% endhighlight %}
+
+**Code of Method 2**:
+{% highlight python %}
+class Solution(object):
+    def nextPermutation(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: void Do not return anything, modify nums in-place instead.
+        """
+        for i in range(len(nums)-2, -1, -1):
+            for j in range(len(nums)-1, i, -1):
+                if nums[i] < nums[j]:
+                    tmp = nums[i]
+                    nums[i] = nums[j]
+                    nums[j] = tmp
+                    nums[i+1:] = sorted(nums[i+1:])
+                    return
+        nums[:] = nums[::-1]
+{% endhighlight %}
+
+**Analysis of Method 2:**
 
 The algorithm is as the following:
 
@@ -33,7 +77,7 @@ Note:
 1. How to reverse part of the list: a[k:] = a[k:][::-1]
 2. To reverse a list in place: nums[:] = nums[::-1]
 
-Code:
+**Code of Method 2**:
 {% highlight python %}
 class Solution(object):
     def nextPermutation(self, nums):
@@ -116,12 +160,35 @@ Given a collection of distinct numbers, return all possible permutations. For ex
 ]
 {% endhighlight %}
 
-Analysis:
+**Analysis:**
 
 1. Very typical backtracking problem.
 2. Be careful when dealing with the recursive function that has list as a parameter.
+3. A more general solution is to sort the list first, then use DFS without backtracking.
 
-Code:
+**Code of DFS**:
+{% highlight python %}
+class Solution(object):
+    def permute(self, nums):
+        result = []
+        nums.sort()
+        self.permute_unique(nums, 0, result)
+        return result
+    
+    def permute_unique(self, nums, start, result):
+        if start == len(nums):
+            result.append(nums)
+        
+        for i in range(start, len(nums)):
+            if i != start and nums[i] == nums[start]:
+                continue
+            tmp = nums[start]
+            nums[start] = nums[i]
+            nums[i] = tmp
+            self.permute_unique(nums[:], start+1, result)
+{% endhighlight %}
+
+**Code of backtracking**:
 {% highlight python %}
 class Solution(object):
     def permute(self, nums):
@@ -130,17 +197,20 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         result = []
-        self.permute_helper(nums, 0, len(nums), result)
+        self.permute_helper(nums, 0, result)
         return result
     
-    def permute_helper(self, nums, start, end, result):
-        if start == end -1:
+    def permute_helper(self, nums, start, result):
+        if start == len(nums):
             result.append(nums)
         else:
+            for current in range(start, end):
+                if current != start and nums[current] == nums[start]:
+                    continue
                 temp = nums[current]
                 nums[current] = nums[start]
                 nums[start] = temp
-                self.permute_helper(nums[:], start+1, end, result)
+                self.permute_helper(nums[:], start+1, result)
                 temp = nums[current]
                 nums[current] = nums[start]
                 nums[start] = temp
@@ -171,29 +241,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
+        if nums == []:
+            return []
+        
         result = []
-        table = {}
-        self.permute(nums, 0, len(nums), result, table)
+        nums.sort()
+        self.permute(nums, 0, result)
         return result
     
-    def permute(self, nums, start, end, result, table):
-        if start == end -1:
+    def permute(self, nums, start, result):
+        if start == len(nums):
             result.append(nums)
-        else:
-            for current in range(start, end):
-                if self.noswap(nums, start, current):
-                    continue
-                
-                temp = nums[current]
-                nums[current] = nums[start]
-                nums[start] = temp
-                self.permute(nums[:], start+1, end, result, table)
-                temp = nums[current]
-                nums[current] = nums[start]
-                nums[start] = temp
-    
-    def noswap(self, nums, s, c):
-        for i in range(s, c):
-            if nums[i] == nums[c]:
-                return True
+        
+        for i in range(start, len(nums)):
+            if i != start and nums[i] == nums[start]:
+                continue
+            tmp = nums[start]
+            nums[start] = nums[i]
+            nums[i] = tmp
+            self.permute(nums[:], start+1, result)
 {% endhighlight %}

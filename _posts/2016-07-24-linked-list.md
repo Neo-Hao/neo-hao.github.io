@@ -9,6 +9,109 @@ title: Linked List
 2. When you need to reverse a linked list, it's easier to construct it backwards.
 3. Be very cautious to call next method on a node if there's no condition checking.
 
+
+### Leetcode Question 92
+Reverse a linked list from position m to n. Do it in-place and in one-pass.
+
+For example: Given 1->2->3->4->5->NULL, m = 2 and n = 4, return 1->4->3->2->5->NULL.
+
+Given m, n satisfy the following condition: 1 ≤ m ≤ n ≤ length of list.
+
+**Code:**
+
+{% highlight python %}
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def reverseBetween(self, head, m, n):
+        """
+        :type head: ListNode
+        :type m: int
+        :type n: int
+        :rtype: ListNode
+        """
+        if m == n or not head or not head.next:
+            return head
+        
+        head_fake = ListNode(-1)
+        head_fake.next = head
+        
+        c = 1
+        prev = head_fake
+        while c < m:
+            prev = head
+            head = head.next
+            c += 1
+        
+        self.reverse(prev, head, m, n)
+        return head_fake.next
+    
+    def reverse(self, prev_con, head, n, m):
+        prev = None
+        end = head
+        
+        next_con = None
+        while n <= m:
+            if n == m:
+                next_con = head.next
+            
+            tmp = head.next
+            head.next = prev
+            prev = head
+            head = tmp
+            n += 1
+        
+        prev_con.next = prev
+        end.next = next_con
+{% endhighlight %}        
+
+
+### Leetcode Question 82
+Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.
+
+For example,
+
+Given 1->2->3->3->4->4->5, return 1->2->5.
+Given 1->1->1->2->3, return 2->3.
+
+**Code:**
+
+{% highlight python %}
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def deleteDuplicates(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if not head or not head.next:
+            return head
+        
+        head_fake = prev = ListNode(-1)
+        head_fake.next = head
+        
+        while head.next:
+            if head.val == head.next.val:
+                while head.next and head.val == head.next.val:
+                    head = head.next
+                head = head.next
+                prev.next = head
+            else:
+                prev = head
+                head = head.next
+        return head_fake.next
+{% endhighlight %}
+
+
 ### Leetcode Question 61
 Given a list, rotate the list to the right by k places, where k is non-negative.
 
