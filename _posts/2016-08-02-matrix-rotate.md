@@ -8,7 +8,32 @@ title: Spiral Matrix
 1. lambda expression
 2. itertools.count
 
-### Leetcode Question 54
+
+### Rotate Image
+You are given an n x n 2D matrix representing an image. Rotate the image by 90 degrees (clockwise).
+
+**Analysis:**
+
+1. The most common way to roate a n*n matrix is to:
+    1. Reverse the matrix
+    2. Swap the items along the diagonal.
+
+**Code:**
+{% highlight python %}
+class Solution(object):
+    def rotate(self, matrix):
+        """
+        :type matrix: List[List[int]]
+        :rtype: void Do not return anything, modify matrix in-place instead.
+        """
+        matrix.reverse()
+        for i in range(len(matrix)):
+            for j in range(i):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+{% endhighlight %}
+
+
+### Spiral Matrix
 Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order. For example, Given the following matrix:
 {% highlight python %}
 [
@@ -17,6 +42,8 @@ Given a matrix of m x n elements (m rows, n columns), return all elements of the
  [ 7, 8, 9 ]
 ]
 {% endhighlight %}
+
+You should return [1,2,3,6,9,8,7,4,5].
 
 Analysis:
 

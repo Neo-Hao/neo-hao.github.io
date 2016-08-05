@@ -343,6 +343,51 @@ class Solution(object):
         return result[-1]
 {% endhighlight %}
 
+
+### Leetcode Question 64
+Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right which minimizes the sum of all numbers along its path.
+
+Note: You can only move either down or right at any point in time.
+
+**Analysis:**
+
+1. No need to create a separate matrix. All operations can be done on the given one. Each cell in the marix represents the min steps to reach it.
+2. The most left column and the most upper row can be quickly calculated because there's only one way to get to those cells in that column and row.
+3. If you really have to create a new matrix, never use "*". "*" creates a lot of confusions in python when it comes to making a new matrix.
+
+{% highlight python %}
+# wrong way
+# each sublist refers to the same sublist
+# if you try to update a cell, all other cells in the same col will be updated
+# DO NOT DO So
+a = [[None]*7]*7
+
+# right way
+# DO SO
+a = [[None]*7 for _ in range(7)]
+{% endhighlight %}
+
+**Code:**
+{% highlight python %}
+class Solution(object):
+    def minPathSum(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
+        m = len(grid)
+        n = len(grid[0])
+        for i in range(1, n):
+            grid[0][i] += grid[0][i-1]
+        for i in range(1, m):
+            grid[i][0] += grid[i-1][0]
+        for i in range(1, m):
+            for j in range(1, n):
+                grid[i][j] += min(grid[i-1][j], grid[i][j-1])
+        return grid[-1][-1]
+{% endhighlight %}
+
+
 ### Leetcode Question 198
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 
