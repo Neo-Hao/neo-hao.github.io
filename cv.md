@@ -178,5 +178,5 @@ title: Curriculum Vitae
 
 * Editorial Review Board Member of Journal of Online Learning Research
 * Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
-* Editorial Review Board Member of Journal of Online Learning Research
+* Editorial Review Board Member of Journal of Computers in Education
 * Editorial Review Board Member of Journal of Technology and Teacher Education
