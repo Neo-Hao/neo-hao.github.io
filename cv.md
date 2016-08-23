@@ -23,7 +23,7 @@ title: Curriculum Vitae
 
 <strong>Developer</strong>, August 2013 - Current, <a href="http://grad.uga.edu/" target="_blank">Graduate School, University of Georgia</a>
 
-* Tranformation of the Graduate School Website from Static to Dynamic
+* Transformation of the Graduate School Website from Static to Dynamic
 * Design of the responsive theme for Graduate School Website
 * Optimization of Graduate Program Information System; boosting the system loading time by 80% 
 
@@ -36,7 +36,7 @@ title: Curriculum Vitae
 * Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
 * Social Media Management of AACE
 
-<strong>Developer (Intership)</strong>, May 2014 - August 2014, <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network</a>
+<strong>Developer (Internship)</strong>, May 2014 - August 2014, <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network</a>
 
 * Development of Course Resource System as the core part of CTAE Resource Network system
 
@@ -112,14 +112,14 @@ title: Curriculum Vitae
 
 * Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> [Computer software]. Athens, GA.
 * Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
-* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Servises Administration</a> [Computer software]. Athens, GA.
+* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Services Administration</a> [Computer software]. Athens, GA.
 
 ## Projects
 
 ### Independent Projects
 
 * Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
-* Web Scraping from the Website of U.S. General Servises Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
+* Web Scraping from the Website of U.S. General Services Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
 
 ### Course Projects
 
