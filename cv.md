@@ -80,15 +80,17 @@ title: Curriculum Vitae
 
 ### Conference Presentations
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented in AERA Annual Meeting 2016, Washington, DC.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented at AERA Annual Meeting 2016, Washington, DC.
 
-* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented in SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented at SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
 
-* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented in Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented at Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
+
+* <strong>Hao, Q.</strong>. (2016). The Application of Data Mining in Education. Presented at IDD@UGA 2016, Athens, GA.
 
 * Branch, R. M., & <strong>Hao, Q.</strong> (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
 
-* Lu, J., & <strong>Hao, Q.</strong> (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Presented in AERA Annual Meeting 2014, Philadelphia, PA.
+* Lu, J., & <strong>Hao, Q.</strong> (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Presented at AERA Annual Meeting 2014, Philadelphia, PA.
 
 * <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong.
 
@@ -113,17 +115,6 @@ title: Curriculum Vitae
 * Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> [Computer software]. Athens, GA.
 * Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
 * Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Services Administration</a> [Computer software]. Athens, GA.
-
-## Projects
-
-### Independent Projects
-
-* Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
-* Web Scraping from the Website of U.S. General Services Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
-
-### Course Projects
-
-* Application of the Genetic Algorithm and Binary Particle Swarm Optimization on the Multiple Fault Diagnosis problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
 
 ## Teaching Experience
 
@@ -180,3 +171,27 @@ title: Curriculum Vitae
 * Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
 * Editorial Review Board Member of Journal of Computers in Education
 * Editorial Review Board Member of Journal of Technology and Teacher Education
+
+## Projects
+
+### Independent Projects
+
+* Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
+	1. Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
+	2. Implementation of the front-end design in Javascript and HTML
+	3. Soliciting feedback from potential users.
+* Web Scraping from the Website of U.S. General Services Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
+	* Design and Implementation of a web scrapping tool for data collection from the Website of U.S. General Servises Administration
+* Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms
+	* This project explored the automatic classification of computer science students’ questions on online Question & Answer (Q & A) platforms. To achieve this, 983 questions were collected from a Q & A platform implemented by an introductory programming course over four semesters in a large research university in the Southeastern United States. Questions were hierarchically and manually classified into three categories: 1) learning-content-irrelevant questions, 2) effective learning-content-relevant questions, 3) ineffective learning-content-relevant questions. The inter-rater reliability of the manual classification (Pearson’s r) is .91. Four different machine learning algorithms were then used to automatically classify the questions, including Naive Bayes Multinomial, Logistic Regression, Support Vector Machines, and Boosted Decision Tree. Both flat and single path strategies were explored, and the most effective algorithms under both strategies were identified.
+
+### Course Projects
+
+* Application of the Naturally Inspired Algorithms on the Multiple Fault Diagnosis Problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
+	1. Implementation of the Genetic Algorithm and Particle Swarm Optimization using Python
+	2. Implementation of likelyhood fitness calculations
+	3. Verification of the results of the Genetic Algorithm and Particle Swarm Optimization
+* Forest Planning Optimization using the Genetic Algorithm (<a href="http://bit.ly/1OmAxxn" target="_blank">http://bit.ly/1OmAxxn</a>)
+	1. Implementation of the Genetic Algorithm using Python
+	2. Design a scheme to deal with adjacency issues
+	3. Achieve record-breaking optimization results compared with the results reported in the currently published papers
