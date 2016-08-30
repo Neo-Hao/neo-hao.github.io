@@ -8,12 +8,10 @@ title: Curriculum Vitae
 <strong>Ph.D.</strong>, 2017 (Expected), University of Georgia
 
 * Major: Learning, Design and Technology
-* Research focuses: Help Seeking, Goal Setting, Self-Regulated Learning, and Problem-Solving
 
 <strong>M.Sc.</strong>, 2017 (Expected), University of Georgia
 
 * Major: Computer Science
-* Research focuses: Educational Data Mining, Application of Artificial Intelligence in Educational Technology
 
 <strong>M.Sc.</strong>, 2012, University of Hong Kong
 
@@ -172,7 +170,7 @@ title: Curriculum Vitae
 * Editorial Review Board Member of Journal of Computers in Education
 * Editorial Review Board Member of Journal of Technology and Teacher Education
 
-## Projects
+## Skills and Selected Projects
 
 ### Independent Projects
 
@@ -195,3 +193,10 @@ title: Curriculum Vitae
 	1. Implementation of the Genetic Algorithm using Python
 	2. Design a scheme to deal with adjacency issues
 	3. Achieve record-breaking optimization results compared with the results reported in the currently published papers
+
+### Skills
+
+* Statistical Programming: Python, R
+* Big data analysis: Spark, Weka
+* Web Application Development: PHP, Javascript
+* Other Programming Languages: Java, C, C++
