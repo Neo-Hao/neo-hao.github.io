@@ -176,10 +176,10 @@ title: Curriculum Vitae
 
 * Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
 	1. Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
-	2. Implementation of the front-end design in Javascript and HTML
+	2. Implementation of the front-end design in JavaScript and HTML
 	3. Soliciting feedback from potential users.
 * Web Scraping from the Website of U.S. General Services Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
-	* Design and Implementation of a web scrapping tool for data collection from the Website of U.S. General Servises Administration
+	* Design and Implementation of a web scrapping tool for data collection from the Website of U.S. General Services Administration
 * Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms
 	* This project explored the automatic classification of computer science students’ questions on online Question & Answer (Q & A) platforms. To achieve this, 983 questions were collected from a Q & A platform implemented by an introductory programming course over four semesters in a large research university in the Southeastern United States. Questions were hierarchically and manually classified into three categories: 1) learning-content-irrelevant questions, 2) effective learning-content-relevant questions, 3) ineffective learning-content-relevant questions. The inter-rater reliability of the manual classification (Pearson’s r) is .91. Four different machine learning algorithms were then used to automatically classify the questions, including Naive Bayes Multinomial, Logistic Regression, Support Vector Machines, and Boosted Decision Tree. Both flat and single path strategies were explored, and the most effective algorithms under both strategies were identified.
 
@@ -187,7 +187,7 @@ title: Curriculum Vitae
 
 * Application of the Naturally Inspired Algorithms on the Multiple Fault Diagnosis Problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
 	1. Implementation of the Genetic Algorithm and Particle Swarm Optimization using Python
-	2. Implementation of likelyhood fitness calculations
+	2. Implementation of likelihood fitness calculations
 	3. Verification of the results of the Genetic Algorithm and Particle Swarm Optimization
 * Forest Planning Optimization using the Genetic Algorithm (<a href="http://bit.ly/1OmAxxn" target="_blank">http://bit.ly/1OmAxxn</a>)
 	1. Implementation of the Genetic Algorithm using Python
@@ -198,5 +198,5 @@ title: Curriculum Vitae
 
 * Statistical Programming: Python, R
 * Big data analysis: Spark, Weka
-* Web Application Development: PHP, Javascript
+* Web Application Development: PHP, JavaScript
 * Other Programming Languages: Java, C, C++
