@@ -96,12 +96,15 @@ title: Curriculum Vitae
 
 ### Invited Review
 
-* Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
-* Contemporary Issues in Technology & Teacher Education
+* IEEE Transactions on Education
+* Journal of Technology, Knowledge and Learning
+* Journal of Computers in Education
 * Journal of Information Systems Education
 * Journal of Online Learning Research
 * Journal of Technology and Teacher Education
-* Journal of Computers in Education
+* Contemporary Issues in Technology & Teacher Education
+* Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
+
 
 ### Routine Review
 
@@ -127,6 +130,8 @@ title: Curriculum Vitae
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
 ### Assigned Teaching
+
+* August 2016 - December 2016, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
 
 * May 2016 - June 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
 
