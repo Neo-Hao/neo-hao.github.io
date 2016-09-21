@@ -21,8 +21,8 @@ title: Curriculum Vitae
 
 <strong>Developer</strong>, August 2013 - Current, <a href="http://grad.uga.edu/" target="_blank">Graduate School, University of Georgia</a>
 
-* Transformation of the Graduate School Website from Static to Dynamic
-* Design of the responsive theme for Graduate School Website
+* Development and Maintenance of the Graduate School Website
+* Design of the responsive theme of the Graduate School Website
 * Optimization of Graduate Program Information System; boosting the system loading time by 80% 
 
 <strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
@@ -59,10 +59,6 @@ title: Curriculum Vitae
 * <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (In Press). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>.
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://home.tobeneo.com/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
-
-### Manuscripts under Review
-
-* <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
 
 ### Conference Proceedings
 
@@ -105,17 +101,10 @@ title: Curriculum Vitae
 * Contemporary Issues in Technology & Teacher Education
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
-
 ### Routine Review
 
 * 2016 AECT Convention
 * 2016 AERA Annual Meeting 
-
-### Software
-
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Facilitator of Online Help Seeking Among Computer Science Students</a> [Computer software]. Athens, GA.
-* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a> [Computer software]. Athens, GA.
-* Hao, Q. (2014). <a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">Web Scraping from the Website of U.S. General Services Administration</a> [Computer software]. Athens, GA.
 
 ## Teaching Experience
 
@@ -175,20 +164,21 @@ title: Curriculum Vitae
 * Editorial Review Board Member of Journal of Computers in Education
 * Editorial Review Board Member of Journal of Technology and Teacher Education
 
-## Skills and Selected Projects
+## Projects
 
-### Independent Projects
+### Selected Independent Projects
 
-* Facilitator of Online Help Seeking Among Computer Science Students (<a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">http://bit.ly/1WfII0y</a>)
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Automatic Facilitator of Online Help Seeking Among Computer Science Students</a>
 	1. Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
 	2. Implementation of the front-end design in JavaScript and HTML
 	3. Soliciting feedback from potential users.
+* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a>
 * Web Scraping from the Website of U.S. General Services Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
 	* Design and Implementation of a web scrapping tool for data collection from the Website of U.S. General Services Administration
 * Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms
 	* This project explored the automatic classification of computer science students’ questions on online Question & Answer (Q & A) platforms. To achieve this, 983 questions were collected from a Q & A platform implemented by an introductory programming course over four semesters in a large research university in the Southeastern United States. Questions were hierarchically and manually classified into three categories: 1) learning-content-irrelevant questions, 2) effective learning-content-relevant questions, 3) ineffective learning-content-relevant questions. The inter-rater reliability of the manual classification (Pearson’s r) is .91. Four different machine learning algorithms were then used to automatically classify the questions, including Naive Bayes Multinomial, Logistic Regression, Support Vector Machines, and Boosted Decision Tree. Both flat and single path strategies were explored, and the most effective algorithms under both strategies were identified.
 
-### Course Projects
+### Selected Course Projects
 
 * Application of the Naturally Inspired Algorithms on the Multiple Fault Diagnosis Problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
 	1. Implementation of the Genetic Algorithm and Particle Swarm Optimization using Python
@@ -199,9 +189,18 @@ title: Curriculum Vitae
 	2. Design a scheme to deal with adjacency issues
 	3. Achieve record-breaking optimization results compared with the results reported in the currently published papers
 
-### Skills
+## Skills
 
-* Statistical Programming: Python, R
-* Big data analysis: Spark, Weka
-* Web Application Development: PHP, JavaScript
-* Other Programming Languages: Java, C, C++
+**Programming Languages**
+
+* Python; R (Expert)
+* PHP (Proficient)
+* JavaScript; Java; C; C++ (Prior Experience)
+
+**Others**
+
+* Unix; Linux (Operating Systems)
+* MySQL (Database)
+* Amazon EC2 (Cloud Computing)
+* Spark; XGboost (Data Mining)
+
