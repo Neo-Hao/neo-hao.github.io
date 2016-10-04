@@ -168,39 +168,67 @@ title: Curriculum Vitae
 
 ### Selected Independent Projects
 
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Automatic Facilitator of Online Help Seeking Among Computer Science Students</a>
-	1. Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
-	2. Implementation of the front-end design in JavaScript and HTML
-	3. Soliciting feedback from potential users.
-* Hao, Q. (2015). <a href="https://github.com/Neo-Hao/TwitterHashtagR" target="_blank">Data Collection and Analysis Tool for Twitter</a>
-* Web Scraping from the Website of U.S. General Services Administration (<a href="https://github.com/Neo-Hao/Web-Scraping-from-USGSA" target="_blank">http://bit.ly/1TLeVdT</a>)
-	* Design and Implementation of a web scrapping tool for data collection from the Website of U.S. General Services Administration
 * Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms
-	* This project explored the automatic classification of computer science students’ questions on online Question & Answer (Q & A) platforms. To achieve this, 983 questions were collected from a Q & A platform implemented by an introductory programming course over four semesters in a large research university in the Southeastern United States. Questions were hierarchically and manually classified into three categories: 1) learning-content-irrelevant questions, 2) effective learning-content-relevant questions, 3) ineffective learning-content-relevant questions. The inter-rater reliability of the manual classification (Pearson’s r) is .91. Four different machine learning algorithms were then used to automatically classify the questions, including Naive Bayes Multinomial, Logistic Regression, Support Vector Machines, and Boosted Decision Tree. Both flat and single path strategies were explored, and the most effective algorithms under both strategies were identified.
+	* Development Tools: 
+		* PHP, Laravel Framework; JavaScript, JQuery; HTML, CSS, Bootstrap
+	* Data Mining Tools: 
+		* Spark, Python, Amazon EC2
+	* Summary:
+		* Lead a team to explore effective combinations of algorithms that predict learning relevance and quality of students’ questions
+		* Hands-on experience with large dataset (> 10 GB Text data from Question & Answer Platforms)
+		* Design algorithm combination in tree structure that reaches 91% accuracy in question classification
+		* Develop and deploy a prototype Question & Answer platform on distributed system
+
+
+* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Automatic Facilitator of Online Help Seeking Among Computer Science Students</a>
+	* Development Tools: 
+		* JavaScript, JQuery; HTML, CSS, Bootstrap
+	* Summary:
+		* Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
+		* Implementation of the front-end design
+		* Soliciting feedback from potential users
 
 ### Selected Course Projects
 
+* Sport Facility Management System
+	* Development Tools: 
+		* Java; JavaScript
+	* Summary:
+		* Work in a team of four
+		* Design Management System based on given requirements
+		* Implement key functionalities such as automatic match arrangement, room booking subsystem
+
+
 * Application of the Naturally Inspired Algorithms on the Multiple Fault Diagnosis Problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
-	1. Implementation of the Genetic Algorithm and Particle Swarm Optimization using Python
-	2. Implementation of likelihood fitness calculations
-	3. Verification of the results of the Genetic Algorithm and Particle Swarm Optimization
+	* Development Tools: 
+		* Python; Java
+	* Summary:
+		* Implementation of the Genetic Algorithm and Particle Swarm Optimization using Python
+		* Implementation of likelihood fitness calculations
+		* Verification of the results of the Genetic Algorithm and Particle Swarm Optimization
+
+
 * Forest Planning Optimization using the Genetic Algorithm (<a href="http://bit.ly/1OmAxxn" target="_blank">http://bit.ly/1OmAxxn</a>)
-	1. Implementation of the Genetic Algorithm using Python
-	2. Design a scheme to deal with adjacency issues
-	3. Achieve record-breaking optimization results compared with the results reported in the currently published papers
+
+	* Development Tools: 
+		* Python; Java
+	* Summary:
+		* Implementation of the Genetic Algorithm using Python
+		* Design a scheme to deal with adjacency issues
+		* Achieve record-breaking optimization results compared with the results reported in the currently published papers
 
 ## Skills
 
 **Programming Languages**
 
-* Python; R (Expert)
-* PHP (Proficient)
-* JavaScript; Java; C; C++ (Prior Experience)
+* Python (Expert)
+* PHP; Java (Proficient)
+* JavaScript; R; C; C++ (Prior Experience)
 
 **Others**
 
 * Unix; Linux (Operating Systems)
-* MySQL (Database)
-* Amazon EC2 (Cloud Computing)
-* Spark; XGboost (Data Mining)
+* MySQL, DynamoDB (Database)
+* Git (Version Control)
+
 
