@@ -17,33 +17,6 @@ title: Curriculum Vitae
 
 * Major: Information Technology in Education
 
-## Working Experience
-
-<strong>Developer</strong>, August 2013 - Current, <a href="http://grad.uga.edu/" target="_blank">Graduate School, University of Georgia</a>
-
-* Development and Maintenance of the Graduate School Website
-* Design of the responsive theme of the Graduate School Website
-* Optimization of Graduate Program Information System; boosting the system loading time by 80% 
-
-<strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
-
-* Literature Review and Data analysis
-
-<strong>Social Media Manager</strong>, March 2015 - December 2015, Association for the Advancement of Computing in Education (AACE)
-
-* Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
-* Social Media Management of AACE
-
-<strong>Developer (Internship)</strong>, May 2014 - August 2014, <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network</a>
-
-* Development of Course Resource System as the core part of CTAE Resource Network system
-
-<strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
-
-* Literature Review and Data Analysis
-
-<strong>ESL Teacher & Curriculum Developer</strong>, January 2009 - January 2013, New Oriental Education & Technology Group.
-
 ## Scholarly Contributions
 
 ### Journal Articles
@@ -73,6 +46,8 @@ title: Curriculum Vitae
 * <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://home.tobeneo.com/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong.
 
 ### Conference Presentations
+
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Automatic Prediction of the Relevance and Efficacy of College Students’ Online Learning Questions. Presented at AECT Convention 2016, Las Vegas, Nevada.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented at AERA Annual Meeting 2016, Washington, DC.
 
@@ -110,6 +85,8 @@ title: Curriculum Vitae
 
 ### Workshop
 
+* Hao, Q. & Branch, M. R. (2016). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2016, Las Vegas, Nevada.
+
 * Hao, Q. & Panke, S. (2016). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
 
 * Hao, Q. & Branch, M. R. (2015). <a href="http://home.tobeneo.com/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2015, Indianapolis, Indiana.
@@ -126,7 +103,7 @@ title: Curriculum Vitae
 
 * August 2015 - December 2015, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
 
-* August 2015 - December 2015, Teaching Assistant of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
+* August 2015 - December 2015, Co-Instructor of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
 
 * August 2015 - December 2015, Teaching Assistant of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
 
@@ -136,7 +113,9 @@ title: Curriculum Vitae
 
 ### Awards
 
-* 2016 AECT Division of Distance Learning Journal Article Award
+* 2016 Cognitive Computing Odyssey Fellowship.
+* 2016 AECT Division of Distance Learning Journal Article Award.
+* Student Travel Award. (2016). Graduate School, University of Georgia.
 * Student Travel Award. (2016). College of Education, University of Georgia.
 * Student Travel Award. (2015). Graduate School, University of Georgia.
 * Student Travel Award. (2015). Department of Career and Information Studies, University of Georgia.
@@ -163,6 +142,33 @@ title: Curriculum Vitae
 * Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
 * Editorial Review Board Member of Journal of Computers in Education
 * Editorial Review Board Member of Journal of Technology and Teacher Education
+
+## Working Experience
+
+<strong>Developer</strong>, August 2013 - Current, <a href="http://grad.uga.edu/" target="_blank">Graduate School, University of Georgia</a>
+
+* Development and Maintenance of the Graduate School Website
+* Design of the responsive theme of the Graduate School Website
+* Optimization of Graduate Program Information System; boosting the system loading time by 80% 
+
+<strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
+
+* Literature Review and Data analysis
+
+<strong>Social Media Manager</strong>, March 2015 - December 2015, Association for the Advancement of Computing in Education (AACE)
+
+* Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
+* Social Media Management of AACE
+
+<strong>Developer (Internship)</strong>, May 2014 - August 2014, <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network</a>
+
+* Development of Course Resource System as the core part of CTAE Resource Network system
+
+<strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
+
+* Literature Review and Data Analysis
+
+<strong>ESL Teacher & Curriculum Developer</strong>, January 2009 - January 2013, New Oriental Education & Technology Group.
 
 ## Projects
 
