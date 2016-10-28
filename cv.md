@@ -21,7 +21,7 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (In Press). <a href="http://home.tobeneo.com/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>.
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>. doi:10.1111/bjet.12499.
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474.
 
@@ -29,9 +29,16 @@ title: Curriculum Vitae
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (In Press). Predicting Computer Science Students’ Online Help-Seeking Tendencies. <i>Knowledge Management & E-Learning</i>.
 
-* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (In Press). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>.
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>, 60, 442-448.
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://home.tobeneo.com/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
+
+### Manuscripts under Review
+
+* <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
+* <strong>Hao, Q.</strong>, Wright, E., & Rasheed, K. (2016) Using Naturally Inspired Algorithms as a Tool for Attribute Selection of Post-Graduation Income Prediction.
+* <strong>Hao, Q.</strong>, Wright, E., & Rasheed, K. (2016) Towards Accurate Classification of Post-Graduation Income Prediction.
+* <strong>Hao, Q.</strong>, Wright, E. (2016) Research on Online Help Seeking: The Past and Future.
 
 ### Conference Proceedings
 
