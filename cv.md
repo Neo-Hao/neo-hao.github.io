@@ -54,13 +54,21 @@ title: Curriculum Vitae
 
 ### Conference Presentations
 
+* <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (Accepted). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
+
+* Wright, E., <strong>Hao, Q.</strong>, & Joshua Michael Rosenberg (Accepted). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
+
+* Lu, J., Jing, M., & <strong>Hao, Q.</strong> (Accepted). Adolescent Social Media Behavior, Personality Factors and Academic Performance: A Path Analysis. AERA Annual Meeting 2017, San Antonio, TX.
+
+* Jing, M. & <strong>Hao, Q.</strong> (Accepted). The Role of Pretend Play in Social Interactions: Evidence from Peer-dyadic Play in Singaporean Preschoolers. AERA Annual Meeting 2017, San Antonio, TX.
+
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Automatic Prediction of the Relevance and Efficacy of College Students’ Online Learning Questions. Presented at AECT Convention 2016, Las Vegas, Nevada.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented at AERA Annual Meeting 2016, Washington, DC.
 
 * <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented at SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
 
-* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for College Students’ Online Searching. Presented at Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for Computer Science Students’ Online Searching. Presented at Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
 
 * <strong>Hao, Q.</strong>. (2016). The Application of Data Mining in Education. Presented at IDD@UGA 2016, Athens, GA.
 
