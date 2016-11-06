@@ -21,7 +21,7 @@ title: Curriculum Vitae
 
 ### Journal Articles
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>. doi:10.1111/bjet.12499. (<i>Impact Factor: 1.633</i>)
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>. doi:10.1111/bjet.12499. (<i>Impact Factor: 2.098</i>)
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
 
@@ -56,7 +56,7 @@ title: Curriculum Vitae
 
 * <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (Accepted). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
 
-* Wright, E., <strong>Hao, Q.</strong>, & Joshua Michael Rosenberg (Accepted). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
+* Wright, E., <strong>Hao, Q.</strong>, & Rosenberg, J. M. (Accepted). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
 
 * Lu, J., Jing, M., & <strong>Hao, Q.</strong> (Accepted). Adolescent Social Media Behavior, Personality Factors and Academic Performance: A Path Analysis. AERA Annual Meeting 2017, San Antonio, TX.
 
@@ -201,13 +201,19 @@ title: Curriculum Vitae
 		* Develop and deploy a prototype Question & Answer platform on distributed system
 
 
-* Hao, Q. (2015). <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Automatic Facilitator of Online Help Seeking Among Computer Science Students</a>
+* <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Automatic Facilitator of Online Help Seeking Among Computer Science Students</a>
 	* Development Tools: 
 		* JavaScript, JQuery; HTML, CSS, Bootstrap
 	* Summary:
 		* Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
-		* Implementation of the front-end design
-		* Soliciting feedback from potential users
+		* Implement the front-end design
+		* Solicit feedback from potential users
+
+* Detection of Sarcasm in Twitter
+	* Summary:
+		* Scrap large text data from Twitter (> 5 GB)
+		* Explore n-gram and weighted models
+		* Explore over 20 different classification algorithms in terms of Sarcasm Detection
 
 ### Selected Course Projects
 
@@ -224,8 +230,8 @@ title: Curriculum Vitae
 	* Development Tools: 
 		* Python; Java
 	* Summary:
-		* Implementation of the Genetic Algorithm and Particle Swarm Optimization using Python
-		* Implementation of likelihood fitness calculations
+		* Implement the Genetic Algorithm and Particle Swarm Optimization using Python
+		* Implement likelihood fitness calculations
 		* Verification of the results of the Genetic Algorithm and Particle Swarm Optimization
 
 
@@ -234,7 +240,7 @@ title: Curriculum Vitae
 	* Development Tools: 
 		* Python; Java
 	* Summary:
-		* Implementation of the Genetic Algorithm using Python
+		* Implement the Genetic Algorithm using Python
 		* Design a scheme to deal with adjacency issues
 		* Achieve record-breaking optimization results compared with the results reported in the currently published papers
 
