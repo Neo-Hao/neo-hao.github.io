@@ -99,10 +99,6 @@ title: Curriculum Vitae
 * 2017 SITE Annual Conference
 * 2017 International Conference on Computer Supported Collaborative Learning
 
-## Committee Service
-
-* IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
-
 ## Teaching Experience
 
 ### Workshop
@@ -164,6 +160,10 @@ title: Curriculum Vitae
 * Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
 * Editorial Review Board Member of Journal of Computers in Education
 * Editorial Review Board Member of Journal of Technology and Teacher Education
+
+### Conference Committee Membership
+
+* IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
 
 ## Working Experience
 
