@@ -94,7 +94,14 @@ title: Curriculum Vitae
 ### Routine Review
 
 * 2016 AECT Convention
-* 2016 AERA Annual Meeting 
+* 2016 AERA Annual Meeting
+* 2017 AERA Annual Meeting 
+* 2017 SITE Annual Conference
+* 2017 International Conference on Computer Supported Collaborative Learning
+
+## Committee Service
+
+* IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
 
 ## Teaching Experience
 
