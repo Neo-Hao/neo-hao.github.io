@@ -98,6 +98,7 @@ title: Curriculum Vitae
 * 2017 AERA Annual Meeting 
 * 2017 SITE Annual Conference
 * 2017 International Conference on Computer Supported Collaborative Learning
+* 2017 HKAECT-AECT International Research Symposium
 
 ## Teaching Experience
 
@@ -164,6 +165,7 @@ title: Curriculum Vitae
 ### Conference Committee Membership
 
 * IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
+* Program Committee Member of 2017 HKAECT-AECT International Research Symposium
 
 ## Working Experience
 
