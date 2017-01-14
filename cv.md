@@ -89,6 +89,7 @@ title: Curriculum Vitae
 * Journal of Online Learning Research
 * Journal of Technology and Teacher Education
 * Contemporary Issues in Technology & Teacher Education
+* International Journal of E-Learning & Distance Education 
 * Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
 ### Routine Review
@@ -99,6 +100,7 @@ title: Curriculum Vitae
 * 2017 SITE Annual Conference
 * 2017 International Conference on Computer Supported Collaborative Learning
 * 2017 HKAECT-AECT International Research Symposium
+* 2017 EdMedia
 
 ## Teaching Experience
 
