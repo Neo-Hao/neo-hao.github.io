@@ -82,6 +82,7 @@ title: Curriculum Vitae
 
 ### Invited Review
 
+* Review of Educational Research
 * IEEE Transactions on Education
 * Journal of Technology, Knowledge and Learning
 * Journal of Computers in Education
@@ -134,12 +135,9 @@ title: Curriculum Vitae
 
 ### Awards
 
+* 2017 AERA Division-C Selective Seminar.
 * 2016 Cognitive Computing Odyssey Fellowship.
 * 2016 AECT Division of Distance Learning Journal Article Award.
-* Student Travel Award. (2016). Graduate School, University of Georgia.
-* Student Travel Award. (2016). College of Education, University of Georgia.
-* Student Travel Award. (2015). Graduate School, University of Georgia.
-* Student Travel Award. (2015). Department of Career and Information Studies, University of Georgia.
 
 ### Graduation Honors
 
