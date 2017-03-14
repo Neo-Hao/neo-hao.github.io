@@ -27,7 +27,7 @@ title: Curriculum Vitae
 
 * Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://home.tobeneo.com/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64. (<i>Impact Factor: 2.694</i>)
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). Predicting Computer Science Students’ Online Help-Seeking Tendencies. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://home.tobeneo.com/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
 
 * <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://home.tobeneo.com/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>, 60, 442-448.
 
