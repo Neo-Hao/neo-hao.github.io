@@ -5,17 +5,9 @@ title: Curriculum Vitae
 
 ## Education
 
-<strong>Ph.D.</strong>, 2017 (Expected), University of Georgia
-
-* Major: Learning, Design and Technology
-
-<strong>M.Sc.</strong>, 2017 (Expected), University of Georgia
-
-* Major: Computer Science
-
-<strong>M.Sc.</strong>, 2012, University of Hong Kong
-
-* Major: Information Technology in Education
+* Ph.D. in Learning, Design and Technology, University of Georgia
+* M.Sc. in Computer Science, University of Georgia
+* M.Sc. in Information Technology Studies, University of Hong Kong
 
 ## Scholarly Contributions
 
