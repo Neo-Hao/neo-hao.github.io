@@ -75,6 +75,7 @@ title: Curriculum Vitae
 ### Invited Review
 
 * Review of Educational Research
+* Computers in Human Behavior
 * IEEE Transactions on Education
 * Journal of Technology, Knowledge and Learning
 * Journal of Computers in Education
@@ -83,17 +84,16 @@ title: Curriculum Vitae
 * Journal of Technology and Teacher Education
 * Contemporary Issues in Technology & Teacher Education
 * International Journal of E-Learning & Distance Education 
-* Book Chapters of Examining the Evolution of Gaming and Its Impact on Social, Cultural, and Political Perspectives. Editors: Valentine, K. D. & Jensen, L. J. Publisher: IGI Global.
 
 ### Routine Review
 
-* 2016 AECT Convention
-* 2016 AERA Annual Meeting
 * 2017 AERA Annual Meeting 
 * 2017 SITE Annual Conference
 * 2017 International Conference on Computer Supported Collaborative Learning
 * 2017 HKAECT-AECT International Research Symposium
 * 2017 EdMedia
+* 2016 AERA Annual Meeting
+* 2016 AECT Convention
 
 ## Teaching Experience
 
@@ -109,20 +109,6 @@ title: Curriculum Vitae
 
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
-### Assigned Teaching
-
-* August 2016 - December 2016, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
-
-* May 2016 - June 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
-
-* August 2015 - December 2015, Teaching Assistant of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
-
-* August 2015 - December 2015, Co-Instructor of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
-
-* August 2015 - December 2015, Teaching Assistant of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
-
-* January 2015 - May 2015, Teaching Assistant of <em>EDIT 9630 Critical Literature Review in Instructional Technology</em>, Learning, Design and Technology, University of Georgia.
-
 ## Awards, Grants, and Professional Memberships
 
 ### Awards
@@ -131,21 +117,11 @@ title: Curriculum Vitae
 * 2016 Cognitive Computing Odyssey Fellowship.
 * 2016 AECT Division of Distance Learning Journal Article Award.
 
-### Graduation Honors
-
-* Graduation with Distinction. (2012). Faculty of Education, The University of Hong Kong.
-* Dean’s Honor List (2012). Faculty of Education, The University of Hong Kong.
-
-### Grant Application
-
-* Hao, Q. (2016). Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms. Submitted on March 15, 2016; Requested $1,000 from the Innovative and Interdisciplinary Research Grants, The Graduate School, University of Georgia. Status: Pending.
-* Hao, Q. & Branch, M. R. (2016). Intelligent Suggestion Algorithms for Learning Question Revision. Submitted on February 12, 2016; Requested $6,700 from the Parents & Families Association. Status: Rejected.
-
 ### Professional Membership
 
-* December 2015 - December 2016, Member of American Educational Research Association
-* February 2016 - February 2017, Member of Society for Information Technology and Teacher Education
 * May 2016 - May 2017, Member of Association for Educational Communications & Technology
+* February 2016 - February 2017, Member of Society for Information Technology and Teacher Education
+* December 2015 - Now, Member of American Educational Research Association
 
 ### Review Board Membership
 
@@ -158,104 +134,3 @@ title: Curriculum Vitae
 
 * IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
 * Program Committee Member of 2017 HKAECT-AECT International Research Symposium
-
-## Working Experience
-
-<strong>Developer</strong>, August 2013 - Current, <a href="http://grad.uga.edu/" target="_blank">Graduate School, University of Georgia</a>
-
-* Development and Maintenance of the Graduate School Website
-* Design of the responsive theme of the Graduate School Website
-* Optimization of Graduate Program Information System; boosting the system loading time by 80% 
-
-<strong>Graduate Assistant and Research Fellow</strong>, August 2013 - Current, Learning, Design and Technology, University of Georgia
-
-* Literature Review and Data analysis
-
-<strong>Social Media Manager</strong>, March 2015 - December 2015, Association for the Advancement of Computing in Education (AACE)
-
-* Blog Writing for <a href="http://blog.aace.org/author/neohao/" target="_blank">AACE Blog</a>
-* Social Media Management of AACE
-
-<strong>Developer (Internship)</strong>, May 2014 - August 2014, <a href="http://www.ctaeir.org/" target="_blank">CTAE Resource Network</a>
-
-* Development of Course Resource System as the core part of CTAE Resource Network system
-
-<strong>Research Assistant</strong>, March 2013 - August 2013, Faculty of Education, The University of Hong Kong
-
-* Literature Review and Data Analysis
-
-<strong>ESL Teacher & Curriculum Developer</strong>, January 2009 - January 2013, New Oriental Education & Technology Group.
-
-## Projects
-
-### Selected Independent Projects
-
-* Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms
-	* Development Tools: 
-		* PHP, Laravel Framework; JavaScript, JQuery; HTML, CSS, Bootstrap
-	* Data Mining Tools: 
-		* Spark, Python, Amazon EC2
-	* Summary:
-		* Lead a team to explore effective combinations of algorithms that predict learning relevance and quality of students’ questions
-		* Hands-on experience with large dataset (> 10 GB Text data from Question & Answer Platforms)
-		* Design algorithm combination in tree structure that reaches 91% accuracy in question classification
-		* Develop and deploy a prototype Question & Answer platform on distributed system
-
-
-* <a href="http://home.tobeneo.com/Comprehensive-Problem-Statement/" target="_blank">Automatic Facilitator of Online Help Seeking Among Computer Science Students</a>
-	* Development Tools: 
-		* JavaScript, JQuery; HTML, CSS, Bootstrap
-	* Summary:
-		* Design of The Automatic Facilitator based on exchange with Computer Science students and instructors
-		* Implement the front-end design
-		* Solicit feedback from potential users
-
-* Detection of Sarcasm in Twitter
-	* Summary:
-		* Scrap large text data from Twitter (> 5 GB)
-		* Explore n-gram and weighted models
-		* Explore over 20 different classification algorithms in terms of Sarcasm Detection
-
-### Selected Course Projects
-
-* Sport Facility Management System
-	* Development Tools: 
-		* Java; JavaScript
-	* Summary:
-		* Work in a team of four
-		* Design Management System based on given requirements
-		* Implement key functionalities such as automatic match arrangement, room booking subsystem
-
-
-* Application of the Naturally Inspired Algorithms on the Multiple Fault Diagnosis Problems (<a href="http://bit.ly/1SVHsNJ" target="_blank">http://bit.ly/1SVHsNJ</a>)
-	* Development Tools: 
-		* Python; Java
-	* Summary:
-		* Implement the Genetic Algorithm and Particle Swarm Optimization using Python
-		* Implement likelihood fitness calculations
-		* Verification of the results of the Genetic Algorithm and Particle Swarm Optimization
-
-
-* Forest Planning Optimization using the Genetic Algorithm (<a href="http://bit.ly/1OmAxxn" target="_blank">http://bit.ly/1OmAxxn</a>)
-
-	* Development Tools: 
-		* Python; Java
-	* Summary:
-		* Implement the Genetic Algorithm using Python
-		* Design a scheme to deal with adjacency issues
-		* Achieve record-breaking optimization results compared with the results reported in the currently published papers
-
-## Skills
-**Software Development**
-
-* Programming Languages: Python; PHP; Java; JavaScript; R; C; C++; HTML; CSS
-* Web Application Development across Platforms
-* Responsive Design
-
-**Data Mining**
-
-* Programming Languages: Python; R; Scala
-* Framework / Package: Weka; Spark; Hadoop
-
-
-
