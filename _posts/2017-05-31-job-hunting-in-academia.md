@@ -20,7 +20,7 @@ All the things listed above could take a long time, so make sure you start early
 
 <hr/>
 
-Secondly, <strong>what is the most thing when you officially start job hunting and put yourself on market?</strong> Well, every step is important when it comes to writing your cover letters / teaching philosophy / research statements, having your recommendation letter submitted in time, or preparing for the actual interviews. The thing that I see most important is to have a right mindset. Job hunting is not intellectually challenging, but very laborious. When you start job hunting, be prepared to do everything over and over to make it perfect. 
+Secondly, <strong>what is the most important thing when you officially start job hunting and put yourself on market?</strong> Well, every step is important when it comes to writing your cover letters / teaching philosophy / research statements, having your recommendation letter submitted in time, or preparing for the actual interviews. The thing that I see most important is to have a right mindset. Job hunting is not intellectually challenging, but very laborious. When you start job hunting, be prepared to do everything over and over to make it perfect. 
 
 As for searching for positions / submitting applications, you will need to learn how to set email alerts, if you didn’t ever use similar functions before. Big hiring sites include:
 
