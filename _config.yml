@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Qiang Hao
 tagline:          ''
-description:      'Learning, Design and Technology, University of Georgia'
+description:      'Life Hacking'
 url:              tobeneo.com
 baseurl:          /
 
 author:
   name:           'Qiang Hao'
-  url:            http://home.tobeneo.com/about/
+  url:            http://tobeneo.com/about/
 
 paginate:         5
 
