@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Book Recommendation - Algorithms to Live By
+category: Books
+feature_image: "https://unsplash.it/1200/400?image=200"
 ---
 
 <p>Since computational thinking becomes a hot topic, many educational researchers rushed in studying it. Yet it is not easy for a person without solid background knowledge of computer science to appreciate the usefulness of computational thinking, let alone jumping directly to researching on its learning and teaching. For instance, if one reads off the definition directly from a paper wrote by computer scientists on computational thinking, he will find that the definition of algorithmic thinking reads as <i>developing the step by step instructions for solving similar problems</i>. Such a definition easily gives the impression that algorithms are no more than rigid deductive logics that enumerate options and grind out answers no matter how long or how hard it is. This impression aligns well with what most people think computer science is about, but very different from what modern computer scientists are doing.</p>

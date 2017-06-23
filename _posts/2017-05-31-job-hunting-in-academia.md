@@ -3,6 +3,12 @@ layout: post
 title: Most Important Things about Job Hunting in Academia
 ---
 
+---
+title: Most Important Things about Job Hunting in Academia
+category: Life Hacking
+feature_image: "https://unsplash.it/1200/400?image=200"
+---
+
 It has been three months since I accepted an offer of a tenure-track faculty position that I really love, and by then I had been doing job hunting for almost seven months, in both industry and academia. As everything about job hunting is still fresh in my memory, I hope to record some of my experience before I start forgetting. Hopefully, my experience could come useful to you.
  
 <img src="https://c1.staticflickr.com/5/4224/34173844194_c0f6854d2a.jpg" width="416" height="294" alt="academia-job-hunting-total" align="left" style="margin:10px;"> First thing first, <strong>what is the most important thing when it comes to job hunting in academia?</strong> Of course the most important thing is <i>luck</i>, but that is not within our control, and it is totally futile to think about it (It doesn’t help either to study astrology). I will limit the the whole discussion to the things that we do have control of from now on. Thinking about what I learnt from others and my own experience, I have to say the single most important thing is PLANNING AHEAD. There are a lot of things other scholars attach great importance to, such as the quality/number of publications and teaching experience. These credentials can not be gained in short time. If we regard job hunting as a task composed of multiple subtasks, more than 60% of the subtasks (see Fig 1) should have the status of "DONE" when you start job hunting, which typically happen by the last second summer of your Ph.D. study.
