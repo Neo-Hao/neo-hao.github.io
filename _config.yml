@@ -90,7 +90,10 @@ navigation_header:
   Home: /
   Blog: /blog/
   Categories: /categories/
+  Curriculum Vitae: /cv/
+  Archive: https://tobeneo.wordpress.com/
   Search: /search/
+
 
 navigation_footer:
   Designed by David Darnes: https://darn.es
