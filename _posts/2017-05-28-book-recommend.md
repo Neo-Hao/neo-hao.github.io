@@ -1,5 +1,5 @@
 ---
-title: Book Recommendation - Algorithms to Live By
+title: Algorithms to Live By
 category: Books
 feature_image: "https://unsplash.it/1200/400?image=200"
 ---

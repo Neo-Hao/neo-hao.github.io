@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Most Important Things about Job Hunting in Academia
+category: Life Hacking
+feature_image: "https://unsplash.it/1200/400?image=200"
 ---
 
 ---
