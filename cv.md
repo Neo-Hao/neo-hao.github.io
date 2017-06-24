@@ -73,10 +73,27 @@ aside: true
 
 * <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong.
 
+## Teaching
+
+### Workshop
+
+* Hao, Q. & Branch, M. R. (2016). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2016, Las Vegas, Nevada.
+
+* Hao, Q. & Panke, S. (2016). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
+
+* Hao, Q. & Branch, M. R. (2015). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2015, Indianapolis, Indiana.
+
+* Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at Design, Develop and Research Conference 2015, Athens, GA.
+
+* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
+
+## Service
+
 ### Invited Review
 
 * Review of Educational Research
 * Computers in Human Behavior
+* Journal of Educational Technology & Society
 * IEEE Transactions on Education
 * Journal of Technology, Knowledge and Learning
 * Journal of Computers in Education
@@ -95,20 +112,6 @@ aside: true
 * 2017 EdMedia
 * 2016 AERA Annual Meeting
 * 2016 AECT Convention
-
-## Teaching Experience
-
-### Workshop
-
-* Hao, Q. & Branch, M. R. (2016). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2016, Las Vegas, Nevada.
-
-* Hao, Q. & Panke, S. (2016). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
-
-* Hao, Q. & Branch, M. R. (2015). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2015, Indianapolis, Indiana.
-
-* Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at Design, Develop and Research Conference 2015, Athens, GA.
-
-* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
 ## Awards, Grants, and Professional Memberships
 
