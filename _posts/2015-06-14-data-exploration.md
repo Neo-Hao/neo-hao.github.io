@@ -1,7 +1,7 @@
 ---
 title: A Peek into Text Mining (II) - Data Visualization
 category: Text Mining Workshop
-feature_image: "https://unsplash.it/1200/400?image=200"
+feature_image: "https://unsplash.it/1200/400?random"
 ---
 
 <div class="message">

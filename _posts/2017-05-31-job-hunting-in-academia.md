@@ -1,7 +1,7 @@
 ---
 title: Most Important Things about Job Hunting in Academia
-category: Life Hacking
-feature_image: "https://unsplash.it/1200/400?image=200"
+category: Job Hunting
+feature_image: "https://unsplash.it/1200/400?random"
 ---
 
 It has been three months since I accepted an offer of a tenure-track faculty position that I really love, and by then I had been doing job hunting for almost seven months, in both industry and academia. As everything about job hunting is still fresh in my memory, I hope to record some of my experience before I start forgetting. Hopefully, my experience could come useful to you.
