@@ -1,6 +1,6 @@
 ---
 title: Algorithms to Live By
-category: Books
+category: Book Recommendations
 feature_image: "https://unsplash.it/1200/400?random"
 ---
 
