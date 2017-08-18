@@ -91,11 +91,11 @@ aside: true
 
 * January 2017 - May 2017, Co-Instructor of <em>Creativity, Technology, and How the Brain Learns</em>, Learning, Design and Technology, University of Georgia.
  
-* May 2016 - June 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
+* May 2016 - June 2016, Co-Instructor of <em>Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
  
-* August 2015 - December 2015, Co-Instructor of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
+* August 2015 - December 2015, Co-Instructor of <em>First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
  
-* August 2015 - December 2015, Co-Instructor of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
+* August 2015 - December 2015, Co-Instructor of <em>Instructional Design</em>, Learning, Design and Technology, University of Georgia.
 
 ## Service
 
