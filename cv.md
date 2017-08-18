@@ -47,13 +47,13 @@ aside: true
 
 ### Conference Presentations
 
-* <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (Accepted). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
+* <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (2017). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
 
-* Wright, E., <strong>Hao, Q.</strong>, & Rosenberg, J. M. (Accepted). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
+* Wright, E., <strong>Hao, Q.</strong>, & Rosenberg, J. M. (2017). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
 
-* Lu, J., Jing, M., & <strong>Hao, Q.</strong> (Accepted). Adolescent Social Media Behavior, Personality Factors and Academic Performance: A Path Analysis. AERA Annual Meeting 2017, San Antonio, TX.
+* Lu, J., Jing, M., & <strong>Hao, Q.</strong> (2017). Adolescent Social Media Behavior, Personality Factors and Academic Performance: A Path Analysis. AERA Annual Meeting 2017, San Antonio, TX.
 
-* Jing, M. & <strong>Hao, Q.</strong> (Accepted). The Role of Pretend Play in Social Interactions: Evidence from Peer-dyadic Play in Singaporean Preschoolers. AERA Annual Meeting 2017, San Antonio, TX.
+* Jing, M. & <strong>Hao, Q.</strong> (2017). The Role of Pretend Play in Social Interactions: Evidence from Peer-dyadic Play in Singaporean Preschoolers. AERA Annual Meeting 2017, San Antonio, TX.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Automatic Prediction of the Relevance and Efficacy of College Students’ Online Learning Questions. Presented at AECT Convention 2016, Las Vegas, Nevada.
 
@@ -87,6 +87,16 @@ aside: true
 
 * Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
+### Assigned Teaching
+
+* January 2017 - May 2017, Co-Instructor of <em>Creativity, Technology, and How the Brain Learns</em>, Learning, Design and Technology, University of Georgia.
+ 
+* May 2016 - June 2016, Co-Instructor of <em>EDIT 2000 Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
+ 
+* August 2015 - December 2015, Co-Instructor of <em>FYOS1001 First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
+ 
+* August 2015 - December 2015, Co-Instructor of <em>EDIT 4170 Instructional Design</em>, Learning, Design and Technology, University of Georgia.
+
 ## Service
 
 ### Invited Review
@@ -105,6 +115,7 @@ aside: true
 
 ### Routine Review
 
+* 2018 AERA Annual Meeting
 * 2017 AERA Annual Meeting 
 * 2017 SITE Annual Conference
 * 2017 International Conference on Computer Supported Collaborative Learning
@@ -118,7 +129,6 @@ aside: true
 ### Awards
 
 * 2017 AERA Division-C Selective Seminar.
-* 2016 Cognitive Computing Odyssey Fellowship.
 * 2016 AECT Division of Distance Learning Journal Article Award.
 
 ### Professional Membership
