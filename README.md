@@ -1,1 +1,1 @@
-This repo saves files of Qiang Hao's personal site. For more information, please visit [tobeneo.com](http://tobeneo.com).
+This repo saves files of Qiang Hao's personal site.
