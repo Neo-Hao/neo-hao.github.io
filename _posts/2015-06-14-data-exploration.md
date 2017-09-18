@@ -10,7 +10,7 @@ feature_image: "https://unsplash.it/1200/400?random"
 
 Many educational technology researchers leverage social media data to answer questions about trends, collaboration or learning networks. If you are not a programmer, you will most likely use existing apps and tools to conduct quantitative data analysis and generate visualizations such as word clouds and clusters. As more and more educators are acknowledging coding as an important digital literacy, this post we will explore some common techniques of statistical data visualization. 
 
-In <a href="http://home.tobeneo.com/2015/06/13/data-collection/">my last posting on text mining</a>, I described how to collect data from Twitter. In this post, I will describe how we can summarize a large set of tweets on a certain topic - for example <a href="http://site.aace.org/">the latest SITE conference</a>. 
+In <a href="http://neo-hao.github.io/2015/06/13/data-collection/">my last posting on text mining</a>, I described how to collect data from Twitter. In this post, I will describe how we can summarize a large set of tweets on a certain topic - for example <a href="http://site.aace.org/">the latest SITE conference</a>. 
 
 ### Background: Giving structure to your data
 
