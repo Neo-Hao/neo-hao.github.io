@@ -26,18 +26,9 @@ aside: true
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://neo-hao.github.io/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
 
-### Manuscripts under Review
-
-* <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Branch, M. R., & Wright, E. (2016) Predicting the Relevance and Efficacy of Computer Science Students’ Questions on Question & Answer Platforms.
-* <strong>Hao, Q.</strong>, Wright, E., & Rasheed, K. (2016) Using Naturally Inspired Algorithms as a Tool for Attribute Selection of Post-Graduation Income Prediction.
-* <strong>Hao, Q.</strong>, Wright, E., & Rasheed, K. (2016) Towards Accurate Classification of Post-Graduation Income Prediction.
-* <strong>Hao, Q.</strong>, Wright, E. (2016) Research on Online Help Seeking: The Past and Future.
-
 ### Conference Proceedings
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://neo-hao.github.io/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, Pennsylvania.
-
-* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016, February). The Most Important Predictors for College Students’ Online Searching. Proceedings from Higher Education Pedagogy 2016. Blacksburg, VA.
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://neo-hao.github.io/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, Pennsylvania.
 

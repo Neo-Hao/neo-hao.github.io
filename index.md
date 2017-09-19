@@ -8,6 +8,6 @@ aside: false
  
 <img style="float:left; margin-right: 20px; margin-top: 20px; width: 15%;" src="http://neo-hao.github.io/assets/avatar.jpeg" />
 
-Qiang Hao received his Ph.D. in Learning, Design and Technology and M.Sc. in Computer Science from University of Georgia.
+Qiang Hao is an assistant professor of Computer Science & Science Education. He received his Ph.D. in Learning, Design and Technology and M.Sc. in Computer Science from University of Georgia.
 
 Qiang's primary research focuses include Computer Science Education and Educational Data Mining.
