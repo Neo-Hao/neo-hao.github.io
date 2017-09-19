@@ -88,10 +88,9 @@ avatarurl: "/assets/logo.png" # Uses avatars for favicons to get multple sites, 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Blog: /blog/
   Research: /research/
+  Teaching: /teaching/
   Curriculum Vitae: /cv/
-  Archive: https://tobeneo.wordpress.com/
   Search: /search/
 
 
