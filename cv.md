@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: "https://unsplash.it/1300/400?image=1067"
 aside: true
 ---
 
