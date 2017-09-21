@@ -53,7 +53,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "I am looking for " # The post list page content
+    description: "" # The post list page content
     feature_text: |
       
     feature_image: "https://unsplash.it/1300/400?image=1067"
@@ -101,7 +101,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   # Email: mailto:Qiang.Hao@wwu.edu
   # LinkedIn: https://www.linkedin.com/in/qiang-hao-4984023b/
   # GitHub: https://github.com/Neo-Hao
-  RSS: /feed.xml
+  # RSS: /feed.xml
 
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour

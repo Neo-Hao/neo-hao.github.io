@@ -14,13 +14,13 @@ aside: true
 
 ### Journal Articles
 
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://neo-hao.github.io/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
+
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>. doi:10.1111/bjet.12499. (<i>Impact Factor: 2.098</i>)
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
 
 * Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://neo-hao.github.io/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64. (<i>Impact Factor: 2.694</i>)
-
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://neo-hao.github.io/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
 
 * <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://neo-hao.github.io/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>, 60, 442-448.
 
@@ -106,6 +106,7 @@ aside: true
 
 ### Routine Review
 
+* 2018 Special Interest Group on Computer Science Education Technical Symposium
 * 2018 AERA Annual Meeting
 * 2017 AERA Annual Meeting 
 * 2017 SITE Annual Conference
@@ -119,14 +120,8 @@ aside: true
 
 ### Awards
 
-* 2017 AERA Division-C Selective Seminar.
-* 2016 AECT Division of Distance Learning Journal Article Award.
-
-### Professional Membership
-
-* May 2016 - May 2017, Member of Association for Educational Communications & Technology
-* February 2016 - February 2017, Member of Society for Information Technology and Teacher Education
-* December 2015 - Now, Member of American Educational Research Association
+* 2017 AERA Division-C Selective Seminar
+* 2016 AECT Division of Distance Learning Journal Article Award
 
 ### Review Board Membership
 
