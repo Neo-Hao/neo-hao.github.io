@@ -12,7 +12,7 @@ This project explores the retention of young students participating <a href="htt
 
 <img src="https://farm5.staticflickr.com/4331/37230163801_7004639bf1.jpg" width="320" height="240" alt="hourofcode">
 	
-The exposure of computer science to young students through online coding activities on a massive scale is a great achievement. Nevertheless, exposure does not guarantee motivation, and may not lead to further engagement. 
+The exposure of computer science to young students through online coding activities on a massive scale is a great achievement. Nevertheless, exposure does not guarantee motivation, and may not lead to further engagement. Historical data showed that many students got overwhelmed and gave up early.
 
 This project explores how to identify and retain struggling students through machine learning techniques.
 
@@ -21,7 +21,7 @@ This project explores how to identify and retain struggling students through mac
 
 This project investigates the impacts of active learning environments and instructional methods adapted to such environments on the academic performance of computer science students. Active learning classrooms have been studied in other fields extensively, such as physics or chemistry. However, it was rarely studied in the context of learning & teaching of computer science. This project intends to extend such discussions to computer science education.
 
-<img src="https://farm5.staticflickr.com/4404/36975322400_e898114369_n.jpg" width="320" height="240" alt="activeClassroom"></a>
+<img src="https://farm5.staticflickr.com/4404/36975322400_e898114369_n.jpg" width="320" height="240" alt="activeClassroom">
 
 ### Retention of Students in Large-Scale Classes
 
