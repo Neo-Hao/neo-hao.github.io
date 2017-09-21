@@ -81,7 +81,7 @@ title: "Qiang Hao" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/western.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "" # Site url, also used in jekyll-seo-tag
-email: "qianghaoqiang@gmail.com"
+email: "Qiang.Hao@wwu.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/assets/logo.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
@@ -91,14 +91,14 @@ navigation_header:
   Research: /research/
   Teaching: /teaching/
   Curriculum Vitae: /cv/
-  Search: /search/
+  # Search: /search/
 
 
 navigation_footer:
   Designed by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Email: Qiang.Hao@wwu.edu
+  Email: mailto:Qiang.Hao@wwu.edu
   LinkedIn: https://www.linkedin.com/in/qiang-hao-4984023b/
   GitHub: https://github.com/Neo-Hao
   RSS: /feed.xml
