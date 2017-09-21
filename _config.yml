@@ -99,8 +99,8 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Email: mailto:Qiang.Hao@wwu.edu
-  LinkedIn: https://www.linkedin.com/in/qiang-hao-4984023b/
-  GitHub: https://github.com/Neo-Hao
+  # LinkedIn: https://www.linkedin.com/in/qiang-hao-4984023b/
+  # GitHub: https://github.com/Neo-Hao
   RSS: /feed.xml
 
 
