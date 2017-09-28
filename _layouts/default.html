@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
 		{% include site-favicons.html %}
+		{% include analytics.html %}
 	</head>
 	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
 		{% include site-icons.svg %}
