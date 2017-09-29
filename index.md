@@ -8,7 +8,7 @@ aside: false
 
 > If you are a current or perspective student of Western Washington University, and 
 > interested in computer science education or application of machine learning in 
-> educational contexts, please contact me at Qiang.Hao@wwu.edu. I am looking for dedicated 
+> educational contexts, please contact me at <a href="mailto:"Qiang.Hao@wwu.edu">Qiang.Hao@wwu.edu</a>. I am looking for dedicated 
 > students to collabrate with.
 
 <img style="float:left; margin-right: 20px; margin-top: 20px; width: 15%;" src="assets/avatar.jpeg" />
