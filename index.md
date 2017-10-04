@@ -6,7 +6,7 @@ feature_image: "https://unsplash.it/1300/400?image=971"
 aside: false
 ---
 
-> If you are a current or perspective student of Western Washington University, and 
+> If you are a current or prospective student of Western Washington University, and 
 > interested in computer science education or application of machine learning in 
 > educational contexts, please contact me at Qiang.Hao@wwu.edu. I am looking for dedicated 
 > students to collabrate with.
