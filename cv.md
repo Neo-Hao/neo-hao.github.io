@@ -106,7 +106,7 @@ aside: true
 
 ### Routine Review
 
-* 2018 Special Interest Group on Computer Science Education Technical Symposium
+* 2018 ACM Technical Symposium on Computer Science Education
 * 2018 AERA Annual Meeting
 * 2017 AERA Annual Meeting 
 * 2017 SITE Annual Conference
@@ -117,6 +117,10 @@ aside: true
 * 2016 AECT Convention
 
 ## Awards, Grants, and Professional Memberships
+
+### Grants
+
+* Hao, Q. (PI), Fizzano, P. (Co-PI), & Geary, E. (Co-PI). Enhancing Computer Science Education in Washington State. NSF DRK-12. ($444,504, 2018-2020). Pending.
 
 ### Awards
 

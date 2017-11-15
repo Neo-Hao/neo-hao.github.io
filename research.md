@@ -6,6 +6,10 @@ aside: true
 
 ## Ongoing Projects
 
+> Effects of Active Learning Environments and Instructional Methods in Computer Science Education
+> Qiang Hao, Bradley Barnes, Ewan Wright, Eunjung Kim (2018)
+> ACM Technical Symposium on Computer Science Education (SIGCSE), to appear.
+
 ### Hour of Code
 
 This project explores the retention of young students participating <a href="https://hourofcode.com/us" target="_blank">Hour of Code</a>, and possibly better measurement of the well-structured coding activities. Hour of Code is a massive online coding activities aiming at introducing and attracting young students to computer science through interactive and gamified coding activities. Hundred millions students around the globe participated in this activity annually. 
@@ -37,6 +41,3 @@ Topics that aligned this project include:
 This project investigates the impacts of active learning environments and instructional methods adapted to such environments on the academic performance of computer science students. Active learning classrooms have been studied in other fields extensively, such as physics or chemistry. However, it was rarely studied in the context of learning & teaching of computer science. This project intends to extend such discussions to computer science education.
 
 <img src="https://farm5.staticflickr.com/4404/36975322400_e898114369_n.jpg" width="320" height="240" alt="activeClassroom">
-
-A paper under this project was accepted to <a href="https://sigcse2018.sigcse.org/authors/papers.html" target="_blank">The SIGCSE Technical Symposium 2018</a> (CS Education Research Strand) on Oct. 6th, 2018.
-
