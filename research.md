@@ -6,8 +6,8 @@ aside: true
 
 ## Ongoing Projects
 
-> Effects of Active Learning Environments and Instructional Methods in Computer Science Education
-> Qiang Hao, Bradley Barnes, Ewan Wright, Eunjung Kim (2018)
+> Hao, Q, Barnes, B., Wright, E., & Kim, E. (2018). 
+> Effects of Active Learning Environments and Instructional Methods in Computer Science Education. 
 > ACM Technical Symposium on Computer Science Education (SIGCSE), to appear.
 
 ### Hour of Code
