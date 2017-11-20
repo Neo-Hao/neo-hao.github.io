@@ -38,6 +38,10 @@ aside: true
 
 ### Conference Presentations
 
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (Accepted). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students. AERA Annual Meeting 2018, New York, NY.
+
+* <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (2017). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
+
 * <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (2017). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
 
 * Wright, E., <strong>Hao, Q.</strong>, & Rosenberg, J. M. (2017). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
