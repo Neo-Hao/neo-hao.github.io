@@ -84,6 +84,8 @@ aside: true
 
 ### Assigned Teaching
 
+* September 2017 - December 2017, Instructor of <em>Computer Programming and Linear Data Structures</em>, Computer Science, Western Washington University.
+
 * January 2017 - May 2017, Co-Instructor of <em>Creativity, Technology, and How the Brain Learns</em>, Learning, Design and Technology, University of Georgia.
  
 * May 2016 - June 2016, Co-Instructor of <em>Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
@@ -119,6 +121,11 @@ aside: true
 * 2017 EdMedia
 * 2016 AERA Annual Meeting
 * 2016 AECT Convention
+
+### Committee
+
+* Student-Centered Learning Committee, Computer Science, Western Washington University
+* Undergraduate Curriculum Committee, Computer Science, Western Washington University
 
 ## Awards, Grants, and Professional Memberships
 

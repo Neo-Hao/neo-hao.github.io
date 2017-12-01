@@ -24,6 +24,11 @@ Topics that aligned this project include:
 * Designing and developing online coding games that better support learning of children
 * Designing of a better software pipeline that supports learning of novice learners
 
+Team members of this project include:
+
+* <a href="https://www.linkedin.com/in/raunak-dey-a85390114/" target="_blank">Raunak Dey, University of Georgia</a>
+* <a href="http://spsweb.edu.hku.hk/profile.php?sid=100746" target="_blank">Ewan Wright, University of Hong Kong</a>
+
 ### Online Question & Answer of Learning Computer Science
 
 This project explores the interesting patterns of Q & A interactions of computer science students. It is important for students to learn how to ask effective questions that solicit good answers. By looking at the historical Q & A data from over thousands of students, we can gain insights into the important aspect of learning computer science.
@@ -36,8 +41,22 @@ Topics that aligned this project include:
 * Identifying interesting patterns of online Q & A
 * Designing and developing online Q & A platforms that better support distant learning
 
+Team members of this project include:
+
+* <a href="#">Ismael Jones-Taalib</a>
+* <a href="#">Ivan Chuprinov</a>
+* <a href="#">Forrest Henry</a>
+* <a href="#">Sam Dixon</a>
+
 ### Active Learning Classrooms
 
 This project investigates the impacts of active learning environments and instructional methods adapted to such environments on the academic performance of computer science students. Active learning classrooms have been studied in other fields extensively, such as physics or chemistry. However, it was rarely studied in the context of learning & teaching of computer science. This project intends to extend such discussions to computer science education.
 
 <img src="https://farm5.staticflickr.com/4404/36975322400_e898114369_n.jpg" width="320" height="240" alt="activeClassroom">
+
+Team members of this project include:
+
+* <a href="https://www.linkedin.com/in/seanachambers/" target="_blank">Sean Chambers, Western Washington University</a>
+* <a href="#">David Smith, Western Washington University</a>
+* <a href="http://www.cs.uga.edu/directory/brad-barnes" target="_blank">Brad Barnes, University of Georgia</a>
+* <a href="https://sohe.wisc.edu/graduate-students/meet-our-graduate-students/human-development-and-family-studies-graduate-students/mengguo-jing/" target="_blank">Mengguo Jing, University of Wisconsin</a>
