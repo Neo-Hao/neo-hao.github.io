@@ -45,8 +45,6 @@ Team members of this project include:
 
 * <a href="#">Ismael Jones-Taalib</a>
 * <a href="#">Ivan Chuprinov</a>
-* <a href="#">Forrest Henry</a>
-* <a href="#">Sam Dixon</a>
 
 ### Active Learning Classrooms
 
