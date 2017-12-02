@@ -43,8 +43,8 @@ Topics that aligned this project include:
 
 Team members of this project include:
 
-* <a href="#">Ismael Jones-Taalib</a>
-* <a href="#">Ivan Chuprinov</a>
+* <a href="#">Ismael Jones-Taalib, Western Washington University</a>
+* <a href="#">Ivan Chuprinov, Western Washington University</a>
 
 ### Active Learning Classrooms
 
