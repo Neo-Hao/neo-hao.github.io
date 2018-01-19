@@ -16,7 +16,7 @@ aside: true
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://neo-hao.github.io/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>. doi:10.1111/bjet.12499. (<i>Impact Factor: 2.098</i>)
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283. (<i>Impact Factor: 2.098</i>)
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
 
@@ -27,6 +27,8 @@ aside: true
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://neo-hao.github.io/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
 
 ### Conference Proceedings
+
+* Hao, Q., Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education, Feb. 21-24, 2018, Baltimore, MD, USA. ACM.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://neo-hao.github.io/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, Pennsylvania.
 
@@ -122,10 +124,17 @@ aside: true
 * 2016 AERA Annual Meeting
 * 2016 AECT Convention
 
-### Committee
+### Committee & Working Group
+
+Committees & Working Groups at Department Level:
 
 * Student-Centered Learning Committee, Computer Science, Western Washington University
 * Undergraduate Curriculum Committee, Computer Science, Western Washington University
+* Secondary Education Committee, Science, Math, and Technology Education, Western Washington University
+
+Committees & Working Groups at State Level:
+
+* Next Generation STEM Teacher Preparation Project, Washington State
 
 ## Awards, Grants, and Professional Memberships
 
