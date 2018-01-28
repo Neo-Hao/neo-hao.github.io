@@ -38,6 +38,12 @@ aside: true
 
 * <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://neo-hao.github.io/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong.
 
+### Dissertation & Thesis
+
+* <strong>Hao, Q.</strong> (2017). <a href="http://neo-hao.github.io/downloads/phd-ldt-uga.pdf" target="_blank">Online help seeking in computer science education (Doctoral dissertation)</a>. University of Georgia.
+
+* <strong>Hao, Q.</strong> (2017). <a href="http://neo-hao.github.io/downloads/ms-cs-uga.pdf" target="_blank">Feature selection and classification of post-graduation income of college students in United States (Master’s thesis)</a>. University of Georgia.
+
 ### Conference Presentations
 
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (Accepted). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students. AERA Annual Meeting 2018, New York, NY.
@@ -126,13 +132,13 @@ aside: true
 
 ### Committee & Working Group
 
-Committees & Working Groups at Department Level:
+#### Committees & Working Groups at Department Level
 
 * Student-Centered Learning Committee, Computer Science, Western Washington University
 * Undergraduate Curriculum Committee, Computer Science, Western Washington University
 * Secondary Education Committee, Science, Math, and Technology Education, Western Washington University
 
-Committees & Working Groups at State Level:
+#### Committees & Working Groups at State Level
 
 * Next Generation STEM Teacher Preparation Project, Washington State
 
