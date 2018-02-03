@@ -43,8 +43,9 @@ Topics that aligned this project include:
 
 Team members of this project include:
 
+* <a href="#">David Smith, Western Washington University</a>
+* <a href="https://www.linkedin.com/in/seanachambers/" target="_blank">Sean Chambers, Western Washington University</a>
 * <a href="#">Ismael Jones-Taalib, Western Washington University</a>
-* <a href="#">Ivan Chuprinov, Western Washington University</a>
 
 ### Active Learning Classrooms
 
@@ -54,7 +55,8 @@ This project investigates the impacts of active learning environments and instru
 
 Team members of this project include:
 
-* <a href="https://www.linkedin.com/in/seanachambers/" target="_blank">Sean Chambers, Western Washington University</a>
-* <a href="#">David Smith, Western Washington University</a>
+* Tyler Greer, Western Washington University
+* Talia Jahromi, Western Washington University
 * <a href="http://www.cs.uga.edu/directory/brad-barnes" target="_blank">Brad Barnes, University of Georgia</a>
 * <a href="https://sohe.wisc.edu/graduate-students/meet-our-graduate-students/human-development-and-family-studies-graduate-students/mengguo-jing/" target="_blank">Mengguo Jing, University of Wisconsin</a>
+* <a href="http://ecps.educ.ubc.ca/person/yan-liu/" target="_blank">Yan Liu, University of British Columbia</a>

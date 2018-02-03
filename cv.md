@@ -92,6 +92,8 @@ aside: true
 
 ### Assigned Teaching
 
+* January 2018 - March 2018, Instructor of <em>Data Structure</em>, Computer Science, Western Washington University.
+
 * September 2017 - December 2017, Instructor of <em>Computer Programming and Linear Data Structures</em>, Computer Science, Western Washington University.
 
 * January 2017 - May 2017, Co-Instructor of <em>Creativity, Technology, and How the Brain Learns</em>, Learning, Design and Technology, University of Georgia.
@@ -147,6 +149,8 @@ aside: true
 ### Grants
 
 * Hao, Q. (PI), Fizzano, P. (Co-PI), & Geary, E. (Co-PI). Enhancing Computer Science Education in Washington State. NSF DRK-12. ($444,504, 2018-2020). Pending.
+
+* Tsikerdekis, M. (PI) & Hao, Q. (Co-PI). Examining the Influences of Automated Formative Feedback for Programming Assignments. Spenser Foundation. ($49,398.00, 2018-2019). Pending.
 
 ### Awards
 
