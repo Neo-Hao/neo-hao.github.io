@@ -150,7 +150,8 @@ aside: true
 
 ### Awards
 
-* 2017 AERA Division-C Selective Seminar
+* 2018 AERA Duvusuib C Selective Newe Faculty Mentoring Program
+* 2017 AERA Division C Selective Seminar
 * 2016 AECT Division of Distance Learning Journal Article Award
 
 ### Review Board Membership
