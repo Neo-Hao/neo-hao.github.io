@@ -16,7 +16,7 @@ aside: true
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://neo-hao.github.io/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283. (<i>Impact Factor: 2.098</i>)
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2017). <a href="http://neo-hao.github.io/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283. (<i>Impact Factor: 2.098</i>)
 
 * <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
 
@@ -28,15 +28,17 @@ aside: true
 
 ### Conference Proceedings
 
-* Hao, Q., Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education, Feb. 21-24, 2018, Baltimore, MD, USA. ACM.
+* Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C., USA.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://neo-hao.github.io/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, Pennsylvania.
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education, Feb. 21-24, 2018, Baltimore, MD, USA. ACM.
 
-* Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://neo-hao.github.io/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, Pennsylvania.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://neo-hao.github.io/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, PA.
 
-* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://neo-hao.github.io/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong.
+* Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://neo-hao.github.io/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, PA.
 
-* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://neo-hao.github.io/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong.
+* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://neo-hao.github.io/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong, HK.
+
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://neo-hao.github.io/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong, HK.
 
 ### Dissertation & Thesis
 
