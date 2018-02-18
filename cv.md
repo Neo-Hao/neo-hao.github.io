@@ -12,8 +12,7 @@ aside: true
 
 ## Scholarly Contributions
 
-<i>Authorship order indicates the scope of my intellectual contribution to the work. However, as I collaborate with many student colleagues I mentor or co-mentor, they take the first authorship on many key publications.</i>
-
+<i>Authorship order indicates the scope of my intellectual contribution to the work. However, as I collaborate with many student colleagues I mentor or co-mentor, they take the first authorship on some key publications.</i>
 <sup>*</sup>: student colleagues
 
 ### Journal Articles
@@ -36,9 +35,9 @@ aside: true
 
 <i>Different from many academic fields, premiere conferences in Comuputing Education, Social Computing and Human-Computer Interaction are selective venues for archival research. These conferences are considered better than many journals, given their selectivity, visibility, and impact.</i>
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education, Feb. 21-24, 2018, Baltimore, MD. ACM.
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In <i>SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education</i>, Feb. 21-24, 2018, Baltimore, MD. ACM.
 
-* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C.
+* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In <i>International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i>, Jul. 10-13, 2018, Washington, D.C.
 
 #### Conference Proceedings in Learning Technology and Education
 

@@ -10,7 +10,7 @@ aside: true
 > Effects of Active Learning Environments and Instructional Methods in Computer Science Education. 
 > ACM Technical Symposium on Computer Science Education (SIGCSE), to appear.
 
-> * Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (2018). Feature 
+> Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (2018). Feature 
 > Selection and Classification of Post-Graduation Income of College Students in the United 
 > States. In International Conference on Social Computing, Behavioral-Cultural Modeling & 
 > Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C., to appear.
