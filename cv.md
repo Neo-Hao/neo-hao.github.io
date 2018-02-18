@@ -12,39 +12,49 @@ aside: true
 
 ## Scholarly Contributions
 
+<i>Authorship order indicates the scope of my intellectual contribution to the work. However, as I collaborate with many student colleagues I mentor or co-mentor, they take the first authorship on many key publications.</i>
+
+<sup>*</sup>: student colleagues
+
 ### Journal Articles
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://neo-hao.github.io/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://qhao.info/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2017). <a href="http://neo-hao.github.io/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283. (<i>Impact Factor: 2.098</i>)
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2017). <a href="http://qhao.info/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283. (<i>Impact Factor: 2.098</i>)
 
-* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://neo-hao.github.io/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
 
-* Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://neo-hao.github.io/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64. (<i>Impact Factor: 2.694</i>)
+* Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64. (<i>Impact Factor: 2.694</i>)
 
-* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://neo-hao.github.io/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>, 60, 442-448.
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://qhao.info/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>, 60, 442-448.
 
-* Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://neo-hao.github.io/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
+* Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://qhao.info/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
 
 ### Conference Proceedings
 
-* Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C., USA.
+#### Conference Proceedings in Comuputing Education, Social Computing and Human-Computer Interaction
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education, Feb. 21-24, 2018, Baltimore, MD, USA. ACM.
+<i>Different from many academic fields, premiere conferences in Comuputing Education, Social Computing and Human-Computer Interaction are selective venues for archival research. These conferences are considered better than many journals, given their selectivity, visibility, and impact.</i>
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://neo-hao.github.io/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, PA.
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (In Press). Effects of Active Learning Environments and Instructional Methods in Computer Science Education. In SIGCSE ’18: 49th ACM Technical Symposium on Computer Science Education, Feb. 21-24, 2018, Baltimore, MD. ACM.
 
-* Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://neo-hao.github.io/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, PA.
+* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C.
 
-* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://neo-hao.github.io/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong, HK.
+#### Conference Proceedings in Learning Technology and Education
 
-* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://neo-hao.github.io/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong, HK.
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://qhao.info/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, PA.
+
+* Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://qhao.info/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, PA.
+
+* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://qhao.info/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong, HK.
+
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://qhao.info/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong, HK.
 
 ### Dissertation & Thesis
 
-* <strong>Hao, Q.</strong> (2017). <a href="http://neo-hao.github.io/downloads/phd-ldt-uga.pdf" target="_blank">Online help seeking in computer science education (Doctoral dissertation)</a>. University of Georgia.
+* <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/phd-ldt-uga.pdf" target="_blank">Online help seeking in computer science education (Doctoral dissertation)</a>. University of Georgia.
 
-* <strong>Hao, Q.</strong> (2017). <a href="http://neo-hao.github.io/downloads/ms-cs-uga.pdf" target="_blank">Feature selection and classification of post-graduation income of college students in United States (Master’s thesis)</a>. University of Georgia.
+* <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/ms-cs-uga.pdf" target="_blank">Feature selection and classification of post-graduation income of college students in United States (Master’s thesis)</a>. University of Georgia.
 
 ### Conference Presentations
 
@@ -82,15 +92,15 @@ aside: true
 
 ### Workshop
 
-* Hao, Q. & Branch, M. R. (2016). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2016, Las Vegas, Nevada.
+* Hao, Q. & Branch, M. R. (2016). <a href="http://qhao.info/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2016, Las Vegas, Nevada.
 
-* Hao, Q. & Panke, S. (2016). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
+* Hao, Q. & Panke, S. (2016). <a href="http://qhao.info/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
 
-* Hao, Q. & Branch, M. R. (2015). <a href="http://neo-hao.github.io/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2015, Indianapolis, Indiana.
+* Hao, Q. & Branch, M. R. (2015). <a href="http://qhao.info/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2015, Indianapolis, Indiana.
 
 * Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at Design, Develop and Research Conference 2015, Athens, GA.
 
-* Hao, Q. (2015). <a href="http://neo-hao.github.io/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
+* Hao, Q. (2015). <a href="http://qhao.info/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
 ### Assigned Teaching
 
@@ -171,3 +181,4 @@ aside: true
 
 * IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
 * Program Committee Member of 2017 HKAECT-AECT International Research Symposium
+

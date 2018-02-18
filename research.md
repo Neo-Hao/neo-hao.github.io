@@ -10,6 +10,11 @@ aside: true
 > Effects of Active Learning Environments and Instructional Methods in Computer Science Education. 
 > ACM Technical Symposium on Computer Science Education (SIGCSE), to appear.
 
+> * Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (2018). Feature 
+> Selection and Classification of Post-Graduation Income of College Students in the United 
+> States. In International Conference on Social Computing, Behavioral-Cultural Modeling & 
+> Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C., to appear.
+
 ### Hour of Code
 
 This project explores the retention of young students participating <a href="https://hourofcode.com/us" target="_blank">Hour of Code</a>, and possibly better measurement of the well-structured coding activities. Hour of Code is a massive online coding activities aiming at introducing and attracting young students to computer science through interactive and gamified coding activities. Hundred millions students around the globe participated in this activity annually. 
