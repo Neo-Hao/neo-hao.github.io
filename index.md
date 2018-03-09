@@ -8,13 +8,12 @@ aside: false
 
 <img style="float:left; margin-right: 20px; margin-top: 20px; width: 18%;" src="assets/avatar.jpeg" />
 
-Qiang Hao 
-<a href="mailto:Qiang.Hao@wwu.edu">Qiang.Hao@wwu.edu</a>
-Assistant Professor
-Computer Science & SMATE, Western Washington University
+Qiang Hao  
+<a href="mailto:Qiang.Hao@wwu.edu">Qiang.Hao@wwu.edu</a>  
+Assistant Professor  
+Computer Science & SMATE, Western Washington University  
 
-
-I research in computer science education, an interdisciplinary field that involves knowledge of:
+I research in computer science education, an interdisciplinary field that involves the knowledge of:
 
 * computer science
 * software engineer
