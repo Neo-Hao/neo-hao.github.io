@@ -6,18 +6,21 @@ aside: true
 
 ## Ongoing Projects
 
-> Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (2018). Feature 
-> Selection and Classification of Post-Graduation Income of College Students in the United 
-> States. In International Conference on Social Computing, Behavioral-Cultural Modeling & 
-> Prediction and Behavior Representation in Modeling and Simulation, Jul. 10-13, 2018, Washington, D.C., to appear.
-
 ### Online Question & Answer of Learning Computer Science
 
 This project explores using Q & A to accommodate more computer science students and improve the quality of communication among instructors and students.
 
 <img src="https://farm5.staticflickr.com/4454/37782035171_774850ea7c_b.jpg" width="320" height="240" alt="qaGraph">
 
-Team members of this project include:
+Publications under this topic include:
+
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://qhao.info/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
+
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2017). <a href="http://qhao.info/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283.
+
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474.
+
+Current team members of this project include:
 
 * <a href="#">David Smith, Western Washington University</a>
 * <a href="https://www.linkedin.com/in/seanachambers/" target="_blank">Sean Chambers, Western Washington University</a>
@@ -25,11 +28,15 @@ Team members of this project include:
 
 ### Active Learning Classrooms
 
-This project investigates the impacts of active learning environment on computer science students. Although active learning environment been studied in other fields extensively, it was rarely studied in the context of computer science education. This project intends to extend such discussions to computer science education.
+This project investigates the impacts of active learning environment on computer science students. Although active learning environment been studied in other fields extensively, it was rarely studied in the context of computer science education. This project intends to extend such discussions to computer science education and making progress on methods
 
 <img src="https://farm5.staticflickr.com/4404/36975322400_e898114369_n.jpg" width="320" height="240" alt="activeClassroom">
 
-Team members of this project include:
+Publications under this topic include:
+
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939.
+
+Current team members of this project include:
 
 * Tyler Greer, Western Washington University
 * Talia Jahromi, Western Washington University
