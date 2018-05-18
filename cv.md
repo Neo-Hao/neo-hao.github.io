@@ -18,11 +18,11 @@ aside: true
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2017). <a href="http://qhao.info/downloads/KMEL-2017.pdf" target="_blank">Predicting Computer Science Students’ Online Help-Seeking Tendencies</a>. <i>Knowledge Management & E-Learning</i>, 9(1), 19-32.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2017). <a href="http://qhao.info/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283. (<i>Impact Factor: 2.098</i>)
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2017). <a href="http://qhao.info/downloads/bjet.pdf" target="_blank">The Influence of Achievement Goals on Online Help Seeking of Computer Science Students</a>. <i>British Journal of Educational Technology</i>, 48(6), 1273-1283.
 
-* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474. (<i>Impact Factor: 2.694</i>)
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior.pdf" target="_blank">What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?</a> <i>Computers in Human Behaviors</i>, 62, 467-474.
 
-* Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64. (<i>Impact Factor: 2.694</i>)
+* Lu, J., <strong>Hao, Q.</strong>, & Jing, M. (2016). <a href="http://qhao.info/downloads/computers-in-human-behavior-2.pdf" target="_blank">Consuming, Sharing, and Creating Content: How Young Students Use New Social Media In and Outside School</a>. <i>Computers in Human Behaviors</i>, 64, 55-64.
 
 * <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://qhao.info/downloads/techtrends-2016.pdf" target="_blank">The Effect of Precommitment on Student Achievement Within a Technology-Rich Project-Based Learning Environment</a>. <i>TechTrends</i>, 60, 442-448.
 
@@ -86,19 +86,13 @@ aside: true
 
 ### Assigned Teaching
 
-* April 2018 - June 2018, Instructor of <em>Computer Programming and Linear Data Structures</em>, Computer Science, Western Washington University.
-
-* January 2018 - March 2018, Instructor of <em>Data Structure</em>, Computer Science, Western Washington University.
-
-* September 2017 - December 2017, Instructor of <em>Computer Programming and Linear Data Structures</em>, Computer Science, Western Washington University.
-
-* January 2017 - May 2017, Co-Instructor of <em>Creativity, Technology, and How the Brain Learns</em>, Learning, Design and Technology, University of Georgia.
- 
-* May 2016 - June 2016, Co-Instructor of <em>Introduction to Computers for Teachers</em>, Learning, Design and Technology, University of Georgia.
- 
-* August 2015 - December 2015, Co-Instructor of <em>First Year Odyssey</em>, Learning, Design and Technology, University of Georgia.
- 
-* August 2015 - December 2015, Co-Instructor of <em>Instructional Design</em>, Learning, Design and Technology, University of Georgia.
+* Computer Programming and Linear Data Structures, Computer Science, Western Washington University.
+* Data Structure, Computer Science, Western Washington University.
+* Computer Programming and Linear Data Structures, Computer Science, Western Washington University.
+* Creativity, Technology, and How the Brain Learns, Learning, Design and Technology, University of Georgia.
+* Introduction to Computers for Teachers, Learning, Design and Technology, University of Georgia.
+* First Year Odyssey, Learning, Design and Technology, University of Georgia
+* Instructional Design, Learning, Design and Technology, University of Georgia
 
 ### Workshop
 
@@ -112,11 +106,11 @@ aside: true
 
 * Hao, Q. (2015). <a href="http://qhao.info/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
 
-
 ## Service
 
 ### Invited Review
 
+* National Science Foundation
 * Review of Educational Research
 * Computers in Human Behavior
 * Journal of Educational Technology & Society
