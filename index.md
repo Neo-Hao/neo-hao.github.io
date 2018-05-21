@@ -13,12 +13,13 @@ Qiang Hao
 Assistant Professor  
 Computer Science & SMATE, Western Washington University  
 
-I research in computer science education, an interdisciplinary field that involves the knowledge of:
+I do research in computer science education, an interdisciplinary field that involves the knowledge of:
 
-* computer science
-* software engineer
-* pedagogical knowledge
-* educational psychology
+* Computer Science
+* Data Science
+* Software Engineer
+* Pedagogical Knowledge
+* Educational Psychology
 
 If you are interested in collaboration, please check both my <a href="research" target="_blank">ongoing research projects</a> and <a href="cv" target="_blank">my prior publications</a>.
 

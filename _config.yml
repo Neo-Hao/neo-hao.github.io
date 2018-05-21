@@ -89,9 +89,10 @@ avatarurl: "/assets/logo.png" # Uses avatars for favicons to get multple sites, 
 navigation_header:
   Home: /
   Research: /research/
+  Papers: /cv/
   Teaching: /teaching/
-  Curriculum Vitae: /cv/
-  Other: /other/
+  # Students: /students/
+  # Other: /other/
   # Search: /search/
 
 
