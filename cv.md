@@ -1,10 +1,16 @@
 ---
-title: Papers
+title: Curriculum Vitae
 feature_image: "https://unsplash.it/1300/400?image=1067"
 aside: true
 ---
 
-<i>Authorship order indicates the scope of my intellectual contribution to the work. However, as I collaborate with many student colleagues, they take the first authorship on some key publications.</i> (<sup>*</sup>: student colleagues).
+## Education
+
+* Ph.D. in Learning, Design and Technology, University of Georgia, 2017
+* M.Sc. in Computer Science, University of Georgia, 2017
+* M.Sc. in Information Technology Studies, University of Hong Kong, 2012
+
+## Scholarly Contributions
 
 ### Journal Articles
 
@@ -22,20 +28,127 @@ aside: true
 
 #### Conference Proceedings
 
-* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In <i>International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i>, Jul. 10-13, 2018, Washington, D.C.
+* Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In <i>International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i>, Jul. 10-13, 2018, Washington, D.C.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939. doi: 10.1145/3159450.3159451
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://qhao.info/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, PA.
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://qhao.info/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, PA.
-
-* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://qhao.info/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong, HK.
-
-* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://qhao.info/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong, HK.
 
 ### Dissertation & Thesis
 
 * <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/phd-ldt-uga.pdf" target="_blank">Online help seeking in computer science education (Doctoral dissertation)</a>. University of Georgia.
 
 * <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/ms-cs-uga.pdf" target="_blank">Feature selection and classification of post-graduation income of college students in United States (Master’s thesis)</a>. University of Georgia.
+
+### Conference Presentations
+
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2018). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students. AERA Annual Meeting 2018, New York, NY.
+
+* <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (2017). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
+
+* <strong>Hao, Q.</strong>, Branch, M. R., & Wright, E. (2017). Selecting the Most Important Predictors of College Students’ Online Help-Seeking Behaviors. AERA Annual Meeting 2017, San Antonio, TX.
+
+* Wright, E., <strong>Hao, Q.</strong>, & Rosenberg, J. M. (2017). What Are the Most Important Predictors of the Earnings of College Graduates? Data from the College Scorecard. AERA Annual Meeting 2017, San Antonio, TX.
+
+* Lu, J., Jing, M., & <strong>Hao, Q.</strong> (2017). Adolescent Social Media Behavior, Personality Factors and Academic Performance: A Path Analysis. AERA Annual Meeting 2017, San Antonio, TX.
+
+* Jing, M. & <strong>Hao, Q.</strong> (2017). The Role of Pretend Play in Social Interactions: Evidence from Peer-dyadic Play in Singaporean Preschoolers. AERA Annual Meeting 2017, San Antonio, TX.
+
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Automatic Prediction of the Relevance and Efficacy of College Students’ Online Learning Questions. Presented at AECT Convention 2016, Las Vegas, Nevada.
+
+* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016). Predicting College Students' Online Help Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty. Presented at AERA Annual Meeting 2016, Washington, DC.
+
+* <strong>Hao, Q.</strong>, Branch, M. R., & Jensen, L. (2016). <a href="http://www.slideshare.net/qianghaoqiang/the-effect-of-precommitment-on-student-achievement-within-a-projectbased-learning-environment" target="_blank">The Effect of Precommitment on Student Achievement within a Project-Based Learning Environment</a>. Presented at SITE 2016 Annual Meeting, Savannah, GA (Acceptance Rate: 25-39%).
+
+* <strong>Hao, Q.</strong>, Wright, E., Barnes, B., & Branch, M. R. (2016). The Most Important Predictors for Computer Science Students’ Online Searching. Presented at Conference on Higher Education Pedagogy 8th Annual Meeting, Blacksburg, VA.
+
+* <strong>Hao, Q.</strong>. (2016). The Application of Data Mining in Education. Presented at IDD@UGA 2016, Athens, GA.
+
+* Branch, R. M., & <strong>Hao, Q.</strong> (2015). <a href="http://slides.com/neohao/strategies-for-learning-space/live#/" target="_blank">Innovative Strategies for Managing the Complexity of Intentional Learning Space.</a> Presented at Innovation in Teaching Conference 2015, Athens, GA.
+
+* Lu, J., & <strong>Hao, Q.</strong> (2014). What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home. Presented at AERA Annual Meeting 2014, Philadelphia, PA.
+
+* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong.
+
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong.
+
+## Teaching
+
+### Assigned Teaching
+
+* Computer Programming and Linear Data Structures, Computer Science, Western Washington University.
+* Data Structure, Computer Science, Western Washington University.
+* Computer Programming and Linear Data Structures, Computer Science, Western Washington University.
+* Creativity, Technology, and How the Brain Learns, Learning, Design and Technology, University of Georgia.
+* Introduction to Computers for Teachers, Learning, Design and Technology, University of Georgia.
+* First Year Odyssey, Learning, Design and Technology, University of Georgia
+* Instructional Design, Learning, Design and Technology, University of Georgia
+
+### Workshop
+
+* Hao, Q. & Branch, M. R. (2016). <a href="http://qhao.info/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2016, Las Vegas, Nevada.
+
+* Hao, Q. & Panke, S. (2016). <a href="http://qhao.info/edutextmining/" target="_blank">Introduction to Text Mining in Educational Research</a>. Workshop at SITE 2016 Annual Meeting, Savannah, GA.
+
+* Hao, Q. & Branch, M. R. (2015). <a href="http://qhao.info/edutextmining/" target="_blank">Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology</a>. Workshop at AECT Convention 2015, Indianapolis, Indiana.
+
+* Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at Design, Develop and Research Conference 2015, Athens, GA.
+
+* Hao, Q. (2015). <a href="http://qhao.info/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
+
+## Service
+
+### Invited Review
+
+* National Science Foundation
+* Review of Educational Research
+* Computers in Human Behavior
+* Journal of Educational Technology & Society
+* IEEE Transactions on Education
+* Journal of Technology, Knowledge and Learning
+* Journal of Computers in Education
+* Journal of Information Systems Education
+* Journal of Online Learning Research
+* Journal of Technology and Teacher Education
+* Contemporary Issues in Technology & Teacher Education
+* International Journal of E-Learning & Distance Education 
+
+### Routine Review
+
+* 2018 ACM Technical Symposium on Computer Science Education
+* 2018 AERA Annual Meeting
+* 2017 AERA Annual Meeting 
+* 2017 SITE Annual Conference
+* 2017 International Conference on Computer Supported Collaborative Learning
+* 2017 HKAECT-AECT International Research Symposium
+* 2017 EdMedia
+* 2016 AERA Annual Meeting
+* 2016 AECT Convention
+
+### Committee & Working Group
+
+* Student-Centered Learning Committee, Computer Science, Western Washington University
+* Undergraduate Curriculum Committee, Computer Science, Western Washington University
+* Secondary Education Committee, Science, Math, and Technology Education, Western Washington University
+* Next Generation STEM Teacher Preparation Working Groups, Washington State
+
+## Awards, Grants, and Professional Memberships
+
+### Awards
+
+* 2018 AERA Division C Selective Newe Faculty Mentoring Program
+* 2017 AERA Division C Selective Seminar
+* 2016 AECT Division of Distance Learning Journal Article Award
+
+### Review Board Membership
+
+* 2014-2017, Editorial Review Board Member of Journal of Online Learning Research
+* 2014-2017, Editorial Review Board Member of Contemporary Issues in Technology and Teacher Education
+* 2014-2017, Editorial Review Board Member of Journal of Technology and Teacher Education
+
+### Conference Committee Membership
+
+* IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
+* Program Committee Member of 2017 HKAECT-AECT International Research Symposium
