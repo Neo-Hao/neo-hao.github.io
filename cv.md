@@ -28,7 +28,9 @@ aside: true
 
 #### Conference Proceedings
 
-* Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In <i>International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i>, Jul. 10-13, 2018, Washington, D.C.
+* <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (In Press). Automatic Identification of Ineffective Online Student Questions in Computing Education. In <i>2018 IEEE Frontier in Education</i>, Oct. 3-6, San Jose, CA.
+
+* Wright, E., <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In <i>2018 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i>, Jul. 10-13, 2018, Washington, D.C.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939.
 
@@ -78,13 +80,18 @@ aside: true
 
 ### Assigned Teaching
 
-* Computer Programming and Linear Data Structures, Computer Science, Western Washington University.
-* Data Structure, Computer Science, Western Washington University.
-* Computer Programming and Linear Data Structures, Computer Science, Western Washington University.
-* Creativity, Technology, and How the Brain Learns, Learning, Design and Technology, University of Georgia.
-* Introduction to Computers for Teachers, Learning, Design and Technology, University of Georgia.
-* First Year Odyssey, Learning, Design and Technology, University of Georgia
-* Instructional Design, Learning, Design and Technology, University of Georgia
+Western Washington University
+
+* Computer Programming and Linear Data Structures
+* Data Structure
+* Matter and Energy in Physical Systems
+
+University of Georgia
+
+* Database
+* Creativity, Technology, and How the Brain Learns
+* Introduction to Computing for Teachers
+* Instructional Design
 
 ### Workshop
 
