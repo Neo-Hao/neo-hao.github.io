@@ -101,9 +101,9 @@ navigation_footer:
   Designed by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  # Email: mailto:Qiang.Hao@wwu.edu
-  # LinkedIn: https://www.linkedin.com/in/qiang-hao-4984023b/
-  # GitHub: https://github.com/Neo-Hao
+  googlescholar: https://scholar.google.com/citations?user=X9zUec0AAAAJ&hl=en
+  LinkedIn: https://www.linkedin.com/in/qiang-hao-4984023b/
+  GitHub: https://github.com/Neo-Hao
   # RSS: /feed.xml
 
 

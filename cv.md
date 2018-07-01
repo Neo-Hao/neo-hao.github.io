@@ -26,7 +26,7 @@ aside: true
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://qhao.info/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
 
-#### Conference Proceedings
+### Conference Proceedings
 
 * <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (In Press). Automatic Identification of Ineffective Online Student Questions in Computing Education. In <i>2018 IEEE Frontier in Education</i>, Oct. 3-6, San Jose, CA.
 
@@ -80,13 +80,13 @@ aside: true
 
 ### Assigned Teaching
 
-Western Washington University
+#### Western Washington University
 
 * Computer Programming and Linear Data Structures
 * Data Structure
 * Matter and Energy in Physical Systems
 
-University of Georgia
+#### University of Georgia
 
 * Database
 * Creativity, Technology, and How the Brain Learns
