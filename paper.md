@@ -22,7 +22,7 @@ aside: true
 
 #### Conference Proceedings
 
-* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (In Press). Feature Selection and Classification of Post-Graduation Income of College Students in the United States. In <i>International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i>, Jul. 10-13, 2018, Washington, D.C.
+* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In: Thomson R., Dancy C., Hyder A., Bisgin H. (eds) Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2018. Lecture Notes in Computer Science, vol 10899. Springer, Cham. doi: 10.1007/978-3-319-93372-6_4
 
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939. doi: 10.1145/3159450.3159451
 
