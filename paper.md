@@ -22,17 +22,13 @@ aside: true
 
 #### Conference Proceedings
 
-* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed, K. & Liu, Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In: Thomson R., Dancy C., Hyder A., Bisgin H. (eds) Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2018. Lecture Notes in Computer Science, vol 10899. Springer, Cham. doi: 10.1007/978-3-319-93372-6_4
+* Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed K., Liu Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45). Springer, Cham. doi: 10.1007/978-3-319-93372-6_4
 
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939. doi: 10.1145/3159450.3159451
 
 * <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://qhao.info/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, PA.
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014, April). <a href="http://qhao.info/downloads/AERA-2014.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home? </a> AERA Annual Meeting 2014. Philadelphia, PA.
-
-* <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://qhao.info/downloads/CITE-2013.pdf" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong, HK.
-
-* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://qhao.info/downloads/CITE-2012.pdf" target="_blank">Effects of Computerized Graphic Organizers on EFL Students' Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong, HK.
 
 ### Dissertation & Thesis
 
