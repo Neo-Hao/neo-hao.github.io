@@ -28,7 +28,7 @@ aside: true
 
 ### Conference Proceedings
 
-* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). On the Effects of Active Learning Environments in Computing Education. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
+* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
 
 * <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (In Press). Automatic Identification of Ineffective Online Student Questions in Computing Education. In <i>2018 IEEE Frontier in Education</i>, Oct. 3-6, San Jose, CA.
 

@@ -22,7 +22,7 @@ aside: true
 
 #### Conference Proceedings
 
-* Greer, T.<sup>*</sup>, <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). On the Effects of Active Learning Environments in Computing Education. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
+* Greer, T.<sup>*</sup>, <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
 
 * Wright, E.<sup>*</sup>, <strong>Hao, Q.</strong>, Rasheed K., Liu Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45). Springer, Cham. doi: 10.1007/978-3-319-93372-6_4
 
