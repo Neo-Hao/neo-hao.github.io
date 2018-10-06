@@ -28,6 +28,8 @@ aside: true
 
 ### Conference Proceedings
 
+* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). On the Effects of Active Learning Environments in Computing Education. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
+
 * <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (In Press). Automatic Identification of Ineffective Online Student Questions in Computing Education. In <i>2018 IEEE Frontier in Education</i>, Oct. 3-6, San Jose, CA.
 
 * Wright E., <strong>Hao, Q.</strong>, Rasheed K., Liu Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45). Springer, Cham. doi: 10.1007/978-3-319-93372-6_4

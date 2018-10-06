@@ -18,7 +18,7 @@ I do research in computer science education, an interdisciplinary field that inv
 * Computer Science
 * Data Science
 * Software Engineer
-* Pedagogical Knowledge
+* Learning Science
 * Educational Psychology
 
 If you are interested in collaboration, please check both my <a href="research" target="_blank">ongoing research projects</a> and <a href="cv" target="_blank">my prior publications</a>.
