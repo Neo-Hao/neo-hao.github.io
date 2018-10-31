@@ -1,6 +1,6 @@
 ---
 title: Papers
-feature_image: "https://unsplash.it/1300/400?image=1067"
+<!-- feature_image: "https://unsplash.it/1300/400?image=1067" -->
 aside: true
 ---
 

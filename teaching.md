@@ -1,6 +1,6 @@
 ---
 title: Teaching
-feature_image: "https://unsplash.it/1300/400?image=1060"
+<!-- feature_image: "https://unsplash.it/1300/400?image=1060" -->
 aside: true
 ---
 

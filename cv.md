@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-feature_image: "https://unsplash.it/1300/400?image=1067"
+<!-- feature_image: "https://unsplash.it/1300/400?image=1067" -->
 aside: true
 ---
 
@@ -46,7 +46,7 @@ aside: true
 
 * <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/ms-cs-uga.pdf" target="_blank">Feature selection and classification of post-graduation income of college students in United States (Master’s thesis)</a>. University of Georgia.
 
-### Conference Presentations
+<!-- ### Conference Presentations
 
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Branch, M. R. (2018). The Influence of Achievement Goals on Online Help Seeking of Computer Science Students. AERA Annual Meeting 2018, New York, NY.
 
@@ -76,7 +76,7 @@ aside: true
 
 * <strong>Hao, Q.</strong>, & Lu, J. (2013). <a href="http://citers2013.cite.hku.hk/en/paper_605.htm" target="_blank">The Assessment of Self-Regulated Learning: Where We Are Today.</a> Presented at CITE Research Symposium 2013, Hong Kong.
 
-* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong.
+* <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong. -->
 
 ## Teaching
 

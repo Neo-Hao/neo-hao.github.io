@@ -1,8 +1,8 @@
 ---
 title: About
-feature_text: |
+<!-- feature_text: |
   ## Qiang Hao
-feature_image: "https://unsplash.it/1300/400?image=971"
+feature_image: "https://unsplash.it/1300/400?image=971" -->
 aside: false
 ---
 
