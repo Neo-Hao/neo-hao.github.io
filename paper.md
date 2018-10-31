@@ -20,7 +20,7 @@ aside: true
 
 * Lu, J., & <strong>Hao, Q.</strong> (2014). <a href="http://qhao.info/downloads/journal-of-computer-in-education.pdf" target="_blank">What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home</a>. <i>Journal of Computers in Education</i>, 1(2-3), 133-150.
 
-#### Conference Proceedings
+### Conference Proceedings
 
 * Greer, T.<sup>*</sup>, <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
 

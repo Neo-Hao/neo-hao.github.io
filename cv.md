@@ -1,17 +1,14 @@
 ---
 title: Curriculum Vitae
-<!-- feature_image: "https://unsplash.it/1300/400?image=1067" -->
 feature_image:
 aside: true
 ---
 
-## Education
+### Education
 
 * Ph.D. in Learning, Design and Technology, University of Georgia, 2017
 * M.Sc. in Computer Science, University of Georgia, 2017
 * M.Sc. in Information Technology Studies, University of Hong Kong, 2012
-
-## Scholarly Contributions
 
 ### Journal Articles
 
@@ -79,22 +76,15 @@ aside: true
 
 * <strong>Hao, Q.</strong>, & Siu, F. (2012). <a href="http://citers2012.cite.hku.hk/en/paper_534.htm" target="_blank">Effects of Computerized Graphic Organizers on English as a Foreign Language Students’ Expository Reading.</a> Presented at CITE Research Symposium 2012, Hong Kong. -->
 
-## Teaching
+### Teaching
 
-### Assigned Teaching
-
-#### Western Washington University
-
-* Computer Programming and Linear Data Structures
-* Data Structure
-* Matter and Energy in Physical Systems
-
-#### University of Georgia
-
-* Database
-* Creativity, Technology, and How the Brain Learns
-* Introduction to Computing for Teachers
-* Instructional Design
+* Computer Programming and Linear Data Structures, Western Washington University
+* Data Structure, Western Washington University
+* Matter and Energy in Physical Systems, Western Washington University
+* Database, University of Georgia
+* Creativity, Technology, and How the Brain Learns, University of Georgia
+* Introduction to Computing for Teachers, University of Georgia
+* Instructional Design, University of Georgia
 
 ### Workshop
 
@@ -107,8 +97,6 @@ aside: true
 * Hao, Q. (2015). <a href="http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research" target="_blank">Data Mining and Text Mining in Educational Research</a>. Seminar at Design, Develop and Research Conference 2015, Athens, GA.
 
 * Hao, Q. (2015). <a href="http://qhao.info/sem/" target="_blank">Introduction to Confirmatory Factor Analysis and Structural Equation Modeling</a>. Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
-
-## Service
 
 ### Invited Review
 
@@ -144,8 +132,6 @@ aside: true
 * Secondary Education Committee, Science, Math, and Technology Education, Western Washington University
 * Next Generation STEM Teacher Preparation Working Groups, Washington State
 
-## Awards, Grants, and Professional Memberships
-
 ### Awards
 
 * 2018 AERA Division C Selective Newe Faculty Mentoring Program
@@ -162,3 +148,5 @@ aside: true
 
 * IEEE Maker Track Program Committee of 17th IEEE International Conference on Advanced Learning Technologies 2017
 * Program Committee Member of 2017 HKAECT-AECT International Research Symposium
+
+<!-- feature_image: "https://unsplash.it/1300/400?image=1067" -->

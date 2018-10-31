@@ -31,13 +31,9 @@ This project investigates the impacts of active learning environment on computer
 
 Publications under this topic include:
 
+Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
+
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939.
-
-### Retention of Online Coding Games
-
-This project explores the retention of young students in massive online coding games. Massive online coding activities aim at introducing and attracting young students to computer science through interactive and gamified coding activities, but typically has a high abandonment rate.
-
-<img src="https://farm5.staticflickr.com/4331/37230163801_7004639bf1.jpg" width="320" height="240" alt="hourofcode">
 
 ### Automated Formative Feedback
 
