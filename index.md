@@ -1,8 +1,6 @@
 ---
 title: About
-<!-- feature_text: |
-  ## Qiang Hao
-feature_image: "https://unsplash.it/1300/400?image=971" -->
+feature_image:
 aside: false
 ---
 
@@ -24,3 +22,8 @@ I do research in computer science education, an interdisciplinary field that inv
 If you are interested in collaboration, please check both my <a href="research" target="_blank">ongoing research projects</a> and <a href="cv" target="_blank">my prior publications</a>.
 
 If you are a student at Western Washington University looking for senior projects, independent study, or graduate study, you can bring your own topics or join one of my <a href="research" target="_blank">ongoing research projects</a>.
+
+
+<!-- feature_text: |
+  ## Qiang Hao
+feature_image: "https://unsplash.it/1300/400?image=971" -->

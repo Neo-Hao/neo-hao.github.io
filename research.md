@@ -1,6 +1,6 @@
 ---
 title: Research
-<!-- feature_image: "https://unsplash.it/1300/400?image=1063" -->
+feature_image:
 aside: true
 ---
 
@@ -56,3 +56,5 @@ This is a replication project that intends to explore the role of prior knowledg
 ### Identification of Signs of Struggling in Large Computer Science Courses
 
 This project intends to capture the sign of struggling in large computer science courses as early as possible.
+
+<!-- feature_image: "https://unsplash.it/1300/400?image=1063" -->

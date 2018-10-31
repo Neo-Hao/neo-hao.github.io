@@ -1,6 +1,6 @@
 ---
 title: Papers
-<!-- feature_image: "https://unsplash.it/1300/400?image=1067" -->
+feature_image:
 aside: true
 ---
 
@@ -39,3 +39,5 @@ aside: true
 * <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/phd-ldt-uga.pdf" target="_blank">Online help seeking in computer science education (Doctoral dissertation)</a>. University of Georgia.
 
 * <strong>Hao, Q.</strong> (2017). <a href="http://qhao.info/downloads/ms-cs-uga.pdf" target="_blank">Feature selection and classification of post-graduation income of college students in United States (Master’s thesis)</a>. University of Georgia.
+
+<!-- feature_image: "https://unsplash.it/1300/400?image=1067" -->
