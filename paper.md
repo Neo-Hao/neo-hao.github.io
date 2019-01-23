@@ -23,7 +23,7 @@ aside: true
 ### Conference Proceedings
 
 * Smith, D.<sup>*</sup>, <strong>Hao, Q.</strong>, Jagodzinski, F., Liu, Y., Gupta, V.
-2019. <a href="http://qhao.info/downloads/comped-2019.pdf" target="_blank">Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses</a>. In <i>Proceedings of the 1st ACM Global Computing Education Conference 2019 (CompEd
+(In Press). <a href="http://qhao.info/downloads/comped-2019.pdf" target="_blank">Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses</a>. In <i>Proceedings of the 1st ACM Global Computing Education Conference (CompEd
 ’19)</i>. ACM, New York, NY, USA.
 
 * Greer, T.<sup>*</sup>, <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, Minneapolis, MN, USA.
