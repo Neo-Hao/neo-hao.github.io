@@ -30,15 +30,13 @@ aside: true
 (In Press). <a href="http://qhao.info/downloads/comped-2019.pdf" target="_blank">Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses</a>. In <i>Proceedings of the 1st ACM Global Computing Education Conference (CompEd
 ’19)</i>. ACM, New York, NY, USA.
 
-* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (In Press). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA.
-
 * <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (In Press). <a href="http://qhao.info/downloads/fie-2018.pdf" target="_blank">Automatic Identification of Ineffective Online Student Questions in Computing Education</a>. In <i>2018 IEEE Frontier in Education</i>, Oct. 3-6, San Jose, CA.
 
-* Wright E., <strong>Hao, Q.</strong>, Rasheed K., Liu Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45). Springer, Cham. doi: 10.1007/978-3-319-93372-6_4
+* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (2019). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 267-272.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939. doi: 10.1145/3159450.3159451
+* Wright E., <strong>Hao, Q.</strong>, Rasheed K., Liu Y. (2018). <a href="http://qhao.info/downloads/sbp-brims-2018.pdf" target="_blank">Feature Selection of Post-graduation Income of College Students in the United States</a>. In International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45). Springer, Cham.
 
-* <strong>Hao, Q.</strong>, Barnes, B., Branch, M. R., & Wright, E. (2016, April). <a href="http://qhao.info/downloads/AERA-2016.pdf" target="_blank">Predicting College Students' Online Help-Seeking Behavior: The Effect of Learning Proficiency, Interest, Prior Knowledge, Epistemological Belief, and Problem Difficulty</a>. AERA Annual Meeting 2016. Philadelphia, PA.
+* <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939.
 
 ### Dissertation & Thesis
 
