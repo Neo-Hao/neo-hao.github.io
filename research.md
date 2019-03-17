@@ -31,7 +31,7 @@ This project investigates the impacts of active learning environment on computer
 
 Publications under this topic include:
 
-* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (2019). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 267-272.
+* Greer, T., <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (2019). <a href="https://dl.acm.org/citation.cfm?id=3287345" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 267-272.
 
 * <strong>Hao, Q.</strong>, Barnes, B., Wright, E., & Kim. E. (2018). <a href="http://qhao.info/downloads/sigcse-2018.pdf" target="_blank">Effects of Active Learning Environments and Instructional Methods in Computer Science Education</a>. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)</i>. ACM, New York, NY, USA, 934-939.
 
