@@ -26,7 +26,7 @@ aside: true
 (In Press). <a href="http://qhao.info/downloads/comped-2019.pdf" target="_blank">Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses</a>. In <i>Proceedings of the 1st ACM Global Computing Education Conference (CompEd
 ’19)</i>. ACM, New York, NY, USA.
 
-* Greer, T.<sup>*</sup>, <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (2019). <a href="https://dl.acm.org/citation.cfm?id=3287345" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 267-272.
+* Greer, T.<sup>*</sup>, <strong>Hao, Q.</strong>, Jing, M., Barnes, B. (2019). <a href="http://qhao.info/downloads/sigcse-2019.pdf" target="_blank">On the Effects of Active Learning Environments in Computing Education</a>. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 267-272.
 
 * <strong>Hao, Q.</strong>, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (2018). <a href="http://qhao.info/downloads/fie-2018.pdf" target="_blank">Automatic Identification of Ineffective Online Student Questions in Computing Education</a>. In <i>Proceedings of 2018 IEEE Frontier in Education (FIE ’18)</i>, San Jose, CA.
 
