@@ -18,4 +18,6 @@ This is a core course for students at Western to get admitted to CS major, also 
 
 This is another core course for students at Western to get admitted to CS major. The performance of this course will be used with performances from other two courses to collectively determine if a student can be successfully admitted to CS major. Other than that, this course is fully dedicated to data structure. 
 
+If you are planning to take either one from me, you may want to know that we use Git for course management and take a look at <a href="https://www.katacoda.com/courses/git" target="_blank">this</a>.
+
 <!-- feature_image: "https://unsplash.it/1300/400?image=1060" -->
