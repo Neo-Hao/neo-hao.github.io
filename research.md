@@ -12,7 +12,7 @@ This project explores:
 * Development of automated feedback tools on top of existing infrastructure
 * How students use automated formative feedback when working on their programming assignments
 
-<img src="https://live.staticflickr.com/65535/46905961784_e902ac8703_z.jpg" width="320" height="257" alt="auto-test">
+<img src="https://live.staticflickr.com/65535/46905961784_e902ac8703_z.jpg" width="500" height="400" alt="auto-test">
 
 The development of this project is based on:
 
@@ -31,7 +31,7 @@ The data analysis of this project involves:
 
 This project explores using Q & A to accommodate more computer science students and improve the quality of communication among instructors and students.
 
-<img src="https://farm5.staticflickr.com/4454/37782035171_774850ea7c_b.jpg" width="320" height="240" alt="qaGraph">
+<img src="https://farm5.staticflickr.com/4454/37782035171_774850ea7c_b.jpg" width="500" height="375" alt="qaGraph">
 
 There are currently two directions that I am pursuing with my colleagues and students:
 
@@ -55,7 +55,7 @@ Publications under this project include:
 
 This project explores innovative approaches to characterize computing education as a field from different perspectives, such as evaluating the replications in computing education and mapping topics / trends of published studies in this field using data mining techniques.
 
-<img src="https://live.staticflickr.com/65535/46905987594_63b06a0af8.jpg" width="320" height="189" alt="topics">
+<img src="https://live.staticflickr.com/65535/46905987594_63b06a0af8.jpg" width="500" height="296" alt="topics">
 
 The development of this project involves:
 
