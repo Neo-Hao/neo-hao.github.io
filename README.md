@@ -1,1 +1,1 @@
-This repo saves files of Qiang Hao's personal site.
+This repo hosts the personal website of Qiang Hao at <http://qhao.info>.
