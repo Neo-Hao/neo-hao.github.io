@@ -16,3 +16,8 @@ I conduct research in computing education, an interdisciplinary field that invol
 * Educational Psychology
 
 If you are a student at Western Washington University looking for senior projects, independent study, or graduate study, please feel free to send me an email.
+
+News
+======
+* One paper conditionally accepted by ACM Transactions on Computing Education (TOCE)
+* [One paper](/publication/2019-05-17-prior-cs-knowledge) published by ACM CompEd 2019
