@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**[Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses]**(http://qhao.info/downloads/comped-2019.pdf)
+[__Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses__](/publications/prior-cs-knowledge)
 
 David H. Smith, IV, **Qiang Hao**, Filip Jagodzinski, Yan Liu, and Vishal Gupta
 

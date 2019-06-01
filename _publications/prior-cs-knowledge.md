@@ -1,7 +1,7 @@
 ---
 title: "Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses"
 collection: publications
-permalink: /publications/2019-05-17-prior-cs-knowledge
+permalink: /publications/prior-cs-knowledge
 excerpt: 'This paper explores the accuracy of different measurements of student prior knowledge in CS, and the effects of student prior knowledge in CS on their performance in CS1.'
 date: 2019-05-17
 venue: 'Proceedings of ACM Global Computing Education Conference 2019'
