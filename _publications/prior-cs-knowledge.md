@@ -5,8 +5,6 @@ permalink: /publications/2019-05-17-prior-cs-knowledge
 excerpt: 'This paper explores the accuracy of different measurements of student prior knowledge in CS, and the effects of student prior knowledge in CS on their performance in CS1.'
 date: 2019-05-17
 venue: 'Proceedings of ACM Global Computing Education Conference 2019'
-paperurl: 'https://dl.acm.org/citation.cfm?doid=3300115.3309503'
-citation: 'David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta. 2019. Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses. In Proceedings of the ACM Conference on Global Computing Education (CompEd '19). ACM, New York, NY, USA, 30-36.'
 ---
 
 Abstract
@@ -19,4 +17,6 @@ I designed the conducted the survey / quiz study with the help from colleagues [
 
 [Download paper here](http://qhao.info/downloads/comped-2019.pdf)
 
-Recommended citation: David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta. 2019. Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses. In Proceedings of the ACM Conference on Global Computing Education (CompEd '19). ACM, New York, NY, USA, 30-36.
+Recommended citation
+======
+David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta. 2019. Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses. In *Proceedings of the ACM Conference on Global Computing Education (CompEd '19)*. ACM, New York, NY, USA, 30-36.
