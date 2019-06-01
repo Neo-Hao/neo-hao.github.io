@@ -15,7 +15,10 @@ Background Story
 ======
 I designed the conducted the survey / quiz study with the help from colleagues [Yan Liu](https://ecps.educ.ubc.ca/person/yan-liu/) and her student Vishal Gupta at University of British Columbia. My student, [David Smith](https://www.linkedin.com/in/david-smith-1b9499102), performed the data analysis and took lead on writing this paper. Overall this study raised more questions than answers, especially the findings on differences of different CS prior knowledge measurements. We expect at least one more sequential study on this topic.
 
-[Download paper here](http://qhao.info/downloads/comped-2019.pdf)
+Links
+======
+* [Download paper here](http://qhao.info/downloads/comped-2019.pdf)
+* [Link to ACM Digital Library](https://dl.acm.org/citation.cfm?doid=3300115.3309503)
 
 Recommended citation
 ======
