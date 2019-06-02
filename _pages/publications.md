@@ -22,7 +22,7 @@ This set of studies explored online help seeking from different angles in the co
 **Qiang Hao**, April Galyardt, Bradley Barnes, Ewan Wright, Robert Maribe Branch  
 *2018 IEEE Frontier in Education (FIE ’18)*. San Jose, CA.
 
-[Online help seeking in computer science education (Doctoral dissertation)].   
+[Online help seeking in computer science education (Doctoral dissertation)]  
 **Qiang Hao**  
 University of Georgia, 2017.
 
@@ -43,12 +43,12 @@ Active Learning Environments in Computing Education
 ======
 This set of studies explored the effects of active learning environments in computing education. This project is inactive now, but I am happy to answer any questions about our findings.
 
-(2019). [__On the Effects of Active Learning Environments in Computing Education__](/publications/active-learning-environment)  
+[__On the Effects of Active Learning Environments in Computing Education__](/publications/active-learning-environment)  
 Tyler Greer, **Qiang Hao**, Mengguo Jing, Bradley Barnes  
 *2019 ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. Minneapolis, MN.
 
-[__Effects of Active Learning Environments and Instructional Methods in Computer Science Education__]  
-**Qiang Hao**, Bradley Barnes, Ewan Wright, Eunjung Kim.  
+[__Effects of Active Learning Environments and Instructional Methods in Computer Science Education__](/publications/active-learning-environment-2)  
+**Qiang Hao**, Bradley Barnes, Ewan Wright, Eunjung Kim  
 *2018 ACM Technical Symposium on Computer Science Education (SIGCSE '18)*. Baltimore, MD.
 
 

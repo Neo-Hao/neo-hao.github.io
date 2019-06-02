@@ -19,6 +19,6 @@ If you are a student at Western Washington University looking for senior project
 
 News
 ======
-* One paper conditionally accepted by ACM Transactions on Computing Education (TOCE)
+* One paper conditionally accepted (minor revision) by ACM Transactions on Computing Education (TOCE)
 * [One paper](/publications/prior-cs-knowledge) published by ACM CompEd 2019
 * [One paper](/publications/active-learning-environment) published by ACM Sigcse 2019

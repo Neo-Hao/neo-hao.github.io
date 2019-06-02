@@ -13,7 +13,7 @@ Computer literacy and programming are being taught increasingly at the K-12 leve
 
 Background Story
 ======
-I designed the conducted the survey / quiz study with the help from colleagues [Yan Liu](https://ecps.educ.ubc.ca/person/yan-liu/) and her student Vishal Gupta at University of British Columbia. My student, [David Smith](https://www.linkedin.com/in/david-smith-1b9499102), performed the data analysis and took lead on writing this paper. Overall this study raised more questions than answers, especially the findings on differences of different CS prior knowledge measurements. We expect at least one more sequential study on this topic.
+I designed the conducted the survey / quiz study with the help from colleagues Filip Jagodzinski at Western Washington University, [Yan Liu](https://ecps.educ.ubc.ca/person/yan-liu/) and her student Vishal Gupta at University of British Columbia. My student, [David Smith](https://www.linkedin.com/in/david-smith-1b9499102), performed the data analysis and took lead on writing this paper. Overall this study raised more questions than answers, especially the findings on differences of different CS prior knowledge measurements. We expect at least one more sequential study on this topic.
 
 Links
 ======
