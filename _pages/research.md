@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Lab"
-permalink: /lab/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-Students in my lab work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers from my lab include:
+Students in my research lab work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers from my lab include:
 
 [__Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses__](/publications/prior-cs-knowledge)  
 David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta  
