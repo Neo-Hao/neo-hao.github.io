@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Quantifying Student Prior Computer Science Knowledge
+### Quantifying Student Prior Computer Science Knowledge
 ======
 This set of studies explored the measurements of student prior CS knowledge and their effects on student performance. One more study is expected to be conducted on this topic.
 
@@ -14,8 +14,8 @@ David H. Smith, IV, **Qiang Hao**, Filip Jagodzinski, Yan Liu, and Vishal Gupta
 *ACM 2019 Conference on Global Computing Education*. Chendu, China.
 
 
-Online Help seeking
-======
+### Online Help seeking
+
 This set of studies explored online help seeking from different angles in the context of computing education. Two more studies are expected to be published on this topic.
 
 [Automatic Identification of Ineffective Online Student Questions in Computing Education]  
@@ -39,8 +39,8 @@ University of Georgia, 2017.
 *Computers in Human Behaviors*, 62, 467-474, 2016.
 
 
-Active Learning Environments in Computing Education
-======
+### Active Learning Environments in Computing Education
+
 This set of studies explored the effects of active learning environments in computing education. This project is inactive now, but I am happy to answer any questions about our findings.
 
 [__On the Effects of Active Learning Environments in Computing Education__](/publications/active-learning-environment)  
@@ -52,8 +52,8 @@ Tyler Greer, **Qiang Hao**, Mengguo Jing, Bradley Barnes
 *2018 ACM Technical Symposium on Computer Science Education (SIGCSE '18)*. Baltimore, MD.
 
 
-Feature Selection on Predicting Post-graduation Income
-======
+### Feature Selection on Predicting Post-graduation Income
+
 This set of studies explored the most important factors on predicting post-graduation income. This project is inactive now, but I am happy to answer any questions about our findings.
 
 [__Feature Selection of Post-graduation Income of College Students in the United States__]  

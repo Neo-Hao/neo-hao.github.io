@@ -19,6 +19,7 @@ If you are a student at Western Washington University looking for senior project
 
 News
 ======
-* One paper conditionally accepted (minor revision) by ACM Transactions on Computing Education (TOCE)
-* [One paper](/publications/prior-cs-knowledge) published by ACM CompEd 2019
-* [One paper](/publications/active-learning-environment) published by ACM Sigcse 2019
+* 06/01/2019: One paper conditionally accepted (minor revision) by ACM Transactions on Computing Education (TOCE)
+* 05/01/2019: [One paper](/publications/prior-cs-knowledge) published by ACM CompEd 2019
+* 05/01/2019: I won Open Education Resource Grant from WWU to transform a CS course in this summer
+* 02/22/2019: [One paper](/publications/active-learning-environment) published by ACM Sigcse 2019
