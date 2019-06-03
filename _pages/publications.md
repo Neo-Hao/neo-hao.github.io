@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### Quantifying Student Prior Computer Science Knowledge
-======
+
 This set of studies explored the measurements of student prior CS knowledge and their effects on student performance. One more study is expected to be conducted on this topic.
 
-[__Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses__](/publications/prior-cs-knowledge)  
+[Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses](/publications/prior-cs-knowledge)  
 David H. Smith, IV, **Qiang Hao**, Filip Jagodzinski, Yan Liu, and Vishal Gupta  
 *ACM 2019 Conference on Global Computing Education*. Chendu, China.
 
@@ -43,11 +43,11 @@ University of Georgia, 2017.
 
 This set of studies explored the effects of active learning environments in computing education. This project is inactive now, but I am happy to answer any questions about our findings.
 
-[__On the Effects of Active Learning Environments in Computing Education__](/publications/active-learning-environment)  
+[On the Effects of Active Learning Environments in Computing Education](/publications/active-learning-environment)  
 Tyler Greer, **Qiang Hao**, Mengguo Jing, Bradley Barnes  
 *2019 ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. Minneapolis, MN.
 
-[__Effects of Active Learning Environments and Instructional Methods in Computer Science Education__](/publications/active-learning-environment-2)  
+[Effects of Active Learning Environments and Instructional Methods in Computer Science Education](/publications/active-learning-environment-2)  
 **Qiang Hao**, Bradley Barnes, Ewan Wright, Eunjung Kim  
 *2018 ACM Technical Symposium on Computer Science Education (SIGCSE '18)*. Baltimore, MD.
 
@@ -56,7 +56,7 @@ Tyler Greer, **Qiang Hao**, Mengguo Jing, Bradley Barnes
 
 This set of studies explored the most important factors on predicting post-graduation income. This project is inactive now, but I am happy to answer any questions about our findings.
 
-[__Feature Selection of Post-graduation Income of College Students in the United States__]  
+[Feature Selection of Post-graduation Income of College Students in the United States]  
 Ewan Wright, **Qiang Hao**, Khaled Rasheed, Yan Liu.  
 *2018 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2018)*. Washington, D.C.
 
