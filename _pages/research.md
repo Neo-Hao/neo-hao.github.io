@@ -15,6 +15,10 @@ David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta
 Tyler Greer, Qiang Hao, Mengguo Jing, Bradley Barnes  
 *2019 ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. Minneapolis, MN.
 
+[__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](https://arxiv.org/abs/1906.08937).
+Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David Smith
+*2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.  
+
 My current lab members include:
 
 * Tyler Greer

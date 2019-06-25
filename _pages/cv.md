@@ -32,6 +32,8 @@ Publications
 
 * Conference Proceedings
 
+  *  **Hao, Q.**, Wilson, J., Ottaway, C., Iriumi, N., Arakawa, K., Smith, D. (In Press). [Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments](https://arxiv.org/abs/1906.08937). In *Proceedings of 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.  
+
   * Smith, D., **Hao, Q.**, Jagodzinski, F., Liu, Y., Gupta, V. (2019). [Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses](http://qhao.info/downloads/comped-2019.pdf). In *Proceedings of the 1st ACM Global Computing Education Conference (CompEd’19)*. ACM, New York, NY, USA, 30-36.  
 
   * Greer, T., **Hao, Q.**, Jing, M., Barnes, B. (2019). [On the Effects of Active Learning Environments in Computing Education](http://qhao.info/downloads/sigcse-2019.pdf). In *Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. ACM, New York, NY, USA, 267-272.

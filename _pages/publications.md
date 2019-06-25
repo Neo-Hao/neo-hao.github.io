@@ -4,10 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### Automated Feedback
+
+This set of studies explored automated feedback on student programming assignments. This project is ongoing.
+
+[__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](https://arxiv.org/abs/1906.08937).
+Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David Smith
+*2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.  
 
 ### Quantifying Student Prior Computer Science Knowledge
 
-This set of studies explored the measurements of student prior CS knowledge and their effects on student performance. One more study is expected to be conducted on this topic.
+This set of studies explored the measurements of student prior CS knowledge and their effects on student performance. This project is ongoing.
 
 [Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses](/publications/prior-cs-knowledge)  
 David H. Smith, IV, **Qiang Hao**, Filip Jagodzinski, Yan Liu, and Vishal Gupta  
@@ -16,7 +23,7 @@ David H. Smith, IV, **Qiang Hao**, Filip Jagodzinski, Yan Liu, and Vishal Gupta
 
 ### Online Help seeking
 
-This set of studies explored online help seeking from different angles in the context of computing education. Two more studies are expected to be published on this topic.
+This set of studies explored online help seeking from different angles in the context of computing education. This project is inactive now, but I am happy to answer any questions about our findings.
 
 [Automatic Identification of Ineffective Online Student Questions in Computing Education]  
 **Qiang Hao**, April Galyardt, Bradley Barnes, Ewan Wright, Robert Maribe Branch  
@@ -34,7 +41,7 @@ University of Georgia, 2017.
 **Qiang Hao**, Bradley Barnes, Ewan Wright, Robert Maribe Branch  
 *British Journal of Educational Technology*, 48(6), 1273-1283, 2017.
 
-[What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?]
+[What Are the Most Important Predictors of Computer Science Students' Online Help-Seeking Behaviors?]  
 **Qiang Hao**, Ewan Wright, Bradley Barnes, Robert Maribe Branch  
 *Computers in Human Behaviors*, 62, 467-474, 2016.
 
