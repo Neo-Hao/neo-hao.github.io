@@ -18,6 +18,9 @@ Education
 Publications
 ======
 * Journal Articles
+   * **Hao, Q.**, Smith, D., Iriumi, N., 	Tsikerdekis, M.	& Ko, A. J. (2019). [
+A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/citation.cfm?id=3345328). *ACM Transactions on Computing Education*, 19(4), 1-18.
+
   * **Hao, Q.**, Barnes, B., Branch, M. R., & Wright, E. (2017). [Predicting Computer Science Students’ Online Help-Seeking Tendencies](http://qhao.info/downloads/KMEL-2017.pdf). *Knowledge Management & E-Learning*, 9(1), 19-32.
 
   * **Hao, Q.**, Barnes, B., Wright, E., & Branch, M. R. (2017). [The Influence of Achievement Goals on Online Help Seeking of Computer Science Students](http://qhao.info/downloads/bjet.pdf). *British Journal of Educational Technology*, 48(6), 1273-1283.
