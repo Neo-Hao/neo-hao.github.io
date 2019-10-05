@@ -35,7 +35,7 @@ A Systematic Investigation of Replications in Computing Education Research](http
 
 * Conference Proceedings
 
-  *  **Hao, Q.**, Wilson, J., Ottaway, C., Iriumi, N., Arakawa, K., Smith, D. (In Press). [Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments](https://arxiv.org/abs/1906.08937). In *Proceedings of 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.  
+  *  **Hao, Q.**, Wilson, J., Ottaway, C., Iriumi, N., Arakawa, K., Smith, D. (2019). [Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments](http://qhao.info/downloads/vlhcc-2019.pdf). In *Proceedings of 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*.  Memphis, TN, pp. 151-155.
 
   * Smith, D., **Hao, Q.**, Jagodzinski, F., Liu, Y., Gupta, V. (2019). [Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses](http://qhao.info/downloads/comped-2019.pdf). In *Proceedings of the 1st ACM Global Computing Education Conference (CompEd’19)*. ACM, New York, NY, USA, 30-36.  
 

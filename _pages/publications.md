@@ -20,7 +20,7 @@ As the societal demands for application and knowledge in computer science (CS) i
 
 This set of studies explored automated feedback on student programming assignments. This project is ongoing.
 
-[__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](https://arxiv.org/abs/1906.08937).  
+[__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](http://qhao.info/downloads/vlhcc-2019.pdf).  
 Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David H. Smith, IV  
 *2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.
 
