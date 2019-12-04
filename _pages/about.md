@@ -19,6 +19,7 @@ If you are a student at Western Washington University looking for senior project
 
 News
 ======
+* 11/04/2019: My student Kai Hicks and I won a NASA Space Grant
 * 06/17/2019: [One paper](https://arxiv.org/abs/1906.08937) accepted by 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
 * 06/01/2019: One paper conditionally accepted (minor revision) by ACM Transactions on Computing Education (TOCE)
 * 05/01/2019: [One paper](/publications/prior-cs-knowledge) published by ACM CompEd 2019
