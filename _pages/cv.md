@@ -18,8 +18,7 @@ Education
 Publications
 ======
 * Journal Articles
-   * **Hao, Q.**, Smith, D., Iriumi, N., 	Tsikerdekis, M.	& Ko, A. J. (2019). [
-A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/citation.cfm?id=3345328). *ACM Transactions on Computing Education*, 19(4), 1-18.
+   * **Hao, Q.**, Smith, D., Iriumi, N., 	Tsikerdekis, M.	& Ko, A. J. (2019). [A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/citation.cfm?id=3345328). *ACM Transactions on Computing Education*, 19(4), 1-18.
 
   * **Hao, Q.**, Barnes, B., Branch, M. R., & Wright, E. (2017). [Predicting Computer Science Students’ Online Help-Seeking Tendencies](http://qhao.info/downloads/KMEL-2017.pdf). *Knowledge Management & E-Learning*, 9(1), 19-32.
 
@@ -34,6 +33,8 @@ A Systematic Investigation of Replications in Computing Education Research](http
   * Lu, J., & **Hao, Q.** (2014). [What Factors Impact on Primary School Students’ Online Engagement for Learning and Entertainment at Home](http://qhao.info/downloads/journal-of-computer-in-education.pdf). *Journal of Computers in Education*, 1(2-3), 133-150.
 
 * Conference Proceedings
+
+  *  **Hao, Q.**, & Tsikerdekis, M. (2019). [How Automated Feedback is Delivered Matters: Formative Feedback and Knowledge Transfer](http://qhao.info/downloads/fie-2019.pdf). In *Proceedings of 2019 IEEE Frontiers in Education Conference (FIE) (pp. 1-6)*. IEEE.
 
   *  **Hao, Q.**, Wilson, J., Ottaway, C., Iriumi, N., Arakawa, K., Smith, D. (2019). [Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments](http://qhao.info/downloads/vlhcc-2019.pdf). In *Proceedings of 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*.  Memphis, TN, pp. 151-155.
 
@@ -100,10 +101,11 @@ Service
   * Contemporary Issues in Technology & Teacher Education
   * International Journal of E-Learning & Distance Education
 
-Awards
+Awards & Grants
 ======
 
+* 2019 NASA Space Grant
 * 2019 WWU Open Education Resource Award
-* 2018 AERA Division C Selective Newe Faculty Mentoring Program
+* 2018 AERA Division C Selective New Faculty Mentoring Program
 * 2017 AERA Division C Selective Seminar
 * 2016 AECT Division of Distance Learning Journal Article Award

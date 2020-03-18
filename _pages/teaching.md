@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am dedicated to provide high-quality open educational resources (OER) on computing education. I won an OER award from
-Western Washington University to develop interactive OER for two CS courses, including:
+I am dedicated to provide high-quality open educational resources (OER) on computing education. I won an OER award from Western Washington University to develop interactive OER for two CS courses, including:
 
 ### Data Structures
 

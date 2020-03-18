@@ -10,11 +10,13 @@ author_profile: true
 This set of studies explored computing education as a field from different perspectives. This project is ongoing. The current angle we choose is "replication".
 
 [__A Systematic Investigation of Replications in Computing Education Research__](https://dl.acm.org/citation.cfm?id=3345328).  
-Qiang Hao, David H. Smith, IV, Naitra Iriumi, 	Michail Tsikerdekis, and 	Andrew J. Ko  
+Qiang Hao, David H. Smith, IV, Naitra Iriumi, Michail Tsikerdekis, and 	Andrew J. Ko  
 *ACM Transactions on Computing Education*. , 19(4), 1-18.
 
 Abstract:  
 As the societal demands for application and knowledge in computer science (CS) increase, CS student enrollment keeps growing rapidly around the world. By continuously improving the efficacy of computing education and providing guidelines for learning and teaching practice, computing education research plays a vital role in addressing both educational and societal challenges that emerge from the growth of CS students. Given the significant role of computing education research, it is important to ensure the reliability of studies in this field. The extent to which studies can be replicated in a field is one of the most important standards for reliability. Different fields have paid increasing attention to the replication rates of their studies, but the replication rate of computing education was never systematically studied. To fill this gap, this study investigated the replication rate of computing education between 2009 and 2018. We examined 2,269 published studies from three major conferences and two major journals in computing education, and found that the overall replication rate of computing education was 2.38%. This study demonstrated the need for more replication studies in computing education and discussed how to encourage replication studies through research initiatives and policy making.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since <a href="https://twitter.com/hashtag/SIGCSE2020?src=hash&amp;ref_src=twsrc%5Etfw">#SIGCSE2020</a> was canceled, here’s an animated gif of my collaborator <a href="https://twitter.com/qhaocs?ref_src=twsrc%5Etfw">@qhaocs</a>’s talk. TLDR: We replicate a bit, but it seems we’re more interested in novelty than certainty; we should focus our scarce replication effort. Read on: <a href="https://t.co/aC7ci8pKUl">https://t.co/aC7ci8pKUl</a> <a href="https://t.co/iUuSiUiWF6">pic.twitter.com/iUuSiUiWF6</a></p>&mdash; Amy J. Ko (@amyjko) <a href="https://twitter.com/amyjko/status/1238224543765823488?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Automated Feedback
 
@@ -26,6 +28,13 @@ Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David H. S
 
 Abstract:  
 This study investigated the essential of meaningful automated feedback for programming assignments. Three different types of feedback were tested, including (a) What's wrong - what test cases were testing and which failed, (b) Gap - comparisons between expected and actual outputs, and (c) Hint - hints on how to fix problems if test cases failed. 46 students taking a CS2 participated in this study. They were divided into three groups, and the feedback configurations for each group were different: (1) Group One - What's wrong, (2) Group Two - What's wrong + Gap, (3) Group Three - What's wrong + Gap + Hint. This study found that simply knowing what failed did not help students sufficiently, and might stimulate system gaming behavior. Hints were not found to be impactful on student performance or their usage of automated feedback. Based on the findings, this study provides practical guidance on the design of automated feedback.
+
+[__How Automated Feedback is Delivered Matters: Formative Feedback and Knowledge Transfer__](http://qhao.info/downloads/fie-2019.pdf).  
+Qiang Hao, Michail Tsikerdekis
+*2019 IEEE Frontier in Education (FIE ’19)*. Cincinnati, Ohio.
+
+Abstract:  
+This Full Research Paper investigated the correlations of automated formative feedback and student knowledge transfer in an advanced-level network course. A microservice of automated formative feedback was designed and implemented. The automated feedback was set up to address correctness and coding style along a series of milestones in finishing each of the assigned programming projects. 36 students participated in this study. Different from the concerns of prior studies that automated formative feedback may encourage trial & error and harm learning, this study identified a link between the automated formative feedback and student knowledge transfer. The results of this study confirmed positive findings from other fields on formative feedback, and call for more research on formative feedback in computing education.
 
 ## Quantifying Student Prior Computer Science Knowledge
 

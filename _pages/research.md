@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Students in my research lab work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers from my lab include:
+**I am always looking for talented and hard-working students. If you are interested in joining my lab, please shoot me an email at qiang.hao@wwu.edu.**
+
+My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers from my lab include:
 
 [__Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses__](/publications/prior-cs-knowledge)  
 David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta  
@@ -19,15 +21,14 @@ Tyler Greer, Qiang Hao, Mengguo Jing, Bradley Barnes
 Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David Smith  
 *2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.  
 
-My current lab members include:
+My former and current lab members include:
 
+* [Camille Ottaway](https://www.linkedin.com/in/camille-ottaway-384b08171), graduating soon, Fellowship of Teach For America
+* [David Smith](https://www.linkedin.com/in/david-smith-1b9499102), Ph.D. Student at University of Illinois Urbana-Champaign
+* [Naitra Iriumi](https://www.linkedin.com/in/naitra-iriumi), Costco Mobile Platform
 * Tyler Greer
-* Camille Ottaway
-* [David Smith](https://www.linkedin.com/in/david-smith-1b9499102)
 * Jack Wilson
-* Josh Myers-Dean
 * Kai Hicks
-* Kira Jaeger
-* [Naitra Iriumi](https://www.linkedin.com/in/naitra-iriumi)
-* Timothy Poehlman
-* Parmdeep Singh
+* Lilu Martin
+
+We published 5 papers in highly selective venues in 2019, received two grants, and were invited to present one of our papers for the first time. David Smith, who graduated by fall 2019, received full PhD scholarships from four reputable PhD programs in CS around U.S.; he chose UIUC in the end.
