@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "Research"
+title: "Research & Development"
 permalink: /research/
 author_profile: true
 ---
 
 **I am always looking for talented and hard-working students. If you are interested in joining my lab, please shoot me an email at qiang.hao@wwu.edu.**
 
-My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers from my lab include:
+My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers and open-sourced software from my lab include:
+
+[__Referencer__](https://gsuite.google.com/u/1/marketplace/app/referencer/161289460786)
+Qiang Hao, Jack Wilson, Kai Hicks
+*A Google Docs Add-on that automates cross-references for figures, tables, and section titles.* GSuite Market, Google.
 
 [__Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses__](/publications/prior-cs-knowledge)  
 David H. Smith, IV, Qiang Hao, Filip Jagodzinski, Yan Liu, and Vishal Gupta  
