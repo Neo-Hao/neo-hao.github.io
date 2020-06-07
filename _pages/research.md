@@ -9,8 +9,8 @@ author_profile: true
 
 My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers and open-sourced software from my lab include:
 
-[__Referencer__](https://gsuite.google.com/u/1/marketplace/app/referencer/161289460786)
-Qiang Hao, Jack Wilson, Kai Hicks
+[__Referencer__](https://gsuite.google.com/u/1/marketplace/app/referencer/161289460786)  
+Qiang Hao, Jack Wilson, Kai Hicks  
 *A Google Docs Add-on that automates cross-references for figures, tables, and section titles.* GSuite Market, Google.
 
 [__Quantifying the Effects of Prior Knowledge in Entry-Level Programming Courses__](/publications/prior-cs-knowledge)  
@@ -27,7 +27,7 @@ Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David Smit
 
 My former and current lab members include:
 
-* [Camille Ottaway](https://www.linkedin.com/in/camille-ottaway-384b08171), graduating soon, Fellowship of Teach For America
+* [Camille Ottaway](https://www.linkedin.com/in/camille-ottaway-384b08171), Fellowship of Teach For America
 * [David Smith](https://www.linkedin.com/in/david-smith-1b9499102), Ph.D. Student at University of Illinois Urbana-Champaign
 * [Naitra Iriumi](https://www.linkedin.com/in/naitra-iriumi), Costco Mobile Platform
 * Tyler Greer
