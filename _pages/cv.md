@@ -18,6 +18,8 @@ Education
 Publications
 ======
 * Journal Articles
+   * Hao, Q., Barnes, B. & Jing, M. (2020). [Quantifying the effects of active learning environments: separating physical learning classrooms from pedagogical approaches](http://qhao.info/downloads/LER-2020.pdf). *Learning Environment Research*.
+
    * Smith, D., **Hao, Q.**, Dennen, V., Tsikerdekis, M., Barnes, B., Martin, L., & Tresham, N. (2020). [Towards Understanding Online Question & Answer Interactions and their effects on student performance in large-scale STEM classes](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00200-7). *International Journal of Educational Technology in Higher Education*, 17(1), 1-15.
 
    * **Hao, Q.**, Smith, D., Iriumi, N., 	Tsikerdekis, M.	& Ko, A. J. (2019). [A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/citation.cfm?id=3345328). *ACM Transactions on Computing Education*, 19(4), 1-18.
