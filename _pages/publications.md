@@ -18,9 +18,25 @@ As the societal demands for application and knowledge in computer science (CS) i
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since <a href="https://twitter.com/hashtag/SIGCSE2020?src=hash&amp;ref_src=twsrc%5Etfw">#SIGCSE2020</a> was canceled, here’s an animated gif of my collaborator <a href="https://twitter.com/qhaocs?ref_src=twsrc%5Etfw">@qhaocs</a>’s talk. TLDR: We replicate a bit, but it seems we’re more interested in novelty than certainty; we should focus our scarce replication effort. Read on: <a href="https://t.co/aC7ci8pKUl">https://t.co/aC7ci8pKUl</a> <a href="https://t.co/iUuSiUiWF6">pic.twitter.com/iUuSiUiWF6</a></p>&mdash; Amy J. Ko (@amyjko) <a href="https://twitter.com/amyjko/status/1238224543765823488?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Automated Feedback
+## In Situ Identification of Student Struggles
 
 This set of studies explored automated feedback on student programming assignments. This project is ongoing.
+
+In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments.  
+*In Press*  
+Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
+*Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
+
+Abstract:  
+Effective self-regulated learning (SRL) is important to student academic success. Understanding what SRL struggles students face in programming assignments is critical to guide many efforts in computing education, such as designing scalable interventions and developing effective learning technologies. Prior studies on this topic contributed to understanding what SRL strategies CS students typically use in programming assignments, and the interventions for some SRL struggles such as procrastination. However, few studies have investigated student SRL struggles in programming systematically. To fill this gap, we investigate student SRL struggles in the context of CS2 through a case study. We used multiple approaches to collect real-time data and validate our findings, such as tracking student progress, identifying potential SRL struggles, and interviewing identified struggling students to confirm our identifications. This study contributes to a deeper understanding of what SRL struggles students face in programming at a fine-grained level, and provides guidance on interventions for SRL struggles.
+
+Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study.  
+*In Press*  
+David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
+*Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
+
+Abstract:  
+Interactive textbooks have great potential to increase student engagement with the course content which is critical to effective learning in computing education. Prior research on digital textbooks and interactive visualizations contributes to our understanding of student interactions with visualizations and modeling textbook knowledge concepts. However, research investigating student usage of interactive computing textbooks is still lacking. This study seeks to fill this gap by modeling student engagement with a Jupyter-notebook-based interactive textbook. Our findings suggest that students' active interactions with the presented interactive textbook, including changing, adding, and executing code in addition to manipulating visualizations, are significantly stronger in predicting student performance than conventional reading metrics. Our findings contribute to a deeper understanding of student interactions with interactive textbooks and provide guidance on the effective usage of said textbooks in computing education.
 
 [__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](http://qhao.info/downloads/vlhcc-2019.pdf).  
 Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David H. Smith, IV  
