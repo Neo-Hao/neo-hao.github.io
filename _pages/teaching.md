@@ -19,4 +19,7 @@ The interactive textbook/notebook/tutorial under development can be found at <ht
 
 ---
 
-If you are intersted in web development, here is a series of tutorials for developing interactive web application using Flask/Python: <https://medium.com/@neohao/learn-flask-in-a-scientific-way-baf4d8055f6e>.
+If you are intersted in web development, you might be interested in:
+
+* A series of tutorials for developing interactive web applications using Flask/Python: <https://medium.com/@neohao/learn-flask-in-a-scientific-way-baf4d8055f6e>
+* A reflection on developing GSuite Plugin: <https://blog.bitsrc.io/what-i-learned-from-developing-a-google-doc-add-on-in-two-weeks-5985675aff81>
