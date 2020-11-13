@@ -16,3 +16,7 @@ The interactive textbook/notebook/tutorial under development can be found at <ht
 
 This is a core course for all CS majors at Western Washington University. This is also a prerequisite course for Data Structures.
 The interactive textbook/notebook/tutorial under development can be found at <https://github.com/Neo-Hao/java-programming-notebook>.
+
+---
+
+If you are intersted in web development, here is a series of tutorials for developing interactive web application using Flask/Python: <https://medium.com/@neohao/learn-flask-in-a-scientific-way-baf4d8055f6e>.
