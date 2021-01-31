@@ -19,6 +19,10 @@ Towards Modeling Student Engagement with Interactive Computing Textbooks: An Emp
 David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
+[Towards understanding the effective design of automated formative feedback for programming assignments](http://qhao.info/downloads/csej-2021.pdf)  
+Qiang Hao , David H. Smith IV , Lu Ding , Amy Ko , Camille Ottaway , Jack Wilson , Kai H. Arakawa , Alistair Turcan , Timothy Poehlman & Tyler Greer  
+*Computer Science Education*, 1–23.
+
 [__Towards understanding online question & answer interactions and their effects on student performance in large-scale STEM classes.__](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00200-7)  
 David H. Smith IV, Qiang Hao, Venessa Dennen, Michail Tsikerdekis, Bradley Barnes, Lilu Martin, Nathan Tresham  
 *International Journal of Educational Technology in Higher Education*, 17:20, 1-15.

@@ -18,7 +18,9 @@ Education
 Publications
 ======
 * Journal Articles
-   * Hao, Q., Barnes, B. & Jing, M. (2020). [Quantifying the effects of active learning environments: separating physical learning classrooms from pedagogical approaches](http://qhao.info/downloads/LER-2020.pdf). *Learning Environment Research*.
+    * **Hao, Q.**, Smith IV, D. H., Ding, L., Ko, A., Ottaway, C., Wilson, J., Arakawa, K. H., Turcan, A., Poehlman, T., & Greer, T. (2021). [Towards understanding the effective design of automated formative feedback for programming assignments](http://qhao.info/downloads/csej-2021.pdf). Computer Science Education, 1–23.
+
+   * **Hao, Q.**, Barnes, B. & Jing, M. (2020). [Quantifying the effects of active learning environments: separating physical learning classrooms from pedagogical approaches](http://qhao.info/downloads/LER-2020.pdf). *Learning Environment Research*.
 
    * Smith, D., **Hao, Q.**, Dennen, V., Tsikerdekis, M., Barnes, B., Martin, L., & Tresham, N. (2020). [Towards Understanding Online Question & Answer Interactions and their effects on student performance in large-scale STEM classes](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00200-7). *International Journal of Educational Technology in Higher Education*, 17(1), 1-15.
 
