@@ -38,6 +38,17 @@ David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh
 Abstract:  
 Interactive textbooks have great potential to increase student engagement with the course content which is critical to effective learning in computing education. Prior research on digital textbooks and interactive visualizations contributes to our understanding of student interactions with visualizations and modeling textbook knowledge concepts. However, research investigating student usage of interactive computing textbooks is still lacking. This study seeks to fill this gap by modeling student engagement with a Jupyter-notebook-based interactive textbook. Our findings suggest that students' active interactions with the presented interactive textbook, including changing, adding, and executing code in addition to manipulating visualizations, are significantly stronger in predicting student performance than conventional reading metrics. Our findings contribute to a deeper understanding of student interactions with interactive textbooks and provide guidance on the effective usage of said textbooks in computing education.
 
+[__Towards understanding the effective design of automated formative feedback for programming assignments__](http://qhao.info/downloads/csej-2021.pdf)  
+Qiang Hao , David H. Smith IV , Lu Ding , Amy Ko , Camille Ottaway , Jack Wilson , Kai H. Arakawa , Alistair Turcan , Timothy Poehlman & Tyler Greer  
+*Computer Science Education*, 1–23.
+
+Abstract:  
+**Background and Context**: automated feedback for programming assignments has great potential in promoting just-in-time learning, but there has been little work investigating the design of feedback in this context.  
+**Objective**: to investigate the impacts of different designs of automated feedback on student learning at a fine-grained level, and how students interacted with and perceived the feedback.  
+**Method**: a controlled quasi-experiment of 76 CS students, where students of each group received a different combination of three types of automated feedback for their programming assignments.  
+**Findings**: feedback addressing the gap between expected and actual outputs is critical to effective learning; feedback lacking enough details may lead to system gaming behaviors.  
+**Implications**: the design of feedback has substantial impacts on the efficacy of automated feedback for programming assignments; more research is needed to extend what is known about effective feedback design in this context.
+
 [__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](http://qhao.info/downloads/vlhcc-2019.pdf).  
 Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David H. Smith, IV  
 *2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.
@@ -66,6 +77,14 @@ Computer literacy and programming are being taught increasingly at the K-12 leve
 ## Online Help seeking
 
 This set of studies explored online help seeking from different angles in the context of computing education. This project is inactive now, but I am happy to answer any questions about our findings.
+
+[__Towards understanding online question & answer interactions and their effects on student performance in large-scale STEM classes__](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00200-7)  
+David H. Smith IV, Qiang Hao, Venessa Dennen, Michail Tsikerdekis, Bradley Barnes, Lilu Martin, Nathan Tresham  
+*International Journal of Educational Technology in Higher Education*, 17:20, 1-15.
+
+Abstract:  
+Online question & answer (Q & A) is a distinctive type of online interaction that is impactful on student learning. Prior studies on online interaction in large-scale classes mainly focused on online discussion and were conducted mainly in non-STEM fields. This research aims to quantify the effects of online Q & A interactions on student performance in the context of STEM education. 218 computer science students from a large university in the southeastern United States participated in this research. Data of four online Q & A activities was mined from the online Q & A forum for the course, including three student activities (asking questions, answering questions and viewing questions/answers) and one instructor activity (answering questions/providing clarifications). These activities were found to have different effects on student performance. Viewing questions/answers was found to have the greatest effect, while interaction with instructors showed minimum effects. This research fills the gap of lacking research in online Q & A, and the results of this research can inform the effective usage of online Q & A in large-scale STEM courses.
+
 
 [Automatic Identification of Ineffective Online Student Questions in Computing Education](http://qhao.info/downloads/fie-2018.pdf)  
 **Qiang Hao**, April Galyardt, Bradley Barnes, Ewan Wright, Robert Maribe Branch  
