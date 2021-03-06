@@ -22,16 +22,14 @@ As the societal demands for application and knowledge in computer science (CS) i
 
 This set of studies explored automated feedback on student programming assignments. This project is ongoing.
 
-In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments.  
-*In Press*  
+[__In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments__](http://qhao.info/downloads/sigcse-2021-1.pdf)  
 Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
 *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
 Abstract:  
 Effective self-regulated learning (SRL) is important to student academic success. Understanding what SRL struggles students face in programming assignments is critical to guide many efforts in computing education, such as designing scalable interventions and developing effective learning technologies. Prior studies on this topic contributed to understanding what SRL strategies CS students typically use in programming assignments, and the interventions for some SRL struggles such as procrastination. However, few studies have investigated student SRL struggles in programming systematically. To fill this gap, we investigate student SRL struggles in the context of CS2 through a case study. We used multiple approaches to collect real-time data and validate our findings, such as tracking student progress, identifying potential SRL struggles, and interviewing identified struggling students to confirm our identifications. This study contributes to a deeper understanding of what SRL struggles students face in programming at a fine-grained level, and provides guidance on interventions for SRL struggles.
 
-Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study.  
-*In Press*  
+[__Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study__](http://qhao.info/downloads/sigcse-2021-2.pdf)  
 David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
 *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
@@ -86,7 +84,7 @@ Abstract:
 Online question & answer (Q & A) is a distinctive type of online interaction that is impactful on student learning. Prior studies on online interaction in large-scale classes mainly focused on online discussion and were conducted mainly in non-STEM fields. This research aims to quantify the effects of online Q & A interactions on student performance in the context of STEM education. 218 computer science students from a large university in the southeastern United States participated in this research. Data of four online Q & A activities was mined from the online Q & A forum for the course, including three student activities (asking questions, answering questions and viewing questions/answers) and one instructor activity (answering questions/providing clarifications). These activities were found to have different effects on student performance. Viewing questions/answers was found to have the greatest effect, while interaction with instructors showed minimum effects. This research fills the gap of lacking research in online Q & A, and the results of this research can inform the effective usage of online Q & A in large-scale STEM courses.
 
 
-[Automatic Identification of Ineffective Online Student Questions in Computing Education](http://qhao.info/downloads/fie-2018.pdf)  
+[__Automatic Identification of Ineffective Online Student Questions in Computing Education__](http://qhao.info/downloads/fie-2018.pdf)  
 **Qiang Hao**, April Galyardt, Bradley Barnes, Ewan Wright, Robert Maribe Branch  
 *2018 IEEE Frontier in Education (FIE ’18)*. San Jose, CA.
 
