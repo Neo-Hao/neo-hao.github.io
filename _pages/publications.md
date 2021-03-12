@@ -22,7 +22,7 @@ As the societal demands for application and knowledge in computer science (CS) i
 
 This set of studies explored automated feedback on student programming assignments. This project is ongoing.
 
-[__In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments__](http://qhao.info/downloads/sigcse-2021-1.pdf)  
+[__In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments__](http://qhao.info/downloads/sigcse-2021-1.pdf)  
 Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
 *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
