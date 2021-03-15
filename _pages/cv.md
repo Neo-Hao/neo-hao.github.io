@@ -40,9 +40,9 @@ Publications
 
 * Conference Proceedings
 
-  * Smith, D., **Hao, Q.**, Hundhausen, C., Jagodzinski, F., Myers-Dean, J., & Jaeger, K. (2021). Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study. In *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
+  * Arakawa, K., Hao, Q., Greer, T., Ding, L., Hundhausen, C. D., & Peterson, A. (2021, March). [In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments](http://qhao.info/downloads/sigcse-2021-1.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 467-473). ACM, New York, NY, USA.
 
-  * Arakawa K., **Hao, Q.**, Greer T., Ding L., Hundhausen, C., & Peterson, A. (2021). In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments. In *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
+  * Smith IV, D. H., **Hao, Q.**, Hundhausen, C. D., Jagodzinski, F., Myers-Dean, J., & Jaeger, K. (2021, March). [Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study](http://qhao.info/downloads/sigcse-2021-2.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 914-920). ACM, New York, NY, USA.
 
   *  **Hao, Q.**, & Tsikerdekis, M. (2019). [How Automated Feedback is Delivered Matters: Formative Feedback and Knowledge Transfer](http://qhao.info/downloads/fie-2019.pdf). In *Proceedings of 2019 IEEE Frontiers in Education Conference (FIE) (pp. 1-6)*. IEEE.
 
