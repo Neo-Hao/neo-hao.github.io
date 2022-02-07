@@ -22,6 +22,14 @@ As the societal demands for application and knowledge in computer science (CS) i
 
 This set of studies explored automated feedback on student programming assignments. This project is ongoing.
 
+Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features  
+*In Press*  
+Kai Arakawa, Qiang Hao, Wesley Deneke, Indie Cowan, Steven Wolfman, and Abigayle Peterson  
+*Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE ’22)*. ACM, New York, NY, USA.
+
+Abstract:  
+The identification of student struggles has drawn increasing interests from computing education and learning analytics communities in recent years, considering the high failure rate and fast enrollment growth of computer science courses. Prior studies on this topic employed a multitude of data sources and methodologies with varying degrees of success. Nearly all studies attempted to predict low overall course performance to identify struggling students, risking oversimplifying student learning and struggles. Additionally, many studies utilize data sources that are limited to their original contexts or local student demographics, making it difficult to replicate or put the findings into practice. To address these gaps, we studied the feasibility of identifying student struggles at the topic level using features that are agnostic to courses and contexts. Our results show that it is possible to identify student struggles at a more fine-grained level within days. Our findings contribute new insights into automatic identification of student struggles at the topic level on a large scale, which can be used to guide meaningful interventions on student learning.
+
 [__In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments__](http://qhao.info/downloads/sigcse-2021-1.pdf)  
 Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
 *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.

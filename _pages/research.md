@@ -5,17 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-**I am always looking for talented and hard-working students. If you are interested in joining my lab, please shoot me an email at qiang.hao@wwu.edu.**
-
 My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers and open-sourced software from my lab include:
 
-In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments.  
+Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features  
 *In Press*  
-Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
+Kai Arakawa, Qiang Hao, Wesley Deneke, Indie Cowan, Steven Wolfman, and Abigayle Peterson  
+*Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’22)*. ACM, New York, NY, USA.
+
+[__In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments__](http://qhao.info/downloads/sigcse-2021-1.pdf)  
+Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen, and Abigayle Peterson  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
-Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study.  
-*In Press*  
+[__Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study__](http://qhao.info/downloads/sigcse-2021-2.pdf)  
 David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
@@ -42,17 +43,3 @@ Tyler Greer, Qiang Hao, Mengguo Jing, Bradley Barnes
 [__Investigating the Essential of Meaningful Automated Formative Feedback for Programming Assignments__](https://arxiv.org/abs/1906.08937)  
 Qiang Hao, Jack Wilson, Camille Ottaway, Naitra Iriumi, Kai Hicks and David Smith  
 *2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)*. Memphis, TN.  
-
-My former and current lab members include:
-
-* [Camille Ottaway](https://www.linkedin.com/in/camille-ottaway-384b08171), Fellowship of Teach For America
-* [David Smith](https://www.linkedin.com/in/david-smith-1b9499102), Ph.D. Student at University of Illinois Urbana-Champaign
-* [Naitra Iriumi](https://www.linkedin.com/in/naitra-iriumi), Costco Mobile Platform
-* Tyler Greer
-* Jack Wilson
-* Kai Hicks
-* Kira Jaeger
-* Timothy Poehlman
-* Nathan Tresham
-* Lilu Martin
-* Abby Peterson

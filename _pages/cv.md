@@ -40,6 +40,8 @@ Publications
 
 * Conference Proceedings
 
+  * Arakawa, K., Hao, Q., Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, March). Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features. In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education*. ACM, New York, NY, USA.
+
   * Arakawa, K., Hao, Q., Greer, T., Ding, L., Hundhausen, C. D., & Peterson, A. (2021, March). [In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments](http://qhao.info/downloads/sigcse-2021-1.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 467-473). ACM, New York, NY, USA.
 
   * Smith IV, D. H., **Hao, Q.**, Hundhausen, C. D., Jagodzinski, F., Myers-Dean, J., & Jaeger, K. (2021, March). [Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study](http://qhao.info/downloads/sigcse-2021-2.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 914-920). ACM, New York, NY, USA.
@@ -68,11 +70,12 @@ Teaching
 ======
 
 * Courses
-  * Computing Education Research, Western Washington University
-  * Computer Programming and Linear Data Structures, Western Washington University
+  * Database Systems, Western Washington University
+  * Object Oriented Design, Western Washington University
+  * Web Scripting, Western Washington University
   * Data Structure, Western Washington University
-  * Database, Western Washington University
-  * Matter and Energy in Physical Systems, Western Washington University
+  * Computer Programming and Linear Data Structures, Western Washington University
+  * Computing Education Research, Western Washington University
   * Database, University of Georgia
   * Creativity, Technology, and How the Brain Learns, University of Georgia
   * Introduction to Computing for Teachers, University of Georgia
