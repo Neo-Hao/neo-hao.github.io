@@ -72,6 +72,8 @@ This set of studies explored computing education as a field from different persp
 Qiang Hao, David H. Smith, IV, Naitra Iriumi, Michail Tsikerdekis, and Andrew J. Ko  
 _ACM Transactions on Computing Education_. , 19(4), 1-18.
 
+<img src="http://qhao.info/images/toce.png" width="400"/>
+
 Abstract:  
 As the societal demands for application and knowledge in computer science (CS) increase, CS student enrollment keeps growing rapidly around the world. By continuously improving the efficacy of computing education and providing guidelines for learning and teaching practice, computing education research plays a vital role in addressing both educational and societal challenges that emerge from the growth of CS students. Given the significant role of computing education research, it is important to ensure the reliability of studies in this field. The extent to which studies can be replicated in a field is one of the most important standards for reliability. Different fields have paid increasing attention to the replication rates of their studies, but the replication rate of computing education was never systematically studied. To fill this gap, this study investigated the replication rate of computing education between 2009 and 2018. We examined 2,269 published studies from three major conferences and two major journals in computing education, and found that the overall replication rate of computing education was 2.38%. This study demonstrated the need for more replication studies in computing education and discussed how to encourage replication studies through research initiatives and policy making.
 
@@ -123,6 +125,8 @@ This study investigated how computer science students seek help online in their 
 **Qiang Hao**, Bradley Barnes, Ewan Wright, Robert Maribe Branch  
 _British Journal of Educational Technology_, 48(6), 1273-1283, 2017.
 
+<img src="http://qhao.info/images/bjet.png" width="300"/>
+
 Abstract:  
 This study investigated the online help‐seeking behaviors of computer science students with a focus on the effect of achievement goals. The online help‐seeking behaviors investigated were online searching, asking teachers online for help, and asking peers or unknown people online for help. One hundred and sixty‐five students studying computer science from a large research university in the south‐eastern United States participated in the study. It was found that students searched online significantly more frequently than they asked people online for help. Contrary to prior findings on face‐to‐face help seeking, no achievement goals were found to be significant in predicting the tendencies of students to seek help online. These findings provide evidence to support the role of online searching as an integral part of online help seeking and demonstrate that research findings on face‐to‐face help seeking should not be assumed to be naturally extendable to online help seeking.
 
@@ -140,6 +144,8 @@ This set of studies explored the effects of active learning environments in comp
 [**On the Effects of Active Learning Environments in Computing Education**](http://qhao.info/downloads/sigcse-2019.pdf)  
 Tyler Greer, **Qiang Hao**, Mengguo Jing, Bradley Barnes  
 _2019 ACM Technical Symposium on Computer Science Education (SIGCSE '19)_. Minneapolis, MN.
+
+<img src="http://qhao.info/images/sigcse-2018.png" width="200"/>
 
 Abstract:  
 This replication study aims at both quantifying the effects of active learning classrooms in introductory programming courses (CS1) and overcoming some design and methodological limits of prior studies on this topic. 156 students enrolled in three different sections of the same CS1 participated in this study. The three sections differed from each other either in terms of learning pedagogies (conventional lecture vs. peer instruction) or physical learning environments (lecture hall vs. active learning classroom). This study did not replicate the findings of prior studies on this topic. Instead, this study found that when learning pedagogies were controlled, learning environments did not have significant influences on student performance. On the other hand, learning pedagogies were found to have significant influences on student performance. When peer instruction is conducted other than conventional lecturing, students tended to have significantly better performance. Such findings highlight the importance of active learning in computing education, and the feasibility of conducting active learning in CS1 despite of physical environment constraints. Additionally, such findings emphasize the necessity of replication studies on the topic of active learning environments, and invite debates on the investment decisions in active learning classrooms.
