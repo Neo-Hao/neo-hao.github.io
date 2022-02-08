@@ -23,7 +23,7 @@ The identification of student struggles has drawn increasing interests from comp
 Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
 _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)_. ACM, New York, NY, USA.
 
-<img src="http://qhao.info/images/sigcse-2021-1.png" width="400"/>
+<img src="http://qhao.info/images/sigcse-2021-1.png" width="300"/>
 
 Abstract:  
 Effective self-regulated learning (SRL) is important to student academic success. Understanding what SRL struggles students face in programming assignments is critical to guide many efforts in computing education, such as designing scalable interventions and developing effective learning technologies. Prior studies on this topic contributed to understanding what SRL strategies CS students typically use in programming assignments, and the interventions for some SRL struggles such as procrastination. However, few studies have investigated student SRL struggles in programming systematically. To fill this gap, we investigate student SRL struggles in the context of CS2 through a case study. We used multiple approaches to collect real-time data and validate our findings, such as tracking student progress, identifying potential SRL struggles, and interviewing identified struggling students to confirm our identifications. This study contributes to a deeper understanding of what SRL struggles students face in programming at a fine-grained level, and provides guidance on interventions for SRL struggles.
@@ -32,7 +32,7 @@ Effective self-regulated learning (SRL) is important to student academic success
 David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
 _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)_. ACM, New York, NY, USA.
 
-<img src="http://qhao.info/images/sigcse-2021-2.png" width="400"/>
+<img src="http://qhao.info/images/sigcse-2021-2.png" width="600"/>
 
 Abstract:  
 Interactive textbooks have great potential to increase student engagement with the course content which is critical to effective learning in computing education. Prior research on digital textbooks and interactive visualizations contributes to our understanding of student interactions with visualizations and modeling textbook knowledge concepts. However, research investigating student usage of interactive computing textbooks is still lacking. This study seeks to fill this gap by modeling student engagement with a Jupyter-notebook-based interactive textbook. Our findings suggest that students' active interactions with the presented interactive textbook, including changing, adding, and executing code in addition to manipulating visualizations, are significantly stronger in predicting student performance than conventional reading metrics. Our findings contribute to a deeper understanding of student interactions with interactive textbooks and provide guidance on the effective usage of said textbooks in computing education.
@@ -41,7 +41,7 @@ Interactive textbooks have great potential to increase student engagement with t
 Qiang Hao , David H. Smith IV , Lu Ding , Amy Ko , Camille Ottaway , Jack Wilson , Kai H. Arakawa , Alistair Turcan , Timothy Poehlman & Tyler Greer  
 _Computer Science Education_, 1–23.
 
-<img src="http://qhao.info/images/cse.png" width="400"/>
+<img src="http://qhao.info/images/cse.png" width="500"/>
 
 Abstract:  
 **Background and Context**: automated feedback for programming assignments has great potential in promoting just-in-time learning, but there has been little work investigating the design of feedback in this context.  
@@ -96,7 +96,7 @@ This set of studies explored online help seeking from different angles in the co
 David H. Smith IV, Qiang Hao, Venessa Dennen, Michail Tsikerdekis, Bradley Barnes, Lilu Martin, Nathan Tresham  
 _International Journal of Educational Technology in Higher Education_, 17:20, 1-15.
 
-<img src="http://qhao.info/images/ijethe.png" width="400"/>
+<img src="http://qhao.info/images/ijethe.png" width="500"/>
 
 Abstract:  
 Online question & answer (Q & A) is a distinctive type of online interaction that is impactful on student learning. Prior studies on online interaction in large-scale classes mainly focused on online discussion and were conducted mainly in non-STEM fields. This research aims to quantify the effects of online Q & A interactions on student performance in the context of STEM education. 218 computer science students from a large university in the southeastern United States participated in this research. Data of four online Q & A activities was mined from the online Q & A forum for the course, including three student activities (asking questions, answering questions and viewing questions/answers) and one instructor activity (answering questions/providing clarifications). These activities were found to have different effects on student performance. Viewing questions/answers was found to have the greatest effect, while interaction with instructors showed minimum effects. This research fills the gap of lacking research in online Q & A, and the results of this research can inform the effective usage of online Q & A in large-scale STEM courses.
@@ -154,6 +154,13 @@ This research investigated the impacts of active learning environments and instr
 ## Feature Selection on Predicting Post-graduation Income
 
 This set of studies explored the most important factors on predicting post-graduation income. This project is inactive now, but I am happy to answer any questions about our findings.
+
+[**Examine Educational Opportunity and Inequality Using Machine Learning Methods with US National Data**](http://sbp-brims.org/2021/papers/working-papers/2021_SBP-BRiMS_FinalPDF_58.pdf)  
+Yan Liu, Lok Heng Chau, **Qiang Hao**.  
+_2021 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2021)_. Washington, D.C.
+
+Abstract:  
+Education opportunity and inequality have been serious concerns in the history of US education. Social economic, ethnic, and racial disparities in academic achievement has been frequently shown in the literature. However, in existing literature researchers investigated these issues in disjointed contexts when using large scale national assessment data because the conventional statistics they adopted only focuses on making inferences from a small number of predictors. Using a largescale national data, this study aims to predict students’ mathematics achievement across 50 states in the US with a total of 74 predictors and over 11,000 school districts. Three machine learning methods, i.e., Random Forests, Lasso Regression, and Genetic Algorithm, were adopted in this study. The results suggest that racial and ethnic proportions in the school district, school related factors (e.g., pupil-teacher ratio, free lunch provided in the school), family socioeconomic status and parent education (e.g., poverty, occupation) are important factors regarding students’ achievement in mathematics across the nation.
 
 [**Feature Selection of Post-graduation Income of College Students in the United States**](http://qhao.info/downloads/sbp-brims-2018.pdf)  
 Ewan Wright, **Qiang Hao**, Khaled Rasheed, Yan Liu.  

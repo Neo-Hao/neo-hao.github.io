@@ -42,6 +42,8 @@ Publications
 
   * Arakawa, K., Hao, Q., Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, March). Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features. In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education*. ACM, New York, NY, USA.
 
+  * Liu, Y., Chau, L. H., & Hao, Q. (2021). Examine Educational Opportunity and Inequality Using Machine Learning Methods with US National Data. In *International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*.
+
   * Arakawa, K., Hao, Q., Greer, T., Ding, L., Hundhausen, C. D., & Peterson, A. (2021, March). [In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments](http://qhao.info/downloads/sigcse-2021-1.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 467-473). ACM, New York, NY, USA.
 
   * Smith IV, D. H., **Hao, Q.**, Hundhausen, C. D., Jagodzinski, F., Myers-Dean, J., & Jaeger, K. (2021, March). [Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study](http://qhao.info/downloads/sigcse-2021-2.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 914-920). ACM, New York, NY, USA.
@@ -56,7 +58,7 @@ Publications
 
   * **Hao, Q.**, Galyardt, A., Barnes, B., Wright, E., & Branch, M. R. (2018). [Automatic Identification of Ineffective Online Student Questions in Computing Education](http://qhao.info/downloads/fie-2018.pdf). In *Proceedings of 2018 IEEE Frontier in Education (FIE ’18)*, San Jose, CA.
 
-  * Wright E., **Hao, Q.**, Rasheed K., Liu Y. (2018). [Feature Selection of Post-graduation Income of College Students in the United States](http://qhao.info/downloads/sbp-brims-2018.pdf). In International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45). Springer, Cham.
+  * Wright E., **Hao, Q.**, Rasheed K., Liu Y. (2018). [Feature Selection of Post-graduation Income of College Students in the United States](http://qhao.info/downloads/sbp-brims-2018.pdf). In *International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 38-45)*. Springer, Cham.
 
   * **Hao, Q.**, Barnes, B., Wright, E., & Kim. E. (2018). [Effects of Active Learning Environments and Instructional Methods in Computer Science Education](http://qhao.info/downloads/sigcse-2018.pdf). In *Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18)*. ACM, New York, NY, USA, 934-939.
 
