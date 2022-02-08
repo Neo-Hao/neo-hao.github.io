@@ -20,6 +20,7 @@ If you are a student at Western Washington University looking for senior project
 News
 ======
 
+* 02/03/2022: I am tenured and promoted to the rank of Associate Professor
 * 11/30/2021: One paper accepted by SIGCSE 2022
 * 10/08/2020: Two papers accepted by SIGCSE 2021
 * 09/24/2020: [One paper](https://www.tandfonline.com/doi/abs/10.1080/08993408.2020.1860408) accepted by Computer Science Education
