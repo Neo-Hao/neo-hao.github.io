@@ -21,7 +21,7 @@ News
 ======
 
 * 02/03/2022: I am tenured and promoted to the rank of Associate Professor
-* 11/30/2021: One paper accepted by SIGCSE 2022
+* 11/30/2021: [One paper](http://qhao.info/downloads/sigcse-2022.pdf) accepted by SIGCSE 2022
 * 10/08/2020: Two papers accepted by SIGCSE 2021
 * 09/24/2020: [One paper](https://www.tandfonline.com/doi/abs/10.1080/08993408.2020.1860408) accepted by Computer Science Education
 * 03/12/2020: SIGCSE canceled; our invited presentation can be accessed [here](https://twitter.com/i/status/1238224543765823488)

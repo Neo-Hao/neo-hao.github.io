@@ -40,7 +40,7 @@ Publications
 
 * Conference Proceedings
 
-  * Arakawa, K., Hao, Q., Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, March). Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features. In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education*. ACM, New York, NY, USA.
+  * Arakawa, K., Hao, Q., Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, February). [Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features](http://qhao.info/downloads/sigcse-2022.pdf). In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education* (pp. 147-153). ACM, New York, NY, USA.
 
   * Liu, Y., Chau, L. H., & Hao, Q. (2021). Examine Educational Opportunity and Inequality Using Machine Learning Methods with US National Data. In *International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*.
 

@@ -7,8 +7,7 @@ author_profile: true
 
 My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers and open-sourced software from my lab include:
 
-Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features  
-*In Press*  
+[__Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features__](http://qhao.info/downloads/sigcse-2022.pdf)  
 Kai Arakawa, Qiang Hao, Wesley Deneke, Indie Cowan, Steven Wolfman, and Abigayle Peterson  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’22)*. ACM, New York, NY, USA.
 

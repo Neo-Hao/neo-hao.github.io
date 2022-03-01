@@ -9,8 +9,7 @@ author_profile: true
 
 This set of studies explored automated feedback on student programming assignments. This project is ongoing.
 
-Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features  
-_In Press_  
+[**Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features**]((http://qhao.info/downloads/sigcse-2022.pdf))  
 Kai Arakawa, Qiang Hao, Wesley Deneke, Indie Cowan, Steven Wolfman, and Abigayle Peterson  
 _Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE ’22)_. ACM, New York, NY, USA.
 
