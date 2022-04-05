@@ -22,12 +22,12 @@ The identification of student struggles has drawn increasing interests from comp
 Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen,and Abigayle Peterson  
 _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)_. ACM, New York, NY, USA.
 
-<img src="http://qhao.info/images/sigcse-2021-1.png" width="300"/>
+<a href="https://youtu.be/2rls-UXKSUA" target="_blank">
+    <img src="http://qhao.info/images/sigcse-2021-1.png" width="300"/>
+</a>
 
 Abstract:  
 Effective self-regulated learning (SRL) is important to student academic success. Understanding what SRL struggles students face in programming assignments is critical to guide many efforts in computing education, such as designing scalable interventions and developing effective learning technologies. Prior studies on this topic contributed to understanding what SRL strategies CS students typically use in programming assignments, and the interventions for some SRL struggles such as procrastination. However, few studies have investigated student SRL struggles in programming systematically. To fill this gap, we investigate student SRL struggles in the context of CS2 through a case study. We used multiple approaches to collect real-time data and validate our findings, such as tracking student progress, identifying potential SRL struggles, and interviewing identified struggling students to confirm our identifications. This study contributes to a deeper understanding of what SRL struggles students face in programming at a fine-grained level, and provides guidance on interventions for SRL struggles.
-
-<iframe width="545" height="300" src="https://www.youtube.com/embed/2rls-UXKSUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [**Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study**](http://qhao.info/downloads/sigcse-2021-2.pdf)  
 David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
