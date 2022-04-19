@@ -7,19 +7,19 @@ author_profile: true
 
 My research lab members work on different aspects of computing education, including studying effective pedagogical approaches, tracking & analyzing learning behaviors, and developing next generation technologies supporting learning and teaching of programming. Some recently published papers and open-sourced software from my lab include:
 
-[__Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features__](http://qhao.info/downloads/sigcse-2022.pdf)  
+[__Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features__](https://qhao.info/downloads/sigcse-2022.pdf)  
 Kai Arakawa, Qiang Hao, Wesley Deneke, Indie Cowan, Steven Wolfman, and Abigayle Peterson  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’22)*. ACM, New York, NY, USA.
 
-[__In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments__](http://qhao.info/downloads/sigcse-2021-1.pdf)  
+[__In Situ Identification of Student Self-RegulatedLearning Struggles in Programming Assignments__](https://qhao.info/downloads/sigcse-2021-1.pdf)  
 Kai Arakawa, Qiang Hao, Tyler Greer, Lu Ding, Christopher D. Hundhausen, and Abigayle Peterson  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
-[__Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study__](http://qhao.info/downloads/sigcse-2021-2.pdf)  
+[__Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study__](https://qhao.info/downloads/sigcse-2021-2.pdf)  
 David H. Smith IV, Qiang Hao, Christopher D. Hundhausen, Filip Jagodzinski, Josh Myers-Dean, and Kira Jaeger  
 *Proceedings of the 52nd ACM Tech-nical Symposium on Computer Science Education (SIGCSE ’21)*. ACM, New York, NY, USA.
 
-[__Towards understanding the effective design of automated formative feedback for programming assignments__](http://qhao.info/downloads/csej-2021.pdf)  
+[__Towards understanding the effective design of automated formative feedback for programming assignments__](https://qhao.info/downloads/csej-2021.pdf)  
 Qiang Hao , David H. Smith IV , Lu Ding , Amy Ko , Camille Ottaway , Jack Wilson , Kai H. Arakawa , Alistair Turcan , Timothy Poehlman & Tyler Greer  
 *Computer Science Education*, 1–23.
 
