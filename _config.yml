@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qiang Hao"
 title_separator          : "-"
 name                     : &name "Qiang Hao"
-description              : &description "Assistant Profssor, Computer Science & SMATE, Western Washington University"
+description              : &description "Associate Profssor, Computer Science, Western Washington University"
 url                      : https://qhao.info
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Neo-Hao/neo-hao.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Qiang Hao"
   avatar           : "avatar.jpeg"
-  bio              : "Assistant Profssor, Computer Science & SMATE, Western Washington University"
+  bio              : "Associate Profssor, Computer Science, Western Washington University"
   location         : "Bellingham, WA"
   googlescholar    : "https://scholar.google.com/citations?user=X9zUec0AAAAJ&hl=en"
   email            : "qiang.hao@wwu.edu"

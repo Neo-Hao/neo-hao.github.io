@@ -12,5 +12,8 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "CV"
+    url: /cv
+
   - title: "Blog"
     url: https://medium.com/@neohao

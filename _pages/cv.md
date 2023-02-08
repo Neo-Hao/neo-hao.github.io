@@ -123,5 +123,4 @@ Awards & Grants
 * 2019 NASA Space Grant
 * 2019 WWU Open Education Resource Award
 * 2018 AERA Division C Selective New Faculty Mentoring Program
-* 2017 AERA Division C Selective Seminar
 * 2016 AECT Division of Distance Learning Journal Article Award
