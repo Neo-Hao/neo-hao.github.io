@@ -71,25 +71,17 @@ Publications
 Teaching
 ======
 
-* Courses
-  * Database Systems, Western Washington University
-  * Object Oriented Design, Western Washington University
-  * Web Scripting, Western Washington University
-  * Data Structure, Western Washington University
-  * Computer Programming and Linear Data Structures, Western Washington University
-  * Computing Education Research, Western Washington University
-  * Database, University of Georgia
-  * Creativity, Technology, and How the Brain Learns, University of Georgia
-  * Introduction to Computing for Teachers, University of Georgia
-  * Instructional Design, University of Georgia
-
-* Workshop
-  * Hao, Q. & Branch, M. R. (2016). [Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology](https://qhao.info/edutextmining/). Workshop at AECT Convention 2016, Las Vegas, Nevada.
-  * Hao, Q. & Panke, S. (2016). [Introduction to Text Mining in Educational Research](https://qhao.info/edutextmining/). Workshop at SITE 2016 Annual Meeting, Savannah, GA.
-  * Hao, Q. & Branch, M. R. (2015). [Online Learning Analytics on Social Networking Sites: How to Tap the Potential of Data Mining in Research of Educational Technology](https://qhao.info/edutextmining/). Workshop at AECT Convention 2015, Indianapolis, Indiana.
-  * Hao, Q. (2015). [Data Mining and Text Mining in Educational Research](http://www.slideshare.net/qianghaoqiang/data-mining-and-text-mining-in-educational-research). Seminar at Design, Develop and Research Conference 2015, Athens, GA.
-  * Hao, Q. (2015). [Introduction to Confirmatory Factor Analysis and Structural Equation Modeling](https://qhao.info/sem/). Workshop for Graduate Students Majored in Journalism from University of Georgia, Athens, GA.
-
+* Mobile Device Programming, Western Washington University
+* Database Systems, Western Washington University
+* Object Oriented Design, Western Washington University
+* Web Scripting, Western Washington University
+* Data Structures, Western Washington University
+* Computer Programming and Linear Data Structures, Western Washington University
+* Computing Education Research, Western Washington University
+* Database Systems, University of Georgia
+* Creativity, Technology, and How the Brain Learns, University of Georgia
+* Introduction to Computing for Teachers, University of Georgia
+* Instructional Design, University of Georgia
 
 Service
 ======

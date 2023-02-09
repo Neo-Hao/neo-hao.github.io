@@ -7,11 +7,11 @@ author_profile: true
 
 I have taught a variety of courses at Western Washington University, including:
 
+* Mobile Device Programming
+* Web Scripting
 * Database Systems
 * Object Oriented Design
-* Web Programming
-* Mobile Programming
-* Data Structure
+* Data Structures
 * Computer Programming and Linear Data Structures
 * Computing Education Research
 
