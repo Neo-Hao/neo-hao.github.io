@@ -40,11 +40,13 @@ Publications
 
 * Conference Proceedings
 
-  * Arakawa, K., Hao, Q., Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, February). [Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features](https://qhao.info/downloads/sigcse-2022.pdf). In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education* (pp. 147-153). ACM, New York, NY, USA.
+  * Parsons, R.,  **Hao, Q.**, & Ding, L. (2023, June). [Exploring Differences in Planning between Students with and without Prior Experience in Programming](https://qhao.info/downloads/asee-2023.pdf). In 2023 ASEE Annual Conference & Exposition.
 
-  * Liu, Y., Chau, L. H., & Hao, Q. (2021). Examine Educational Opportunity and Inequality Using Machine Learning Methods with US National Data. In *International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*.
+  * Arakawa, K.,  **Hao, Q.**, Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, February). [Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features](https://qhao.info/downloads/sigcse-2022.pdf). In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education* (pp. 147-153). ACM, New York, NY, USA.
 
-  * Arakawa, K., Hao, Q., Greer, T., Ding, L., Hundhausen, C. D., & Peterson, A. (2021, March). [In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments](https://qhao.info/downloads/sigcse-2021-1.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 467-473). ACM, New York, NY, USA.
+  * Liu, Y., Chau, L. H., &  **Hao, Q.** (2021). Examine Educational Opportunity and Inequality Using Machine Learning Methods with US National Data. In *International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*.
+
+  * Arakawa, K., **Hao, Q.**, Greer, T., Ding, L., Hundhausen, C. D., & Peterson, A. (2021, March). [In Situ Identification of Student Self-Regulated Learning Struggles in Programming Assignments](https://qhao.info/downloads/sigcse-2021-1.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 467-473). ACM, New York, NY, USA.
 
   * Smith IV, D. H., **Hao, Q.**, Hundhausen, C. D., Jagodzinski, F., Myers-Dean, J., & Jaeger, K. (2021, March). [Towards Modeling Student Engagement with Interactive Computing Textbooks: An Empirical Study](https://qhao.info/downloads/sigcse-2021-2.pdf). In *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (pp. 914-920). ACM, New York, NY, USA.
 
