@@ -22,7 +22,7 @@ News
 
 My book Grokking Relational Database Design has been published by Manning Publications. The book is in the Manning Early Access Program. To check out the book, please visit [https://www.manning.com/books/grokking-relational-database-design](http://mng.bz/PRER).
 
-[<img src="https://github.com/Neo-Hao/grokking-relational-database-design/blob/main/images/Hao-HI-MEAP.jpg">](http://mng.bz/PRER)
+[<img src="https://raw.githubusercontent.com/Neo-Hao/grokking-relational-database-design/main/images/Hao-HI-MEAP.jpg">](http://mng.bz/PRER)
 
 * 09/01/2023: [One paper](https://qhao.info/downloads/asee-2023.pdf) published by ASEE
 * 02/03/2023: One paper accepted by LAK 2023
