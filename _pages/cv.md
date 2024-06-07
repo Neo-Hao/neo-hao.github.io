@@ -40,6 +40,8 @@ Publications
 
 * Conference Proceedings
 
+  * Nils Rys-Recker and Qiang Hao. (In Press) Early identification of struggling students in large computer science courses: A replication study. In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*.
+
   * Parsons, R.,  **Hao, Q.**, & Ding, L. (2023, June). [Exploring Differences in Planning between Students with and without Prior Experience in Programming](https://qhao.info/downloads/asee-2023.pdf). In 2023 ASEE Annual Conference & Exposition.
 
   * Arakawa, K.,  **Hao, Q.**, Deneke, W., Cowan, I., Wolfman, S., & Peterson, A. (2022, February). [Early Identification of Student Struggles at the Topic Level Using Context-Agnostic Features](https://qhao.info/downloads/sigcse-2022.pdf). In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education* (pp. 147-153). ACM, New York, NY, USA.
