@@ -40,7 +40,7 @@ Publications
 
 * Conference Proceedings
 
-  * Nils Rys-Recker and Qiang Hao. (In Press) Early identification of struggling students in large computer science courses: A replication study. In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*.
+  * Nils Rys-Recker and Qiang Hao. (2024, June) [Early identification of struggling students in large computer science courses: A replication study](https://qhao.info/downloads/compsac-2024.pdf). In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*.
 
   * Parsons, R.,  **Hao, Q.**, & Ding, L. (2023, June). [Exploring Differences in Planning between Students with and without Prior Experience in Programming](https://qhao.info/downloads/asee-2023.pdf). In 2023 ASEE Annual Conference & Exposition.
 

@@ -16,7 +16,7 @@ News
 
 My student Nils Rys-Recker and I have a paper accepted at the *2024 IEEE International Conference on Computers, Software, and Applications* (COMPSAC 2024):
 
-* Nils Rys-Recker and Qiang Hao. (In Press) Early identification of struggling students in large computer science courses: A replication study. In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*.
+* Nils Rys-Recker and Qiang Hao. (2024) [Early identification of struggling students in large computer science courses: A replication study](https://qhao.info/downloads/compsac-2024.pdf). In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*.
 
 My book [Grokking Relational Database Design](http://mng.bz/PRER) has been published by Manning Publications. This book is in the Manning Early Access Program. To check out the book, please visit [https://www.manning.com/books/grokking-relational-database-design](http://mng.bz/PRER).
 
