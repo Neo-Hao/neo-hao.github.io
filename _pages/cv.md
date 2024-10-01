@@ -18,13 +18,13 @@ Education
 Publications
 ======
 * Journal Articles
-    * **Hao, Q.**, Smith IV, D. H., Ding, L., Ko, A., Ottaway, C., Wilson, J., Arakawa, K. H., Turcan, A., Poehlman, T., & Greer, T. (2021). [Towards understanding the effective design of automated formative feedback for programming assignments](https://qhao.info/downloads/csej-2021.pdf). Computer Science Education, 1–23.
+  * **Hao, Q.**, Smith IV, D. H., Ding, L., Ko, A., Ottaway, C., Wilson, J., Arakawa, K. H., Turcan, A., Poehlman, T., & Greer, T. (2021). [Towards understanding the effective design of automated formative feedback for programming assignments](https://qhao.info/downloads/csej-2021.pdf). Computer Science Education, 1–23.
 
-   * **Hao, Q.**, Barnes, B. & Jing, M. (2020). [Quantifying the effects of active learning environments: separating physical learning classrooms from pedagogical approaches](https://qhao.info/downloads/LER-2020.pdf). *Learning Environment Research*.
+  * **Hao, Q.**, Barnes, B. & Jing, M. (2020). [Quantifying the effects of active learning environments: separating physical learning classrooms from pedagogical approaches](https://qhao.info/downloads/LER-2020.pdf). *Learning Environment Research*.
 
-   * Smith, D., **Hao, Q.**, Dennen, V., Tsikerdekis, M., Barnes, B., Martin, L., & Tresham, N. (2020). [Towards Understanding Online Question & Answer Interactions and their effects on student performance in large-scale STEM classes](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00200-7). *International Journal of Educational Technology in Higher Education*, 17(1), 1-15.
+  * Smith, D., **Hao, Q.**, Dennen, V., Tsikerdekis, M., Barnes, B., Martin, L., & Tresham, N. (2020). [Towards Understanding Online Question & Answer Interactions and their effects on student performance in large-scale STEM classes](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00200-7). *International Journal of Educational Technology in Higher Education*, 17(1), 1-15.
 
-   * **Hao, Q.**, Smith, D., Iriumi, N., 	Tsikerdekis, M.	& Ko, A. J. (2019). [A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/citation.cfm?id=3345328). *ACM Transactions on Computing Education*, 19(4), 1-18.
+  * **Hao, Q.**, Smith, D., Iriumi, N., 	Tsikerdekis, M.	& Ko, A. J. (2019). [A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/citation.cfm?id=3345328). *ACM Transactions on Computing Education*, 19(4), 1-18.
 
   * **Hao, Q.**, Barnes, B., Branch, M. R., & Wright, E. (2017). [Predicting Computer Science Students’ Online Help-Seeking Tendencies](https://qhao.info/downloads/KMEL-2017.pdf). *Knowledge Management & E-Learning*, 9(1), 19-32.
 
@@ -40,7 +40,7 @@ Publications
 
 * Conference Proceedings
 
-  * Nils Rys-Recker and Qiang Hao. (2024, June) [Early identification of struggling students in large computer science courses: A replication study](https://qhao.info/downloads/compsac-2024.pdf). In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*.
+  * Nils Rys-Recker and Qiang Hao. (2024, June) [Early identification of struggling students in large computer science courses: A replication study](https://qhao.info/downloads/compsac-2024.pdf). In the *Proceedings of 48th IEEE International Conference on Computers, Software, and Applications*. IEEE.
 
   * Parsons, R.,  **Hao, Q.**, & Ding, L. (2023, June). [Exploring Differences in Planning between Students with and without Prior Experience in Programming](https://qhao.info/downloads/asee-2023.pdf). In 2023 ASEE Annual Conference & Exposition.
 
