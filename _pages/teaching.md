@@ -1,24 +1,63 @@
 ---
-layout: archive
-title: "Teaching"
+layout: page
 permalink: /teaching/
-author_profile: true
+title: Teaching
+description: This page archives my teaching materials, including lecture notes, slides, and video lectures.
+nav: true
+nav_order: 6
 ---
 
-I have taught a variety of courses at Western Washington University, including:
+<!-- pages/projects.md -->
+<div class="projects">
+{% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.teaching | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
 
-* Mobile Device Programming
-* Web Scripting
-* Database Systems
-* Object Oriented Design
-* Data Structures
-* Computer Programming and Linear Data Structures
-* Computing Education Research
+{% else %}
 
-I am dedicated to provide high-quality open educational resources (OER) on computing education. I won an OER award from Western Washington University to develop interactive OER for two CS courses, including:
+<!-- Display projects without categories -->
 
-* Data Structures: This is a core course for all CS majors at Western Washington University. The interactive textbook/notebook/tutorial under development can be found at <https://github.com/Neo-Hao/data-structures>.
+{% assign sorted_projects = site.teaching | sort: "importance" %}
 
-* Java Programming and Linear Data Structure: This is a core course for all CS majors at Western Washington University. This is also a prerequisite course for Data Structures. The interactive textbook/notebook/tutorial under development can be found at <https://github.com/Neo-Hao/java-programming-notebook>.
+  <!-- Generate cards for each project -->
 
----
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>
