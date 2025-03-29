@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Grokking Relational Database Design* has gone to print! 🎉
+*[Grokking Relational Database Design](https://mng.bz/PRER)* has gone to print! 🎉
