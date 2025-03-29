@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "This page archives my teaching materials, including lecture notes, slides, and video lectures.",
@@ -29,7 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-grokking-relational-database-design-has-gone-to-print",
           title: 'Grokking Relational Database Design has gone to print! 🎉',
           description: "",
-          section: "News",},{id: "teaching-analysis-of-algorithms-and-data-structures",
+          section: "News",},{id: "projects-grokking-relational-database-design",
+          title: 'Grokking Relational Database Design',
+          description: "A friendly illustrated guide to designing and implementing your first database",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/grokking_relational_database_design/";
+            },},{id: "teaching-analysis-of-algorithms-and-data-structures",
           title: 'Analysis of Algorithms and Data Structures',
           description: "CSCI 305 - A course on the analysis of algorithms and data structures.",
           section: "Teaching",handler: () => {
@@ -54,6 +66,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/qiang-hao-4984023b", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Qiang-Hao-15/", "_blank");
         },
       },{
         id: 'social-scholar',
