@@ -24,7 +24,7 @@ Michale and I have both taught database design to students and professionals for
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
         <a href="https://mng.bz/PRER">
-        {% include figure.liquid loading="eager" path="assets/img/grokking.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/grokking.png" title="Grokking Relational Database Design" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
         <div class="col-sm mt-6 mt-md-0">
