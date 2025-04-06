@@ -35,13 +35,13 @@ Upon completion of this course, you will demonstrate:
 
 Here are the tentative topics that will be covered in this course:
 
-| Week      | Topic                      | Videos                                              |
-|-----------|----------------------------|-----------------------------------------------------|
-| Week 1    | Introduction to algorithms | [Video 1](https://youtu.be/0DagQComugE)              |
-|           |                            | [Video 2](https://youtu.be/2iUG_tRlcT4)              |
-| Week 2    | Asymptotics                |                                                     |       
-| Week 3    | Divide and conquer         |                                                    |       
-| Week 4    | Quick sort and probability analysis   |                                          |       
+| Week      | Topic                                  | Videos                                              |
+|-----------|----------------------------------------|-----------------------------------------------------|
+| Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/0DagQComugE)|
+| | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/2iUG_tRlcT4)|
+| Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
+| Week 3 | Divide and conquer |                                          |       
+| Week 4    | Quick sort and probability analysis    |                                          |       
 | Week 5/6  | Heaps                      |                                                    |       
 | Week 7    | Hashtables                 |                                                    |       
 | Week 8    | Binary search trees        |                                                    |       
