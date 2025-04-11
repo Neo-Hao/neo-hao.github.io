@@ -41,6 +41,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/2iUG_tRlcT4)|
 | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
 | Week 3 | Divide and conquer | [Recurrence Relations & Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) |
+| | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
 | Week 4    | Quick sort and probability analysis    |                                          |       
 | Week 5/6  | Heaps                      |                                                    |       
 | Week 7    | Hashtables                 |                                                    |       
