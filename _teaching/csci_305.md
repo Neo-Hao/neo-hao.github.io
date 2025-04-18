@@ -42,7 +42,8 @@ Here are the tentative topics that will be covered in this course:
 | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
 | Week 3 | Divide and conquer | [Recurrence Relations & Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) |
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
-| Week 4    | Quick sort and probability analysis    |                                          |       
+| Week 4    | Quick sort and probability analysis    |   
+| | | [Best and worst cases of Quicksort](https://youtu.be/XhGOEuQdAAs) |       
 | Week 5/6  | Heaps                      |                                                    |       
 | Week 7    | Hashtables                 |                                                    |       
 | Week 8    | Binary search trees        |                                                    |       
