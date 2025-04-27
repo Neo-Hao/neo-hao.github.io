@@ -44,7 +44,9 @@ Here are the tentative topics that will be covered in this course:
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
 | Week 4 | Quick sort and probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) |   
 | | | [Average-Case Complexity, Expected Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) |    
-| Week 5/6  | Heaps                      |                                                    |       
+| Week 5/6  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) |       
+| | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) |
+| | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
 | Week 7    | Hashtables                 |                                                    |       
 | Week 8    | Binary search trees        |                                                    |       
 | Week 9    | Amortized analysis         |                                                    |       
