@@ -47,7 +47,7 @@ Here are the tentative topics that will be covered in this course:
 | Week 5/6  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) |       
 | | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) |
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
-| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/e_yaojRRnyI) |
+| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) |
 | Week 7    | Hashtables                 |                                                    |       
 | Week 8    | Binary search trees        |                                                    |       
 | Week 9    | Amortized analysis         |                                                    |       
