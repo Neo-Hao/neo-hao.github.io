@@ -42,15 +42,22 @@ Here are the tentative topics that will be covered in this course:
 | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
 | Week 3 | Divide and conquer | [Recurrence Relations & Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) |
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
-| Week 4 | Quick sort and probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) |   
-| | | [Average-Case Complexity, Expected Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) |    
+| Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) |   
+| | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) |    
 | Week 5/6  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) |       
 | | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) |
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
 | | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) |
-| Week 7    | Hashtables                 |                                                    |       
-| Week 8    | Binary search trees        |                                                    |       
-| Week 9    | Amortized analysis         |                                                    |       
+| Week 7 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | 
+| | | Understanding Open Addressing |
+| | | Understanding Chaining |
+| Week 8 | Binary search trees | Search Operation & Time Complexity Explained |
+| | | The Insert Method Explained |
+| | | The Delete Method Explained |
+| | | Traversal |
+| Week 9 | Amortized analysis | Aggregate Method Explained with Examples |      
+| | | Accounting Method Explained with Examples |
+| | | Potential Method Explained with Examples | 
 
 <br>
 The recorded videos will be released as the course progresses.
