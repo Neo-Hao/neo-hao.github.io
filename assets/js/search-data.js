@@ -86,7 +86,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@qhaocs", "_blank");
+          window.open("https://youtube.com/@structuredcs", "_blank");
         },
       },{
       id: 'light-theme',
