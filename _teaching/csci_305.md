@@ -49,7 +49,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
 | | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) |
 | Week 7 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | 
-| | | Understanding Open Addressing |
+| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) |
 | | | Understanding Chaining |
 | Week 8 | Binary search trees | Search Operation & Time Complexity Explained |
 | | | The Insert Method Explained |
