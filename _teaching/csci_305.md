@@ -51,7 +51,7 @@ Here are the tentative topics that will be covered in this course:
 | Week 7 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | 
 | | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) |
 | | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) |
-| Week 8 | Binary search trees | Search Operation & Time Complexity Explained |
+| Week 8 | Binary search trees | [Search Operation & Time Complexity Explained](https://youtu.be/NN8xJflPbaU) |
 | | | The Insert Method Explained |
 | | | The Delete Method Explained |
 | | | Traversal |
