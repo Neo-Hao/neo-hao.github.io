@@ -52,7 +52,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) |
 | | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) |
 | Week 8 | Binary search trees | [Search Operation & Time Complexity Explained](https://youtu.be/NN8xJflPbaU) |
-| | | The Insert Method Explained |
+| | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) |
 | | | The Delete Method Explained |
 | | | Traversal |
 | Week 9 | Amortized analysis | Aggregate Method Explained with Examples |      
