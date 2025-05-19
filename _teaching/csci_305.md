@@ -54,7 +54,7 @@ Here are the tentative topics that will be covered in this course:
 | Week 8 | Binary search trees | [Search Operation & Time Complexity Explained](https://youtu.be/NN8xJflPbaU) |
 | | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) |
 | | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) |
-| | | Traversal |
+| | | [Traversal](https://youtu.be/ZxxnhfjS-wY) |
 | Week 9 | Amortized analysis | Aggregate Method Explained with Examples |      
 | | | Accounting Method Explained with Examples |
 | | | Potential Method Explained with Examples | 
