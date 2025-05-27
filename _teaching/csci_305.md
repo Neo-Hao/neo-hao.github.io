@@ -56,8 +56,8 @@ Here are the tentative topics that will be covered in this course:
 | | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) |
 | | | [Traversal](https://youtu.be/ZxxnhfjS-wY) |
 | Week 9 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) |      
-| | | Accounting Method Explained with Examples |
-| | | Potential Method Explained with Examples | 
+| | | [Accounting Method Explained with Examples](https://youtu.be/EI5fST7z27o) |
+| | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) | 
 
 <br>
 The recorded videos will be released as the course progresses.
