@@ -17,7 +17,7 @@ I taught a course on the analysis of algorithms and data structures during Sprin
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
         <a href="https://github.com/StructuredCS/algorithm-analysis-deep-dive">
-        {% include figure.liquid loading="eager" path="assets/img/grokking.png" title="Algorithm Analysis Deep Dive" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/algorithm.png" title="Algorithm Analysis Deep Dive" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
         <div class="col-sm mt-6 mt-md-0">
