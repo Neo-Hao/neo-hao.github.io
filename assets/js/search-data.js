@@ -36,7 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-grokking-relational-database-design-has-gone-to-print",
           title: 'Grokking Relational Database Design has gone to print! 🎉',
           description: "",
-          section: "News",},{id: "projects-grokking-relational-database-design",
+          section: "News",},{id: "projects-algorithm-analysis-deep-dive",
+          title: 'Algorithm Analysis Deep Dive',
+          description: "A course on the analysis of algorithms and data structures.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/algorithm_analysis_deep_dive/";
+            },},{id: "projects-grokking-relational-database-design",
           title: 'Grokking Relational Database Design',
           description: "A friendly illustrated guide to designing and implementing your first database",
           section: "Projects",handler: () => {
