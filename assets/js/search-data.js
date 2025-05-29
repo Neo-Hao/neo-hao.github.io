@@ -51,6 +51,11 @@ ninja.data = [{
           description: "CSCI 305 - A course on the analysis of algorithms and data structures.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/csci_305/";
+            },},{id: "teaching-database-systems",
+          title: 'Database Systems',
+          description: "CSCI 330 - A course on SQL, database design, and data management.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/csci_330/";
             },},{
         id: 'social-email',
         title: 'email',
