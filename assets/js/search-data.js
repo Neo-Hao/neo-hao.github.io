@@ -38,7 +38,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-algorithm-analysis-deep-dive",
           title: 'Algorithm Analysis Deep Dive',
-          description: "A course on the analysis of algorithms and data structures.",
+          description: "A course on the analysis of algorithms and data structures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/algorithm_analysis_deep_dive/";
             },},{id: "projects-grokking-relational-database-design",
