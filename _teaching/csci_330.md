@@ -2,7 +2,7 @@
 layout: page
 title: Database Systems
 description: CSCI 330 - A course on SQL, database design, and data management.
-img: assets/img/2.jpg
+img: assets/img/3.jpg
 importance: 1
 category: teaching
 related_publications: false
