@@ -35,4 +35,4 @@ In the past two years, we have been working on this book. We have been writing, 
 
 If you are interested in learning more about the book, you can find it on the [Manning Publications website](https://mng.bz/PRER). You can also find a free sample chapter there. The book is available on Manning now and will be available on [Amazon](https://www.amazon.com/Grokking-Relational-Database-Design-Qiang/dp/1633437418) towards the end of April 2025. 
 
-I am currently working on producing a series of videos to accompany the book. The videos will be available on the Manning website and on YouTube soon.
+I am currently working on producing a series of videos to accompany the book. [The videos will be available on the Manning website and on YouTube soon](https://www.youtube.com/@structuredcs).

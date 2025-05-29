@@ -60,4 +60,3 @@ Here are the tentative topics that will be covered in this course:
 | | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) | 
 
 <br>
-The recorded videos will be released as the course progresses.
