@@ -31,9 +31,10 @@ Here are the tentative topics that will be covered in this course:
 
 | Week | Topic | Videos |
 |------|-------|--------|
-| Week 1 | Introduction to SQL |  |
-| Week 2 | Overview of database design |  |
-|        | Entities, attributes, and keys |  |
+| Week 1 | Introduction to SQL | [Relational Databases for Beginners — Tables, Entities, Keys & SQL](https://youtu.be/p5W4cVlVKqQ) |
+| | | [SQL Filtering & Aggregation Made Easy (WHERE, GROUP BY, COUNT)](https://youtu.be/RyWW2L_JkMQ) |
+| | Overview of database design | |
+| Week 2 | Entities, attributes, and keys |  |
 | Week 3 | Relationships | |
 | Week 4/5 | Normalization and implementation | |
 | Week 5/6 | Security and optimization | |

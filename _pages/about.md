@@ -27,7 +27,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Associate Professor in the Department of Computer Science at Western Washington University, the lead author of [Grokking Relational Database Design](https://mng.bz/PRER), and the associate editor of the [ACM Transactions on Computing Education](https://dl.acm.org/journal/toce). 
+I am an Associate Professor in the Department of Computer Science at Western Washington University, the lead author of [Grokking Relational Database Design](https://mng.bz/PRER), an invited speaker, and an associate editor of the [ACM Transactions on Computing Education](https://dl.acm.org/journal/toce). 
 
 My research interests include computing education, human-computer interaction, and software engineering. I have published numerous peer-reviewed and widely cited papers in top-tier venues, including *ACM Transactions on Computing Education*, *ACM Technical Symposium on Computer Science Education*, and *Computers in Human Behavior*. I am currently working on the learning and teaching of software testing. As a passionate educator, I am also exploring how to produce <a href='https://www.youtube.com/@structuredcs'>high-quality video lectures</a> to enhance flipped classrooms and online learning.
 
