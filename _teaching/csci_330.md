@@ -33,6 +33,7 @@ Here are the tentative topics that will be covered in this course:
 |------|-------|--------|
 | Week 1 | Introduction to SQL | [Relational Databases for Beginners — Tables, Entities, Keys & SQL](https://youtu.be/p5W4cVlVKqQ) |
 | | | [SQL Filtering & Aggregation Made Easy (WHERE, GROUP BY, COUNT)](https://youtu.be/RyWW2L_JkMQ) |
+<!-- | | | [Master SQL Table Commands (CREATE, DROP, INSERT, DELETE, UPDATE, ALTER)](https://youtu.be/0P6L8DND9mc) | -->
 | | Overview of database design | |
 | Week 2 | Entities, attributes, and keys |  |
 | Week 3 | Relationships | |
