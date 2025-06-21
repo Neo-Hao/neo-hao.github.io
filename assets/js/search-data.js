@@ -36,7 +36,7 @@ ninja.data = [{
           section: "News",},{id: "news-grokking-relational-database-design-has-gone-to-print",
           title: 'Grokking Relational Database Design has gone to print! 🎉',
           description: "",
-          section: "News",},{id: "news-i-delivered-an-invited-talk-titled-engaging-student-with-interactive-computing-textbooks-at-allen-institute",
+          section: "News",},{id: "news-i-delivered-an-invited-talk-titled-engaging-student-with-interactive-computing-textbooks-at-the-open-science-in-undergraduate-education-symposium-organized-by-the-allen-institute",
           title: 'I delivered an invited talk titled Engaging student with interactive computing textbooks at...',
           description: "",
           section: "News",},{id: "projects-algorithm-analysis-deep-dive",
