@@ -35,12 +35,14 @@ Here are the tentative topics that will be covered in this course:
 | | | [SQL Filtering & Aggregation Made Easy (WHERE, GROUP BY, COUNT)](https://youtu.be/RyWW2L_JkMQ) |
 | | | [Master SQL Table Commands (CREATE, DROP, INSERT, DELETE, UPDATE, ALTER)](https://youtu.be/0P6L8DND9mc) |
 | | Querying related tables | [Foreign Keys in SQL](https://youtu.be/2y5-FCxPprU) |
-| | | [How SQL JOINs Actually Work](https://youtu.be/4fV73YNISck) |
+| | | [How SQL JOINs Actually Work (Not Just INNER, LEFT, RIGHT, or OUTER)](https://youtu.be/4fV73YNISck) |
 | | | [How to learn more SQL on your own](https://youtu.be/-C_qRP_GgJ0) |
-| Week 2 | Overview of database design | [5 Database Design Goals](https://youtu.be/oQ8ZSdCjW2g) |
-| | | [The Database Design Lifecycle](https://youtu.be/yGZrgtzMg24) |
-| | Entities, attributes, keys and data types | [How to Turn Real-World Ideas into Database Tables](https://youtu.be/KCXdUeL9uis) |
-| | | [How to Pick the Best Primary Key](https://youtu.be/2xiICTdpblk) |
+| Week 2 | Overview of database design | [5 Database Design Goals You Must Get Right](https://youtu.be/oQ8ZSdCjW2g) |
+| | | [The Database Design Lifecycle: Three Steps You Need to Know](https://youtu.be/yGZrgtzMg24) |
+| | Entities, attributes, and data types | [How to Turn Real-World Ideas into Database Tables (Entities and Attributes)](https://youtu.be/KCXdUeL9uis) |
+| | | [How to Pick the Best Primary Key - Primary Key, Candidate Key, and Super Key](https://youtu.be/2xiICTdpblk) |
+| | | [Don't Use the Wrong SQL String Type - CHAR vs VARCHAR vs TEXT Demystified](https://youtu.be/gYSkft85ckA) |
+| | | [The FLOAT Mistake That Crashed a Stock Exchange - INT vs DECIMAL vs FLOAT in SQL](https://youtu.be/aADY0-KQWSA) |
 | Week 3 | Relationships | |
 | Week 4/5 | Normalization and implementation | |
 | Week 5/6 | Security and optimization | |
