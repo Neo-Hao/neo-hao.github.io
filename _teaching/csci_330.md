@@ -47,7 +47,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [What are One-to-One Relationships in ER Diagrams?](https://youtu.be/-_Hd_GPQOhQ) |
 | | | [One-to-Many Relationships in Database Design Explained Simply](https://youtu.be/wio0Nzzs7ws) |
 | | | [How to Handle Many-to-Many Relationships in Database Design](https://youtu.be/E7bBB64dWR8) |
-| | | [When NOT to Use Weak Entities | Strong vs Weak Entity Explained](https://youtu.be/xidQ3qJTpdk) |
+| | | [When NOT to Use Weak Entities - Strong vs Weak Entity Explained](https://youtu.be/xidQ3qJTpdk) |
 | Week 4/5 | Normalization and implementation | |
 | Week 5/6 | Security and optimization | |
 
