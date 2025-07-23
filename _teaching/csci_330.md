@@ -48,8 +48,14 @@ Here are the tentative topics that will be covered in this course:
 | | | [One-to-Many Relationships in Database Design Explained Simply](https://youtu.be/wio0Nzzs7ws) |
 | | | [How to Handle Many-to-Many Relationships in Database Design](https://youtu.be/E7bBB64dWR8) |
 | | | [When NOT to Use Weak Entities - Strong vs Weak Entity Explained](https://youtu.be/xidQ3qJTpdk) |
-| Week 4/5 | Normalization and implementation | |
-| Week 5/6 | Security and optimization | |
+| Week 4/5 | Normalization and implementation | [What Every Normalized Table Must Have: Primary Keys and Atomic Values](https://youtu.be/TBl15NIWY7M) |
+| | | [Second Normal Form (2NF) Explained Simply](https://youtu.be/4clZ-n-gTc0) |
+| | | [Third Normal Form (3NF) Explained - How to Fix Transitive Dependencies](https://youtu.be/LXDYA6e4Scg) |
+| | | [Why 3NF Wasn't Good Enough — The Untold Story of BCNF](https://youtu.be/UbjkNeajzqw) |
+| | | [Primary Key vs Unique Constraints – What's the Real Difference?](https://youtu.be/jh3XCEnPMY8) |
+| | | [Foreign Key Constraint in SQL: A Beginner's Guide to ON DELETE & ON UPDATE](https://youtu.be/ZpQIwA47NRM) |
+| | | [Constraints You Must Know: NOT NULL, DEFAULT, and CHECK Explained](https://youtu.be/vkk1yjVb40w) |
+| Week 6 | Security and optimization | Synchronous Lectures (due to scheduling constraints) |
 
 <br>
 
