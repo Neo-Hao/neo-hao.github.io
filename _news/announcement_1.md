@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-17 15:59:00-0400
+date: 2025-08-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I delivered an invited talk titled [Engaging student with interactive computing textbooks](https://wwu2-my.sharepoint.com/:p:/g/personal/qiangh_wwu_edu/EWRSUuW8IV5Es1eH3CoeL6kBAIpQM524kYqH7fmjTaD6Gw) at the Open Science in Undergraduate Education Symposium organized by the Allen Institute.
+My teaching of an algorithm analysis course has been featured on FreeCodeCamp's YouTube channel. You can watch the video [here](https://www.youtube.com/watch?v=ku6HZ_k9qgY).
