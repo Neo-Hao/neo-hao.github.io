@@ -9,7 +9,7 @@ profile:
   image: hao-avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CF 457,</p>
+    <p>CF 487,</p>
     <p>516 High Street</p>
     <p>Bellingham, WA 98225</p>
 
