@@ -34,28 +34,7 @@ Here are the tentative topics that will be covered in this course:
 | Week 1 | Introduction to SQL | [Relational Databases for Beginners — Tables, Entities, Keys & SQL](https://youtu.be/p5W4cVlVKqQ) |
 | | | [SQL Filtering & Aggregation Made Easy](https://youtu.be/RyWW2L_JkMQ) |
 | | | [Master SQL Table Commands](https://youtu.be/0P6L8DND9mc) |
-<!-- | | Querying related tables | [Foreign Keys in SQL](https://youtu.be/2y5-FCxPprU) |
-| | | [How SQL JOINs Actually Work](https://youtu.be/4fV73YNISck) |
-| | | [How to learn more SQL on your own](https://youtu.be/-C_qRP_GgJ0) |
-| Week 2 | Overview of database design | [5 Database Design Goals You Must Get Right](https://youtu.be/oQ8ZSdCjW2g) |
-| | | [The Database Design Lifecycle: Three Steps You Need to Know](https://youtu.be/yGZrgtzMg24) |
-| | Entities, attributes, and data types | [How to Turn Real-World Ideas into Database Tables](https://youtu.be/KCXdUeL9uis) |
-| | | [How to Pick the Best Primary Key - Primary Key, Candidate Key, and Super Key](https://youtu.be/2xiICTdpblk) |
-| | | [Don't Use the Wrong SQL String Type](https://youtu.be/prj-JgZrTXw) |
-| | | [The FLOAT Mistake That Crashed a Stock Exchange](https://youtu.be/aADY0-KQWSA) |
-| Week 3 | Relationships | [How to Connect Entities in an ER Diagram](https://youtu.be/eEnz_UqfHco) |
-| | | [What are One-to-One Relationships in ER Diagrams?](https://youtu.be/-_Hd_GPQOhQ) |
-| | | [One-to-Many Relationships in Database Design Explained Simply](https://youtu.be/wio0Nzzs7ws) |
-| | | [How to Handle Many-to-Many Relationships in Database Design](https://youtu.be/E7bBB64dWR8) |
-| | | [When NOT to Use Weak Entities - Strong vs Weak Entity Explained](https://youtu.be/xidQ3qJTpdk) |
-| Week 4/5 | Normalization and implementation | [What Every Normalized Table Must Have: Primary Keys and Atomic Values](https://youtu.be/TBl15NIWY7M) |
-| | | [Second Normal Form (2NF) Explained Simply](https://youtu.be/4clZ-n-gTc0) |
-| | | [Third Normal Form (3NF) Explained - How to Fix Transitive Dependencies](https://youtu.be/LXDYA6e4Scg) |
-| | | [Why 3NF Wasn't Good Enough — The Untold Story of BCNF](https://youtu.be/UbjkNeajzqw) |
-| | | [Primary Key vs Unique Constraints – What's the Real Difference?](https://youtu.be/jh3XCEnPMY8) |
-| | | [Foreign Key Constraint in SQL: A Beginner's Guide to ON DELETE & ON UPDATE](https://youtu.be/ZpQIwA47NRM) |
-| | | [Constraints You Must Know: NOT NULL, DEFAULT, and CHECK Explained](https://youtu.be/vkk1yjVb40w) |
-| Week 6 | Security and optimization | Synchronous Lectures (due to scheduling constraints) | -->
+
 
 <br>
 

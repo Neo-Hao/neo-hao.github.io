@@ -38,25 +38,6 @@ Here are the tentative topics that will be covered in this course:
 | Week      | Topic                                  | Videos                                              |
 |-----------|----------------------------------------|-----------------------------------------------------|
 | Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/Ye6puk0LhwU)|
-| | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)|
-<!-- | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
-| Week 3 | Divide and conquer | [Recurrence Relations & Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) |
-| | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
-| Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) |   
-| | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) |    
-| Week 5/6  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) |       
-| | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) |
-| | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
-| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) |
-| Week 7 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | 
-| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) |
-| | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) |
-| Week 8 | Binary search trees | [Search Operation & Time Complexity Explained](https://youtu.be/NN8xJflPbaU) |
-| | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) |
-| | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) |
-| | | [Traversal](https://youtu.be/ZxxnhfjS-wY) |
-| Week 9 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) |      
-| | | [Accounting Method Explained with Examples](https://youtu.be/EI5fST7z27o) |
-| | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) |  -->
+| | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)| 
 
 <br>
