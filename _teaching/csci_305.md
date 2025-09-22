@@ -39,7 +39,7 @@ Here are the tentative topics that will be covered in this course:
 |-----------|----------------------------------------|-----------------------------------------------------|
 | Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/Ye6puk0LhwU)|
 | | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)|
-| Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
+<!-- | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |       
 | Week 3 | Divide and conquer | [Recurrence Relations & Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) |
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
 | Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) |   
@@ -57,6 +57,6 @@ Here are the tentative topics that will be covered in this course:
 | | | [Traversal](https://youtu.be/ZxxnhfjS-wY) |
 | Week 9 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) |      
 | | | [Accounting Method Explained with Examples](https://youtu.be/EI5fST7z27o) |
-| | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) | 
+| | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) |  -->
 
 <br>

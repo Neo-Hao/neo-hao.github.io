@@ -34,7 +34,7 @@ Here are the tentative topics that will be covered in this course:
 | Week 1 | Introduction to SQL | [Relational Databases for Beginners — Tables, Entities, Keys & SQL](https://youtu.be/p5W4cVlVKqQ) |
 | | | [SQL Filtering & Aggregation Made Easy](https://youtu.be/RyWW2L_JkMQ) |
 | | | [Master SQL Table Commands](https://youtu.be/0P6L8DND9mc) |
-| | Querying related tables | [Foreign Keys in SQL](https://youtu.be/2y5-FCxPprU) |
+<!-- | | Querying related tables | [Foreign Keys in SQL](https://youtu.be/2y5-FCxPprU) |
 | | | [How SQL JOINs Actually Work](https://youtu.be/4fV73YNISck) |
 | | | [How to learn more SQL on your own](https://youtu.be/-C_qRP_GgJ0) |
 | Week 2 | Overview of database design | [5 Database Design Goals You Must Get Right](https://youtu.be/oQ8ZSdCjW2g) |
@@ -55,7 +55,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [Primary Key vs Unique Constraints – What's the Real Difference?](https://youtu.be/jh3XCEnPMY8) |
 | | | [Foreign Key Constraint in SQL: A Beginner's Guide to ON DELETE & ON UPDATE](https://youtu.be/ZpQIwA47NRM) |
 | | | [Constraints You Must Know: NOT NULL, DEFAULT, and CHECK Explained](https://youtu.be/vkk1yjVb40w) |
-| Week 6 | Security and optimization | Synchronous Lectures (due to scheduling constraints) |
+| Week 6 | Security and optimization | Synchronous Lectures (due to scheduling constraints) | -->
 
 <br>
 
