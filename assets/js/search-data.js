@@ -30,10 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-my-paper-towards-integrating-behavior-driven-development-in-mobile-development-an-experience-report-is-accessible-online-now",
-          title: 'My paper Towards Integrating Behavior-Driven Development in Mobile Development: An Experience Report is...',
-          description: "",
-          section: "News",},{id: "news-grokking-relational-database-design-has-gone-to-print",
+        },{id: "news-grokking-relational-database-design-has-gone-to-print",
           title: 'Grokking Relational Database Design has gone to print! 🎉',
           description: "",
           section: "News",},{id: "news-i-delivered-an-invited-talk-titled-engaging-student-with-interactive-computing-textbooks-at-the-open-science-in-undergraduate-education-symposium-organized-by-the-allen-institute",
@@ -41,6 +38,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-teaching-of-an-algorithm-analysis-course-has-been-featured-on-freecodecamp-s-youtube-channel-you-can-watch-the-video-here",
           title: 'My teaching of an algorithm analysis course has been featured on FreeCodeCamp’s YouTube...',
+          description: "",
+          section: "News",},{id: "news-a-paper-that-i-contributed-to-teachers-as-learners-teachers-as-teachers-culturally-relevant-computational-thinking-professional-development-for-k-12-in-service-teachers-is-accepted-by-sigcse-2025",
+          title: 'A paper that I contributed to (Teachers as Learners, Teachers as Teachers: Culturally...',
           description: "",
           section: "News",},{id: "projects-algorithm-analysis-deep-dive",
           title: 'Algorithm Analysis Deep Dive',
