@@ -39,5 +39,6 @@ Here are the tentative topics that will be covered in this course:
 |-----------|----------------------------------------|-----------------------------------------------------|
 | Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/Ye6puk0LhwU)|
 | | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)| 
+| Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) |
 
 <br>

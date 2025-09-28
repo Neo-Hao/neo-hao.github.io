@@ -34,7 +34,9 @@ Here are the tentative topics that will be covered in this course:
 | Week 1 | Introduction to SQL | [Relational Databases for Beginners — Tables, Entities, Keys & SQL](https://youtu.be/p5W4cVlVKqQ) |
 | | | [SQL Filtering & Aggregation Made Easy](https://youtu.be/RyWW2L_JkMQ) |
 | | | [Master SQL Table Commands](https://youtu.be/0P6L8DND9mc) |
-
+| Week 2 | Querying related tables | [Foreign Keys in SQL](https://youtu.be/2y5-FCxPprU) |
+| | | [How SQL JOINs Actually Work](https://youtu.be/4fV73YNISck) |
+| | | [How to learn more SQL on your own](https://youtu.be/-C_qRP_GgJ0) |
 
 <br>
 
