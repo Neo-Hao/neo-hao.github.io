@@ -37,6 +37,9 @@ Here are the tentative topics that will be covered in this course:
 | Week 2 | Querying related tables | [Foreign Keys in SQL](https://youtu.be/2y5-FCxPprU) |
 | | | [How SQL JOINs Actually Work](https://youtu.be/4fV73YNISck) |
 | | | [How to learn more SQL on your own](https://youtu.be/-C_qRP_GgJ0) |
+| Week 3 | Overview of database design | [5 Database Design Goals You Must Get Right](https://youtu.be/oQ8ZSdCjW2g) |
+| | | [The Database Design Lifecycle: Three Steps You Need to Know](https://youtu.be/yGZrgtzMg24) |
+| | Entities, attributes, and data types | [How to Turn Real-World Ideas into Database Tables](https://youtu.be/KCXdUeL9uis) |
 
 <br>
 
