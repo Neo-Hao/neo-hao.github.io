@@ -43,7 +43,7 @@ Here are the tentative topics that will be covered in this course:
 | Week 4 | Entities, attributes, and data types | [How to Pick the Best Primary Key - Primary Key, Candidate Key, and Super Key](https://youtu.be/2xiICTdpblk) |
 | | | [Don't Use the Wrong SQL String Type](https://youtu.be/prj-JgZrTXw) |
 | | | [The FLOAT Mistake That Crashed a Stock Exchange](https://youtu.be/aADY0-KQWSA) |
-
+| | | [SQL Date and Time Types Explained](https://youtu.be/yTZoDGACZHs) |
 <br>
 
 The lecture videos will be released as the course progresses. 
