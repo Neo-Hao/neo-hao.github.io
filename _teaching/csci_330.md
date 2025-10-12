@@ -44,6 +44,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [Don't Use the Wrong SQL String Type](https://youtu.be/prj-JgZrTXw) |
 | | | [The FLOAT Mistake That Crashed a Stock Exchange](https://youtu.be/aADY0-KQWSA) |
 | | | [SQL Date and Time Types Explained](https://youtu.be/yTZoDGACZHs) |
+
 <br>
 
 The lecture videos will be released as the course progresses. 

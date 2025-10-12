@@ -44,4 +44,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)|
 | Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) |   
 | | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) |    
+
 <br>
+
+The lecture videos will be released as the course progresses. 
