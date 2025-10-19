@@ -44,6 +44,10 @@ Here are the tentative topics that will be covered in this course:
 | | | [Don't Use the Wrong SQL String Type](https://youtu.be/prj-JgZrTXw) |
 | | | [The FLOAT Mistake That Crashed a Stock Exchange](https://youtu.be/aADY0-KQWSA) |
 | | | [SQL Date and Time Types Explained](https://youtu.be/yTZoDGACZHs) |
+| Week 5 | Relationships | [How to Connect Entities in an ER Diagram](https://youtu.be/eEnz_UqfHco) |
+| | | [What are One-to-One Relationships in ER Diagrams?](https://youtu.be/-_Hd_GPQOhQ) |
+| | | [One-to-Many Relationships in Database Design Explained Simply](https://youtu.be/wio0Nzzs7ws) |
+
 
 <br>
 
