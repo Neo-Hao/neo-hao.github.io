@@ -46,7 +46,8 @@ Here are the tentative topics that will be covered in this course:
 | | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) |    
 | Week 5/6 | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) | 
 | | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) |
-
+| | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
+| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) |
 
 <br>
 
