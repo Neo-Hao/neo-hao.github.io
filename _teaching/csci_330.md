@@ -49,7 +49,7 @@ Here are the tentative topics that will be covered in this course:
 | | | [One-to-Many Relationships in Database Design Explained Simply](https://youtu.be/wio0Nzzs7ws) |
 | | | [How to Handle Many-to-Many Relationships in Database Design](https://youtu.be/E7bBB64dWR8) |
 | | | [When NOT to Use Weak Entities - Strong vs Weak Entity Explained](https://youtu.be/xidQ3qJTpdk) |
-
+| | Normalization | [What Every Normalized Table Must Have: Primary Keys and Atomic Values](https://youtu.be/TBl15NIWY7M) |
 
 <br>
 
