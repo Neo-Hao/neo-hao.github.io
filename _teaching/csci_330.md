@@ -50,6 +50,9 @@ Here are the tentative topics that will be covered in this course:
 | | | [How to Handle Many-to-Many Relationships in Database Design](https://youtu.be/E7bBB64dWR8) |
 | | | [When NOT to Use Weak Entities - Strong vs Weak Entity Explained](https://youtu.be/xidQ3qJTpdk) |
 | | Normalization | [What Every Normalized Table Must Have: Primary Keys and Atomic Values](https://youtu.be/TBl15NIWY7M) |
+| Week 7 | | [Second Normal Form (2NF) Explained Simply](https://youtu.be/4clZ-n-gTc0) |
+| | | [Third Normal Form (3NF) Explained - How to Fix Transitive Dependencies](https://youtu.be/LXDYA6e4Scg) |
+| | | [Why 3NF Wasn't Good Enough — The Untold Story of BCNF](https://youtu.be/rAu91apIU5M) |
 
 <br>
 

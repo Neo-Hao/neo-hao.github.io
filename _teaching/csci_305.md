@@ -48,6 +48,9 @@ Here are the tentative topics that will be covered in this course:
 | | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) |
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) |
 | | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) |
+| Week 7 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | 
+| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) |
+| | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) |
 
 <br>
 
