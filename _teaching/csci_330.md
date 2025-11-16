@@ -53,6 +53,12 @@ Here are the tentative topics that will be covered in this course:
 | Week 7 | | [Second Normal Form (2NF) Explained Simply](https://youtu.be/4clZ-n-gTc0) |
 | | | [Third Normal Form (3NF) Explained - How to Fix Transitive Dependencies](https://youtu.be/LXDYA6e4Scg) |
 | | | [Why 3NF Wasn't Good Enough — The Untold Story of BCNF](https://youtu.be/rAu91apIU5M) |
+| Week 8 | Constraints | [Primary Key vs Unique Constraints – What's the Real Difference?](https://youtu.be/jh3XCEnPMY8) |
+| | | [Foreign Key Constraint in SQL: A Beginner's Guide to ON DELETE & ON UPDATE](https://youtu.be/ZpQIwA47NRM) |
+| | | [Other Constraints You Must Know: NOT NULL, DEFAULT, and CHECK Explained](https://youtu.be/vkk1yjVb40w) |
+| Week 9 | Security and Optimization | [Access Control, Hashing & Encryption for Developers](https://youtu.be/ioW_2FOcvL0) |
+| | | [B-Tree vs Full-Text Index with Real Examples](https://youtu.be/_pKudLsENYg) |
+| | | [Understanding Denormalization in Database Design](https://youtu.be/NPGEDDr5MUo) |
 
 <br>
 
