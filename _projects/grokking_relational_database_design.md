@@ -31,8 +31,8 @@ Michale and I have both taught database design to students and professionals for
     </div>
 </div>
 
-In the past two years, we have been working on this book. We have been writing, revising, and sometimes rewriting everything. We have been working with a talented illustrator, Cody Pham, who has helped us create a visual language that makes the concepts easier to understand. We have also been working with a team of editors and reviewers at Manning Pulbications to make sure that the content is accurate and clear.
+We spent two years writing, revising, and sometimes rewriting this book. We worked with a talented illustrator, Cody Pham, who helped us create a visual language that makes the concepts easier to understand. We also worked with a team of editors and reviewers at Manning Publications to make sure that the content is accurate and clear.
 
-If you are interested in learning more about the book, you can find it on the [Manning Publications website](https://mng.bz/PRER). You can also find a free sample chapter there. The book is available on Manning now and will be available on [Amazon](https://www.amazon.com/Grokking-Relational-Database-Design-Qiang/dp/1633437418) towards the end of April 2025. 
+If you are interested in learning more about the book, you can find it on the [Manning Publications website](https://mng.bz/PRER). You can also find a free sample chapter there. The book is available on Manning and [Amazon](https://www.amazon.com/Grokking-Relational-Database-Design-Qiang/dp/1633437418).
 
-I am currently working on producing a series of videos to accompany the book. [The videos will be available on the Manning website and on YouTube soon](https://www.youtube.com/@structuredcs).
+A series of companion videos for the book has been released and is available on Manning and [YouTube](https://www.youtube.com/@structuredcs).
