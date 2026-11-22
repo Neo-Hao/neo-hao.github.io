@@ -2,3 +2,5 @@ linkedin.com
 reddit.com
 # ACM blocks automated link checks.
 ^https://dl\.acm\.org/journal/toce/?$
+# Amazon intermittently blocks automated requests to this product page.
+^https://www\.amazon\.com/Grokking-Relational-Database-Design-Qiang/dp/1633437418/?$
