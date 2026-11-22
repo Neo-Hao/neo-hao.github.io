@@ -1,2 +1,4 @@
 linkedin.com
 reddit.com
+# ACM blocks automated link checks.
+^https://dl\.acm\.org/journal/toce/?$
